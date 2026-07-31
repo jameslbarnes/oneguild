@@ -476,6 +476,17 @@
   </div>
 </section>
 
+<!-- ================= VALUES ================= -->
+<section class="values-sec" id="values">
+  <div class="wrap">
+    <ul class="values" data-reveal>
+      <li><h3>Presence</h3><p>The aim &mdash; attention, returned to the moment.</p></li>
+      <li><h3>Trust</h3><p>The way everything arrives &mdash; people and capital, through relationship.</p></li>
+      <li><h3>Connection</h3><p>What presence unlocks between people.</p></li>
+    </ul>
+  </div>
+</section>
+
 <!-- ================= ALIGNMENT ================= -->
 <section class="alignment-sec" id="alignment">
   <span data-station></span>
@@ -2707,6 +2718,21 @@ body { overflow-x: clip; }
   .raise-num { font-size: 64px; }
   .plate { max-width: 320px; }
   .figcap { margin-top: 12px; }
+}
+.values-sec { padding: 0; }
+.values {
+  list-style: none; margin: 0; padding: 40px 0;
+  border-top: 1px solid var(--hair); border-bottom: 1px solid var(--hair);
+  display: grid; grid-template-columns: repeat(3, 1fr);
+}
+.values li { text-align: center; padding: 10px 24px; }
+.values li + li { border-left: 1px solid var(--hair); }
+.values h3 { font-size: clamp(24px, 2.6vw, 32px); }
+.values p { margin: 8px auto 0; font-size: 13px; color: var(--muted); line-height: 1.5; max-width: 26ch; }
+@media (max-width: 640px) {
+  .values { grid-template-columns: 1fr; padding: 6px 0; }
+  .values li { padding: 22px 12px; }
+  .values li + li { border-left: 0; border-top: 1px solid var(--hair); }
 }
 .news-head { flex-direction: row; align-items: flex-end; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; }
 .news-head-copy { display: flex; flex-direction: column; gap: 14px; }
