@@ -432,6 +432,7 @@
   <a href="#alignment">How It Works</a>
   <a href="#people">People</a>
   <a href="#projects">Projects</a>
+  <a href="#news">News</a>
   <a href="#studio">The Guild</a>
   <a href="#sectors">Sectors</a>
   <a href="#raise">Raise</a>
@@ -575,6 +576,33 @@
 
 
 
+
+<!-- ================= NEWS ================= -->
+<section class="news-sec" id="news">
+  <span data-station></span>
+  <div class="wrap">
+    <div class="sec-head news-head">
+      <div class="news-head-copy">
+        <div class="eyebrow" data-reveal>News Updates</div>
+        <h2 data-reveal>Dispatches.</h2>
+      </div>
+      <div class="fw-arrows news-arrows" data-reveal>
+        <button id="news-prev" aria-label="Earlier updates">←</button>
+        <button id="news-next" aria-label="Later updates">→</button>
+      </div>
+    </div>
+  </div>
+  <div class="news-viewport" id="news-viewport" tabindex="0" aria-label="News updates carousel">
+    <div class="news-track" data-reveal>
+      <article class="news-card"><span class="n-date">March 2027</span><h3>IFS founder Dick Schwartz joins House of Blue Lotus for a two-day intensive</h3></article>
+      <article class="news-card"><span class="n-date">July 2026</span><h3>ETHEREA Spatial Imagination Engine deployed at Nouriel Roubini&rsquo;s East Village penthouse</h3></article>
+      <article class="news-card"><span class="n-date">July 2026</span><h3>Flashbots and Cornell Tech complete the Shape Rotator accelerator at The Old School</h3></article>
+      <article class="news-card"><span class="n-date">June 2026</span><h3>Mendeleyev and Snow Raven complete the inaugural Sound Temple performances at The Old School</h3></article>
+      <article class="news-card"><span class="n-date">May 2026</span><h3>Teleport Computer receives a grant from UK ARIA&rsquo;s Scaling Trust programme</h3></article>
+      <article class="news-card"><span class="n-date">December 2025</span><h3>Meridial receives a grant from the UK&rsquo;s Advanced Research and Invention Agency</h3></article>
+    </div>
+  </div>
+</section>
 
 <div class="plate-block">
   <figure class="plate" data-station="plate">
@@ -2680,6 +2708,31 @@ body { overflow-x: clip; }
   .plate { max-width: 320px; }
   .figcap { margin-top: 12px; }
 }
+.news-head { flex-direction: row; align-items: flex-end; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; }
+.news-head-copy { display: flex; flex-direction: column; gap: 14px; }
+.news-viewport {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding: 0 max(28px, calc((100vw - 1040px) / 2 + 28px));
+  scroll-padding-left: max(28px, calc((100vw - 1040px) / 2 + 28px));
+}
+.news-viewport::-webkit-scrollbar { display: none; }
+.news-track { display: inline-flex; gap: 1px; background: var(--hair); border: 1px solid var(--hair); }
+.news-card {
+  flex: 0 0 auto;
+  width: min(340px, 80vw);
+  scroll-snap-align: start;
+  background: var(--paper);
+  padding: 30px 28px 34px;
+}
+.news-card .n-date { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); }
+.news-card h3 { margin-top: 14px; font-size: 20px; line-height: 1.4; text-wrap: pretty; }
+@media (max-width: 640px) {
+  .news-viewport { padding: 0 20px; scroll-padding-left: 20px; }
+  .news-card { padding: 24px 22px 28px; }
+}
 .grad-live{
   font-weight:600;
   background-image:linear-gradient(100deg,#0E7C6B 0%,#6D28D9 26%,#C89B3C 46%,var(--ink) 60%,var(--ink) 100%);
@@ -2695,6 +2748,17 @@ body { overflow-x: clip; }
 }
 </style>
 <script>
+(function(){
+  var vp=document.getElementById('news-viewport');
+  if(!vp)return;
+  function step(dir){
+    var card=vp.querySelector('.news-card');
+    var w=card?card.getBoundingClientRect().width+1:341;
+    vp.scrollBy({left:dir*w,behavior:'smooth'});
+  }
+  document.getElementById('news-prev').addEventListener('click',function(){step(-1);});
+  document.getElementById('news-next').addEventListener('click',function(){step(1);});
+})();
 (function(){
   var el=document.querySelector('.grad-live');
   if(!el)return;
