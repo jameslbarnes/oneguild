@@ -439,6 +439,8 @@
 </nav>
 
 <!-- ================= HERO ================= -->
+<div class="sw-band" id="film-school"></div>
+
 <div class="hero" id="top">
   <div class="wrap hero-grid">
     <div class="hero-copy">
@@ -456,8 +458,6 @@
     </div>
   </div>
 </div>
-
-<div class="sw-band" id="film-school"></div>
 
 <!-- ================= THE CALL ================= -->
 <section id="call">
@@ -2877,6 +2877,8 @@ a.news-card { display: block; color: inherit; text-decoration: none; }
   --sw-accent: #C89B3C;
 }
 .sw-band { position: relative; }
+/* No drifting particles or gradient atmosphere inside bands — the film is the atmosphere. */
+.sw-band .sw-particles, .sw-band .sw-sky__grad, .sw-band .sw-sky__glow { display: none !important; }
 /* Keep band title cards clear of the page's fixed left nav (visible above 1220px). */
 @media (min-width: 1221px) {
   .sw-band .sw-copy { left: clamp(180px, 13vw, 220px); }
@@ -2898,32 +2900,32 @@ a.news-card { display: block; color: inherit; text-decoration: none; }
 <script src="scrub-engine.js"></script>
 <script>
   mountScrollWorld(document.getElementById('film-school'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-school', label: 'A present future.', still: 'assets/poster_1.jpg', clip: 'assets/vid/leg_1.mp4', accent: '#C89B3C', scroll: 1.7, linger: 0.35, eyebrow: 'ONE · Brooklyn, NY', title: 'A present future.', body: '', tags: [] } ],
     connectors: [],
   });
   mountScrollWorld(document.getElementById('film-temple'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-temple', label: 'Humans are the least present we have ever been.', still: 'assets/poster_2.jpg', clip: 'assets/vid/leg_2.mp4', accent: '#B96A2B', scroll: 1.6, linger: 0.4, eyebrow: 'The Call', title: 'Humans are the least present we have ever been.', body: '', tags: [] } ],
     connectors: [],
   });
   mountScrollWorld(document.getElementById('film-studio'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-studio', label: 'Alignment is the alpha.', still: 'assets/poster_3.jpg', clip: 'assets/vid/leg_3.mp4', accent: '#2E6E66', scroll: 1.5, linger: 0.35, eyebrow: 'How it works', title: 'Alignment is the alpha.', body: '', tags: [] } ],
     connectors: [],
   });
   mountScrollWorld(document.getElementById('film-guild'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-guild', label: 'All crew.', still: 'assets/poster_4.jpg', clip: 'assets/vid/leg_4.mp4', accent: '#C89B3C', scroll: 1.5, linger: 0.35, eyebrow: 'The Constellation', title: 'All crew.', body: '', tags: [] } ],
     connectors: [],
   });
   mountScrollWorld(document.getElementById('film-work'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-work', label: 'What we’re working on together.', still: 'assets/poster_5.jpg', clip: 'assets/vid/leg_5.mp4', accent: '#C89B3C', scroll: 1.5, linger: 0.35, eyebrow: 'Projects & Instruments', title: 'What we’re working on together.', body: '', tags: [] } ],
     connectors: [],
   });
   mountScrollWorld(document.getElementById('film-future'), {
-    inline: true, diveScroll: 1.5, crossfade: 0.08,
+    inline: true, atmosphere: false, diveScroll: 1.5, crossfade: 0.08,
     sections: [ { id: 'film-future', label: 'We are building a present future.', still: 'assets/poster_6.jpg', clip: 'assets/vid/leg_6.mp4', accent: '#C89B3C', scroll: 1.8, linger: 0.45, eyebrow: 'The Far Future', title: 'We are building a present future.', body: 'Devoted to the craft of bringing humanity into presence.', tags: [], cta: { primary: { label: 'The First Raise', href: '#raise' } } } ],
     connectors: [],
   });
