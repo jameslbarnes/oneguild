@@ -150,7 +150,7 @@ function mountScrollWorld(container, config) {
   // segment scenes
   SEGMENTS.forEach(s => {
     const scene = el('div', 'sw-scene'); scene.style.setProperty('--sw-accent', s.accent || '');
-    const img = el('img', 'sw-scene__still'); img.alt = ''; img.decoding = 'async'; img.loading = 'lazy';
+    const img = el('img', 'sw-scene__still'); img.alt = ''; img.decoding = 'async'; img.loading = inline ? 'eager' : 'lazy';
     const poster = (isMobile() && s.stillM) ? s.stillM : s.still;
     if (poster) img.src = poster;
     scene.appendChild(img); stage.appendChild(scene);
@@ -251,7 +251,11 @@ function mountScrollWorld(container, config) {
       s.target = s.linger ? lingerEase(local, s.linger) : local;
       let outside = 0;
       if (y < s.start) outside = s.start - y; else if (y > s.end) outside = y - s.end;
-      const op = smooth(1 - outside / fade);
+      let op = smooth(1 - outside / fade);
+      // Inline single-scene band: the film holds the frame for the entire band
+      // (there is no next scene to crossfade into, so fading out would expose
+      // a blank frame). The poster/clip is simply always visible.
+      if (inline && NSEG === 1) op = 1;
       s.el.style.opacity = op; s.visible = op > 0.001;
       s.el.style.zIndex = (i === ci) ? '120' : String(100 + Math.round(op * 10));
       if (!s.hasClip || !s.ready) {
@@ -341,6 +345,10 @@ function mountScrollWorld(container, config) {
   window.addEventListener('orientationchange', layout);
   window.addEventListener('load', layout);
   layout();
+  // Inline bands eager-load their clip up front: a cinematic page should never
+  // show a loading state. The still poster is the clip's exact first frame, so
+  // it covers the fetch window invisibly and the video swap is seamless.
+  if (inline && !reduce) SEGMENTS.forEach(loadClip);
   requestAnimationFrame(raf);
 
   // ---- helpers ----
