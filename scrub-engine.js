@@ -252,10 +252,13 @@ function mountScrollWorld(container, config) {
       let outside = 0;
       if (y < s.start) outside = s.start - y; else if (y > s.end) outside = y - s.end;
       let op = smooth(1 - outside / fade);
-      // Inline single-scene band: the film holds the frame for the entire band
-      // (there is no next scene to crossfade into, so fading out would expose
-      // a blank frame). The poster/clip is simply always visible.
-      if (inline && NSEG === 1) op = 1;
+      // Inline bands: the film may never expose blank frame. The first scene
+      // holds before its segment begins and the last scene holds after its
+      // segment ends (interior seams still crossfade normally).
+      if (inline) {
+        if (i === 0 && y < s.start) op = 1;
+        if (i === NSEG - 1 && y > s.end) op = 1;
+      }
       s.el.style.opacity = op; s.visible = op > 0.001;
       s.el.style.zIndex = (i === ci) ? '120' : String(100 + Math.round(op * 10));
       if (!s.hasClip || !s.ready) {
