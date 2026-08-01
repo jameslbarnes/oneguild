@@ -150,10 +150,7 @@ function mountScrollWorld(container, config) {
   // segment scenes
   SEGMENTS.forEach(s => {
     const scene = el('div', 'sw-scene'); scene.style.setProperty('--sw-accent', s.accent || '');
-    // Posters load EAGERLY: the still is the scene's first frame and must be on
-    // screen before the (much heavier) clip arrives — lazy-loading it means the
-    // band can scroll into view showing neither poster nor video.
-    const img = el('img', 'sw-scene__still'); img.alt = ''; img.decoding = 'async';
+    const img = el('img', 'sw-scene__still'); img.alt = ''; img.decoding = 'async'; img.loading = 'lazy';
     const poster = (isMobile() && s.stillM) ? s.stillM : s.still;
     if (poster) img.src = poster;
     scene.appendChild(img); stage.appendChild(scene);
@@ -249,7 +246,7 @@ function mountScrollWorld(container, config) {
 
     for (let i = 0; i < NSEG; i++) {
       const s = SEGMENTS[i];
-      if (y > s.start - 4 * vh && y < s.end + 1.6 * vh) loadClip(s);
+      if (y > s.start - 1.6 * vh && y < s.end + 1.6 * vh) loadClip(s);
       const local = clamp((y - s.start) / (s.end - s.start), 0, 1);
       s.target = s.linger ? lingerEase(local, s.linger) : local;
       let outside = 0;
@@ -343,19 +340,6 @@ function mountScrollWorld(container, config) {
   window.addEventListener('resize', onResize);
   window.addEventListener('orientationchange', layout);
   window.addEventListener('load', layout);
-  // Background prefetch: once the page has loaded and the network is idle-ish,
-  // pull the remaining clips in order so scrolling never outruns the downloads.
-  // Sequential (not parallel) to avoid contending with anything else.
-  if (!reduce) window.addEventListener('load', () => {
-    setTimeout(function prefetchNext() {
-      const pending = SEGMENTS.find(s => s.clip && !s.loading);
-      if (!pending) return;
-      loadClip(pending);
-      const poll = setInterval(() => {
-        if (pending.ready || !pending.loading) { clearInterval(poll); setTimeout(prefetchNext, 250); }
-      }, 300);
-    }, 1200);
-  }, { once: true });
   layout();
   requestAnimationFrame(raf);
 
