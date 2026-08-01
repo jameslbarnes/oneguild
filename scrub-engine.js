@@ -133,7 +133,19 @@ function mountScrollWorld(container, config) {
   hint.appendChild(el('i'));
   const track = el('div', 'sw-track');
 
-  [sky, scrollbar, topbar, stage, copylayer, route, hint, track].forEach(n => container.appendChild(n));
+  // Inline mode (config.inline): a chrome-less band woven into a longer host page.
+  // The flight lives in a sticky, viewport-height frame inside the container, so
+  // every coordinate is band-relative and no fixed chrome (nav, scrollbar, route,
+  // hint, sky) ever escapes onto the host page. Those nodes are still created —
+  // read() keeps writing to them — but stay detached from the DOM.
+  const inline = !!config.inline;
+  const frame = inline ? el('div', 'sw-frame') : null;
+  if (inline) {
+    [sky, stage, copylayer].forEach(n => frame.appendChild(n));
+    [frame, track].forEach(n => container.appendChild(n));
+  } else {
+    [sky, scrollbar, topbar, stage, copylayer, route, hint, track].forEach(n => container.appendChild(n));
+  }
 
   // segment scenes
   SEGMENTS.forEach(s => {
@@ -178,6 +190,7 @@ function mountScrollWorld(container, config) {
   const lingerEase = (x, L) => { L = clamp(L); const c = x - 0.5; return (1 - L) * x + L * (4 * c * c * c + 0.5); };
   let vh = window.innerHeight, stageX = 0, totalW = 0, activeIndex = -1, ticking = false;
   let laidOutW = window.innerWidth;   // width the current layout was computed at (see onResize)
+  let bandTop = 0;                    // inline mode: container's document-space top
 
   function layout() {
     vh = window.innerHeight;
@@ -186,13 +199,19 @@ function mountScrollWorld(container, config) {
     let off = 0;
     SEGMENTS.forEach(s => { s.start = off * vh; off += s.w; s.end = off * vh; });
     totalW = off;
-    track.style.height = (totalW * vh + vh) + 'px';   // +1vh so the last flight completes
+    if (inline) {
+      frame.style.height = vh + 'px';
+      track.style.height = (totalW * vh) + 'px';   // the sticky frame supplies the final vh
+      bandTop = container.getBoundingClientRect().top + (window.scrollY || window.pageYOffset);
+    } else {
+      track.style.height = (totalW * vh + vh) + 'px';   // +1vh so the last flight completes
+    }
     read();
   }
 
   function jumpTo(i) {
     const seg = SECTIONS[i]._seg;
-    window.scrollTo({ top: seg.start + (seg.end - seg.start) * 0.5, behavior: reduce ? 'auto' : 'smooth' });
+    window.scrollTo({ top: bandTop + seg.start + (seg.end - seg.start) * 0.5, behavior: reduce ? 'auto' : 'smooth' });
   }
 
   function loadClip(s) {
@@ -220,7 +239,7 @@ function mountScrollWorld(container, config) {
   }
 
   function read() {
-    const y = window.scrollY || window.pageYOffset;
+    const y = (window.scrollY || window.pageYOffset) - bandTop;   // bandTop = 0 unless inline
     const fade = CROSSFADE * vh;
     let ci = 0;
     for (let i = 0; i < NSEG; i++) if (y >= SEGMENTS[i].start) ci = i;
@@ -410,6 +429,8 @@ function injectCSS() {
   .sw-hint i::after{content:"";position:absolute;left:50%;top:7px;width:4px;height:7px;border-radius:2px;background:var(--sw-accent);transform:translateX(-50%);animation:sw-wheel 1.7s ease-in-out infinite;}
   @keyframes sw-wheel{0%{opacity:0;top:6px}40%{opacity:1}100%{opacity:0;top:17px}}
   .sw-track{position:relative;z-index:1;width:100%;pointer-events:none;}
+  .sw-frame{position:sticky;top:0;overflow:hidden;z-index:1;}
+  .sw-frame .sw-sky,.sw-frame .sw-stage,.sw-frame .sw-copylayer{position:absolute;}
   @media (max-width:860px){
     .sw-nav{display:none;}
     .sw-copylayer::before{width:100%;height:60%;top:auto;bottom:0;background:linear-gradient(0deg,var(--sw-bg) 8%,color-mix(in srgb,var(--sw-bg) 70%,transparent) 46%,transparent 100%);}
