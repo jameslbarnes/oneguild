@@ -87,7 +87,7 @@ function mountScrollWorld(container, config) {
   const SEGMENTS = [];
   SECTIONS.forEach((s, i) => {
     const dive = { kind: 'dive', si: i, clip: s.clip, clipM: s.clipMobile, still: s.still, stillM: s.stillMobile,
-                   accent: s.accent, w: s.scroll || DIVE_W, linger: s.linger || 0 };
+                   accent: s.accent, w: s.scroll || DIVE_W, linger: s.linger || 0, hold: s.hold || null };
     SEGMENTS.push(dive);
     s._seg = dive;
     // A connector is optional: if connectors[i] is falsy, the two dives simply
@@ -248,7 +248,16 @@ function mountScrollWorld(container, config) {
       const s = SEGMENTS[i];
       if (y > s.start - 1.6 * vh && y < s.end + 1.6 * vh) loadClip(s);
       const local = clamp((y - s.start) / (s.end - s.start), 0, 1);
-      s.target = s.linger ? lingerEase(local, s.linger) : local;
+      var lt = local;
+      /* hold window [a,b]: film time freezes at a while scroll crosses a..b,
+         then catches up smoothly — lets an overlay animate while the camera
+         waits. f(0)=0, f(1)=1, monotonic, seams untouched. */
+      if (s.hold) {
+        lt = (lt <= s.hold[0]) ? lt
+          : (lt <= s.hold[1] ? s.hold[0]
+          : s.hold[0] + (lt - s.hold[1]) * (1 - s.hold[0]) / (1 - s.hold[1]));
+      }
+      s.target = s.linger ? lingerEase(lt, s.linger) : lt;
       let outside = 0;
       if (y < s.start) outside = s.start - y; else if (y > s.end) outside = y - s.end;
       let op = smooth(1 - outside / fade);
