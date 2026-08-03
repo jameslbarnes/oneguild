@@ -239,6 +239,13 @@ function mountScrollWorld(container, config) {
   }
 
   function read() {
+    // Inline bands: re-measure the band's document-space top on every tick.
+    // Host pages reflow after layout() runs (late fonts/images, tail-correction
+    // scripts adjusting margins), and a cached top computed before those shifts
+    // maps scroll to the wrong scene. rect.top is scroll-invariant, so this is
+    // exact at any scroll position and equals the cached value when the page
+    // geometry is stable.
+    if (inline) bandTop = container.getBoundingClientRect().top + (window.scrollY || window.pageYOffset);
     const y = (window.scrollY || window.pageYOffset) - bandTop;   // bandTop = 0 unless inline
     const fade = CROSSFADE * vh;
     let ci = 0;
