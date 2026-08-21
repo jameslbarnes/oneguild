@@ -57,29 +57,37 @@ Managing Partners, ✌🏻One Guild
 
 ## [[Thesis|Our Thesis]]
 
-> [[Presence]]
-> [[Connection]]
-> [[Trust]]
+> - [[Presence]]
+> - [[Connection]]
+> - [[Trust]]
 > — from [[Thesis]]
 
 ## Our Flywheel
 
-1. [[School]] ($400k ARR; 18 month goal: $1mm ARR)
+1. [[School]]
+
+   now:: $400k ARR · 18 month goal:: $1mm ARR
 
    > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
 > — from [[School]]
 
-2. [[Membership]] (10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $500k ARR in membership fees)
+2. [[Membership]]
+
+   now:: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
 
    > Guild members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
 > — from [[Membership]]
 
-3. [[Studio]] (18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR)
+3. [[Studio]]
+
+   18 month goal:: EIR’s for 4 majority owned companies totaling > $2mm ARR
 
    > As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
 > — from [[Studio]]
 
-4. [[Cooperative]] (18 month goal: 10 companies totaling > $5mm ARR)
+4. [[Cooperative]]
+
+   18 month goal:: 10 companies totaling > $5mm ARR
 
    > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
 > — from [[Cooperative]]
@@ -90,14 +98,19 @@ Managing Partners, ✌🏻One Guild
 > UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
 > — from [[UnLimited Partners]]
 
-6. [[Scout Fund]] (Launches year 2)
+6. [[Scout Fund]]
+
+   launch:: Launches year 2
 
    > A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
 > — from [[Scout Fund]]
 
-7. [[Mystical Network State]] (18 month goal: 2 new nodes online)
+7. [[Mystical Network State]]
 
-   > # Mystical Network State (18 month goal: 2 new nodes online):
+   18 month goal:: 2 new nodes online
+
+   > 18 month goal:: 2 new nodes online
+> by:: March 31, 2028
 > Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 > — from [[Mystical Network State]]
 
@@ -203,7 +216,11 @@ milestones:
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
-# School ($400k ARR; 18 month goal: $1mm ARR)
+# School
+
+now:: $400k ARR
+18 month goal:: $1mm ARR
+by:: March 31, 2028
 
 It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan. 
 ^intro
@@ -324,9 +341,9 @@ sources:
 
 # Our Thesis
 
-[[Presence]]
-[[Connection]]
-[[Trust]]
+- [[Presence]]
+- [[Connection]]
+- [[Trust]]
 ^intro
 
 
@@ -356,7 +373,11 @@ milestones:
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
-# Membership (10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $500k ARR in membership fees):
+# Membership
+
+now:: 10 founding members producing $60k ARR currently
+18 month goal:: 150+ members producing > $500k ARR in membership fees
+by:: March 31, 2028
 
 Guild members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. 
 ^intro
@@ -441,7 +462,10 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# Studio (18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR):
+# Studio
+
+18 month goal:: EIR’s for 4 majority owned companies totaling > $2mm ARR
+by:: March 31, 2028
 
 As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
 ^intro
@@ -538,7 +562,10 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# Cooperative (18 month goal: 10 companies totaling > $5mm ARR):
+# Cooperative
+
+18 month goal:: 10 companies totaling > $5mm ARR
+by:: March 31, 2028
 
 For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
 ^intro
@@ -713,7 +740,10 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# Scout Fund (Launches year 2):
+# Scout Fund
+
+launch:: Launches year 2
+by:: October 2027
 
 A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
 ^intro
@@ -786,7 +816,10 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# Mystical Network State (18 month goal: 2 new nodes online):
+# Mystical Network State
+
+18 month goal:: 2 new nodes online
+by:: March 31, 2028
 Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 ^intro
 
@@ -1040,7 +1073,8 @@ owner: "[[James Barnes]]"
 ---
 # ETHEREA
 
-~$100k revenue YTD, targeting $1mm in 2027
+now:: ~$100k revenue YTD
+target:: targeting $1mm in 2027
 
 ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]]. Here is video of Nomic AI founder Brandon Duderstadt visualized by ETHEREA on a panel with Ethereum founder Vitalik Buterin and others. 
 
