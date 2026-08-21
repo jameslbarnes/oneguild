@@ -84,11 +84,11 @@ Managing Partners, ✌🏻One Guild
    > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
 > — from [[Cooperative]]
 
-5. [[Unlimited Partners]]
+5. [[UnLimited Partners]]
 
-   > # Unlimited Partners
-> Unlimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An Unlimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
-> — from [[Unlimited Partners]]
+   > # UnLimited Partners
+> UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+> — from [[UnLimited Partners]]
 
 6. [[Scout Fund]] (Launches year 2)
 
@@ -118,39 +118,45 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section School
-    $1mm ARR :2026-09-01, 2028-02-29
-    a pilot launching by End of september :milestone, 2026-09-30, 0d
-    a conference in the early winter with the Ethereum Foundation :milestone, 2026-12-15, 0d
+    $1mm ARR :2026-10-01, 2028-03-31
+    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-07-01, 0d
+    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
   section Membership
-    150+ members producing > $500k ARR in membership fees :2026-09-01, 2028-02-29
-    In the next year, we will develop an internal marketplace :milestone, 2027-08-31, 0d
+    150+ members producing > $500k ARR in membership fees :2026-10-01, 2028-03-31
+    Eventually, we will develop an internal marketplace :milestone, 2027-08-31, 0d
   section Studio
-    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-09-01, 2028-02-29
+    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-10-01, 2028-03-31
   section Cooperative
-    10 companies totaling > $5mm ARR :2026-09-01, 2028-02-29
+    10 companies totaling > $5mm ARR :2026-10-01, 2028-03-31
+  section UnLimited Partners
+    $22M at increasing multiples post-money :2026-10-01, 2027-09-30
+    $11M targeted within three months :milestone, 2026-12-31, 0d
   section Scout Fund
-    Launches year 2 :2027-09-01, 2028-02-29
+    Launches year 2 :2027-10-01, 2028-03-31
   section Mystical Network State
-    2 new nodes online :2026-09-01, 2028-02-29
+    2 new nodes online :2026-10-01, 2028-03-31
+  section Loonshots
+    our upcoming Presence conference :milestone, 2027-01-15, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[School]] | $1mm ARR | 2026-09-01 → 2028-02-29 | horizon |
-| [[School]] | a pilot launching by End of september | 2026-09-30 | approx |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2026-12-15 | approx |
+| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-07-01 | year |
-| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-09-01 → 2028-02-29 | horizon |
-| [[Membership]] | In the next year, we will develop an internal marketplace | 2027-08-31 | year |
-| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-09-01 → 2028-02-29 | horizon |
-| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-09-01 → 2028-02-29 | horizon |
-| [[Scout Fund]] | Launches year 2 | 2027-09-01 → 2028-02-29 | approx |
-| [[Mystical Network State]] | 2 new nodes online | 2026-09-01 → 2028-02-29 | horizon |
+| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
+| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
+| [[Membership]] | Eventually, we will develop an internal marketplace | 2027-08-31 | year |
+| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[UnLimited Partners]] | $22M at increasing multiples post-money | 2026-10-01 → 2027-09-30 | approx |
+| [[UnLimited Partners]] | $11M targeted within three months | 2026-12-31 | month |
+| [[Scout Fund]] | Launches year 2 | 2027-10-01 → 2028-03-31 | month |
+| [[Mystical Network State]] | 2 new nodes online | 2026-10-01 → 2028-03-31 | horizon |
+| [[Loonshots]] | our upcoming Presence conference | 2027-01-15 | month |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline]]
 
@@ -177,23 +183,23 @@ metrics:
   arr_now: "$400k ARR"
   goal_18mo: "$1mm ARR"
 when:
-  start: 2026-09-01
-  end: 2028-02-29
+  start: 2026-10-01
+  end: 2028-03-31
   label: "$1mm ARR"
   precision: horizon
 milestones:
-  - label: "a pilot launching by End of september"
-    date: 2026-09-30
-    precision: approx
   - label: "a conference in the early winter with the Ethereum Foundation"
-    date: 2026-12-15
-    precision: approx
+    date: 2027-01-15
+    precision: month
+    note: "the Presence conference — January 2027; Ethereum Foundation confirmed; exact dates TBD — JB, Aug 21 2026"
   - label: "a three day intensive next May"
     date: 2027-05-15
     precision: month
+    note: "booked for May 2027; exact dates TBD — JB, Aug 21 2026"
   - label: "next year’s gathering in New York City at our hq, School"
-    date: 2027-07-01
-    precision: year
+    date: 2027-10-15
+    precision: approx
+    note: "Fall 2027 — JB, Aug 21 2026"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
@@ -214,7 +220,6 @@ In addition to being the home for the guild and the first node in our [[Mystical
 
 **Parties and cultural programming:** 
 
-**Agentic automation:** We are in the process fully automating the entire short term rental lifecycle through agentic software and will evaluate capitalizing a studio company should this prove to be useful for similar spaces, and with a pilot launching by End of september (LINK TO BRISCELLA’S APP)
 
 ## Timeline
 
@@ -227,22 +232,20 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section School
-    $1mm ARR :2026-09-01, 2028-02-29
-    a pilot launching by End of september :milestone, 2026-09-30, 0d
-    a conference in the early winter with the Ethereum Foundation :milestone, 2026-12-15, 0d
+    $1mm ARR :2026-10-01, 2028-03-31
+    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-07-01, 0d
+    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[School]] | $1mm ARR | 2026-09-01 → 2028-02-29 | horizon |
-| [[School]] | a pilot launching by End of september | 2026-09-30 | approx |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2026-12-15 | approx |
+| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-07-01 | year |
+| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — School]]
 
@@ -287,7 +290,7 @@ Shortly after meeting at Burning Man in 2022, we joined forty new friends from B
 
 The next month, we kept the momentum by renting a mansion in Malibu, shooting a pilot of an AI-powered dating show, absolutely gobsmacked by the creative potential we had discovered in ourselves and our community (and also very humbled by the difficulty of making a television show). We soon reunited with our Morocco crew to co-create the Calling All Magical People festival, which reified a growing belief in the cultural frontier of Brooklyn and in the possibility of living a life full of presence, play, trust, and connection. 
 
-In the years after, the twists and turns of entrepreneurship led [[James Barnes|James]] to invent [[ETHEREA]], a new speech visualization technology after raising $4 million and launch an AI biographer with Katie Couric, and [[John Fagan|John]] to discover an increasingly Rick Rubin-esque ability to identify and develop talent while creating the world's most advanced ketamine therapy and sound protocol in [[Hohm]]. 
+In the years after, the twists and turns of entrepreneurship led [[James Barnes|James]] to invent [[ETHEREA]], a new speech visualization technology after raising $3 million and launch an AI biographer with Katie Couric, and [[John Fagan|John]] to discover an increasingly Rick Rubin-esque ability to identify and develop talent while creating the world's most advanced ketamine therapy and sound protocol in [[Hohm]]. 
 
 After time pursuing independent paths, we reunited in January of last year, having inexplicably gained temporary stewardship over the former site of Florent, a historic restaurant in the Meatpacking District. A number of synchronicities (including the property’s owner having been one of John’s biggest clients at his first startup, Doorkee) and aligned missions  inspired the owner to give us permission to do whatever we wanted with the landmark space. In just three months, we hosted an AI variety show, curated a pop-up gallery to spotlight our friends art , helped Oobah Butler produce part of his new avant-garde A24 & HBO Mockumentary, and threw a few more epic parties and Hohm journeys that we will never forget. We also turned its prime location on Gansevoort Street into a public art installation by projecting ETHEREA through the front windows where people on the street could control the display with their voices.
 
@@ -298,6 +301,11 @@ We have been iterating elements of ONE since our magical month in Morocco, and n
 ## Relations
 
 precedes:: [[School]]
+
+## Open
+
+> [!todo]
+> "after raising $3 million" is wrong: the $3mm raise was for Autobiographer (the AI biographer with Katie Couric), not ETHEREA. Sentence awaits James’s rewording. — Aug 21 2026
 
 
 ---
@@ -334,14 +342,15 @@ updated: 2026-08-21
 aliases: []
 metrics:
   now: "10 founding members producing $60k ARR currently"
+  now_note: "count 10 confirmed; ARR unsettled — cash vs in-kind dues to be reconciled by James & John (Aug 21 2026)"
   goal_18mo: "150+ members producing > $500k ARR in membership fees"
 when:
-  start: 2026-09-01
-  end: 2028-02-29
+  start: 2026-10-01
+  end: 2028-03-31
   label: "150+ members producing > $500k ARR in membership fees"
   precision: horizon
 milestones:
-  - label: "In the next year, we will develop an internal marketplace"
+  - label: "Eventually, we will develop an internal marketplace"
     date: 2027-08-31
     precision: year
 sources:
@@ -359,14 +368,14 @@ Membership is our top-of-the-funnel for talent in the Guild and is currently div
   
 We have found that, in each other, Guild members have discovered fellow travelers who encourage them and challenge them to go further in their individual endeavors while collaborating on new shared visions. Today, our small but growing community of guild members has received enormous value from one another trading spare engineering cycles, advisory hours, physical labor, and even industrial design. 
 
-In the next year, we will develop an internal marketplace that allows for the companies or the members of the guild to grant small amounts of equity in the Guild in exchange for helping each other. Our vision is for members to be able to collaborate to utilize excess cycles to help each other in a way that is mutually beneficial for everyone in the community. We are exploring many different ways of enabling this type of commerce, including making use of our community's deep blockchain and Web3 knowledge to stay on the bleeding edge of what is possible while incorporating the lessons of the past.
+Eventually, we will develop an internal marketplace that allows for the companies or the members of the guild to grant small amounts of equity in the Guild in exchange for helping each other. Our vision is for members to be able to collaborate to utilize excess cycles to help each other in a way that is mutually beneficial for everyone in the community. We are exploring many different ways of enabling this type of commerce, including making use of our community's deep blockchain and Web3 knowledge to stay on the bleeding edge of what is possible while incorporating the lessons of the past.
 
 In addition to being interviewed and selected by new managing partners, members pay dues (currently on a sliding scale of $300 to $1,000 per month for founding members, which we will increase over time as things evolve), with benefits including:
 - Coworking inside [[School]]
 - members-only programming
 - access to and member rates for other nodes in our [[Mystical Network State|network state]]
 - internal space rentals at below market costs
-- the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[Unlimited Partners|unlimited partner]]
+- the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[UnLimited Partners|unlimited partner]]
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. As we expand geographic nodes in our mystical network state, we plan on opening up new capacity such that each location can maintain a cohesive community.
 
 ## Timeline
@@ -380,16 +389,16 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section Membership
-    150+ members producing > $500k ARR in membership fees :2026-09-01, 2028-02-29
-    In the next year, we will develop an internal marketplace :milestone, 2027-08-31, 0d
+    150+ members producing > $500k ARR in membership fees :2026-10-01, 2028-03-31
+    Eventually, we will develop an internal marketplace :milestone, 2027-08-31, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-09-01 → 2028-02-29 | horizon |
-| [[Membership]] | In the next year, we will develop an internal marketplace | 2027-08-31 | year |
+| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
+| [[Membership]] | Eventually, we will develop an internal marketplace | 2027-08-31 | year |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Membership]]
 
@@ -423,8 +432,8 @@ aliases: []
 metrics:
   goal_18mo: "EIR’s for 4 majority owned companies totaling > $2mm ARR"
 when:
-  start: 2026-09-01
-  end: 2028-02-29
+  start: 2026-10-01
+  end: 2028-03-31
   label: "EIR’s for 4 majority owned companies totaling > $2mm ARR"
   precision: horizon
 milestones: []
@@ -464,23 +473,30 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section Studio
-    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-09-01, 2028-02-29
+    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-10-01, 2028-03-31
   section ETHEREA
     targeting $1mm in 2027 :2027-01-01, 2027-12-31
     our monthly salon at Nouriel Roubini’s in mid September :milestone, 2026-09-15, 0d
     AI for Individual Rights Summit in San Francisco in November :milestone, 2026-11-15, 0d
-    launching in the app store in the late fall :milestone, 2026-11-30, 0d
+    launching in the app store in the late fall :milestone, 2026-12-15, 0d
+  section Research Router
+    Research Router :2025-08-01, 2028-03-31
+    recruit a leader for Research Router this year :milestone, 2026-12-31, 0d
+    awarded an $850k grant :milestone, 2026-05-15, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-09-01 → 2028-02-29 | horizon |
+| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-10-01 → 2028-03-31 | horizon |
 | [[ETHEREA]] | targeting $1mm in 2027 | 2027-01-01 → 2027-12-31 | year |
 | [[ETHEREA]] | our monthly salon at Nouriel Roubini’s in mid September | 2026-09-15 | approx |
 | [[ETHEREA]] | AI for Individual Rights Summit in San Francisco in November | 2026-11-15 | month |
-| [[ETHEREA]] | launching in the app store in the late fall | 2026-11-30 | approx |
+| [[ETHEREA]] | launching in the app store in the late fall | 2026-12-15 | month |
+| [[Research Router]] |  | 2025-08-01 → 2028-03-31 | approx |
+| [[Research Router]] | recruit a leader for Research Router this year | 2026-12-31 | year |
+| [[Research Router]] | awarded an $850k grant | 2026-05-15 | month |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Studio]]
 
@@ -513,8 +529,8 @@ metrics:
   check_size: "$500,000 to $1 million"
   target_ownership: "10%"
 when:
-  start: 2026-09-01
-  end: 2028-02-29
+  start: 2026-10-01
+  end: 2028-03-31
   label: "10 companies totaling > $5mm ARR"
   precision: horizon
 milestones: []
@@ -551,14 +567,17 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section Cooperative
-    10 companies totaling > $5mm ARR :2026-09-01, 2028-02-29
+    10 companies totaling > $5mm ARR :2026-10-01, 2028-03-31
+  section TinyCloud
+    received the top midterm award grant :milestone, 2026-07-15, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-09-01 → 2028-02-29 | horizon |
+| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[TinyCloud]] | received the top midterm award grant | 2026-07-15 | month |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Cooperative]]
 
@@ -577,25 +596,39 @@ See [[Numbers]].
 > [!quote] [i]
 > why?
 
+## Open
+
+> [!todo]
+> Valuation term (re doc comment [i] "why?"): the $10 million floor is superseded. James, Aug 21 2026: "either last round or we will determine if you've never raised, somewhere between $5-15mm". The sentence "valuation will come in at the greater of $10 million or the last round's valuation" awaits its replacement wording.
+
 
 ---
 
-<!-- note: Unlimited Partners (engines/Unlimited Partners.md) -->
+<!-- note: UnLimited Partners (engines/UnLimited Partners.md) -->
 
 ---
-title: Unlimited Partners
+title: UnLimited Partners
 type: engine
 status: review
 updated: 2026-08-21
 aliases: [UnLimited Partners, ULP, ULPs]
-when: null
-milestones: []
+when:
+  start: 2026-10-01
+  end: 2027-09-30
+  label: "$22M at increasing multiples post-money"
+  precision: approx
+  note: "UNSETTLED — written version (site + plan, Aug 16 2026); four raise versions still in circulation, reconciliation with John pending"
+milestones:
+  - label: "$11M targeted within three months"
+    date: 2026-12-31
+    precision: month
+    note: "UNSETTLED — first close; three months from the Oct. 1, 2026 clock — JB, Aug 21 2026"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# Unlimited Partners
-Unlimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An Unlimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+# UnLimited Partners
+UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
 ^intro
 We built the Guild to be held. We do not intend to sell the Guild or take it public, and our strategy explicitly does not depend on either outcome. The value we create for our members and ULC far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the Guild generates - and most of the proceeds from the companies it creates -into  future studio company, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
 We also want to make long-term ownership worth your while without making it permanent.
@@ -609,9 +642,9 @@ All purchases remain subject to available funds, applicable law, and buyer deman
 ## Making it worthwhile to stay
 Remaining an UnLimited Partner carries benefits beyond continued ownership of the Guild.
 When a company spins out of the Studio, UnLimited Partners receive priority access to invest alongside the Guild through a dedicated vehicle. Those investments can return proceeds directly when the underlying company distributes cash or exits.
-Unimited Partners also receive priority allocation in the Guild’s separately structured Growth Funds, which invest behind outside leads and return proceeds through conventional fund distributions.
+UnLimited Partners also receive priority allocation in the Guild’s separately structured Growth Funds, which invest behind outside leads and return proceeds through conventional fund distributions.
 Partners who recycle proceeds into future Guild vehicles may receive published loyalty terms, including priority allocation and reduced fees or carry where appropriate. These incentives will be offered through consistent programs available to similarly situated partners, rather than negotiated privately through side letters.
-The result is a relationship with several layers: ownership in the compounding Guild, direct participation in individual studio companies, and access to funds designed to return cash. An Unlimited Partner can take some liquidity when it is available without surrendering that relationship, or make a complete exit when the relationship has run its course.
+The result is a relationship with several layers: ownership in the compounding Guild, direct participation in individual studio companies, and access to funds designed to return cash. An UnLimited Partner can take some liquidity when it is available without surrendering that relationship, or make a complete exit when the relationship has run its course.
 ## A future network token
 The Guild’s membership, credits, and network of nodes may eventually be represented by a digital token: a shared instrument for access, participation, reputation, or governance across the network.
 If the Guild or an affiliated issuer creates such an instrument, UnLimited Partners will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
@@ -619,13 +652,27 @@ The exact issuer, allocation, lockups, transfer restrictions, and regulatory ter
 
 ## Timeline
 
-# Timeline — Unlimited Partners
+# Timeline — UnLimited Partners
 
-No dated items yet. Add `when:` or `milestones:` to the frontmatter of [[Unlimited Partners]] or a company whose `part_of::` is [[Unlimited Partners]].
+```mermaid
+gantt
+  title UnLimited Partners
+  dateFormat YYYY-MM-DD
+  axisFormat %b %y
+  todayMarker stroke-width:2px,stroke:#d33
+  section UnLimited Partners
+    $22M at increasing multiples post-money :2026-10-01, 2027-09-30
+    $11M targeted within three months :milestone, 2026-12-31, 0d
+```
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+| item | label (verbatim) | date | precision |
+|---|---|---|---|
+| [[UnLimited Partners]] | $22M at increasing multiples post-money | 2026-10-01 → 2027-09-30 | approx |
+| [[UnLimited Partners]] | $11M targeted within three months | 2026-12-31 | month |
 
-— embedded from [[Timeline — Unlimited Partners]]
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
+
+— embedded from [[Timeline — UnLimited Partners]]
 
 ## Relations
 
@@ -635,6 +682,11 @@ Dates are read from each note’s frontmatter (`when`, `milestones`). `precision
 
 > [!quote] [c]
 > remove "guild liquidity" from ULP section, seems like were using patrons for liquidity. Aldo make capitalization UnLimited Partners
+
+## Open
+
+> [!todo]
+> The raise (unsettled, Aug 21 2026). Written version, from the live site and plan Terms page (Aug 16): $22M at increasing multiples post-money; first close $11M targeted within three months; remainder in tranches over the following 6–12 months; earlier investors get better valuation, final pricing mechanics in counsel review; ULPs only; future raises primarily debt plus a targeted sidecar. Three other versions are still in circulation ($4–7M first close; ~$7M in three months; $1M next increment), and Patrick’s MFN promise conflicts with tiered multiples. On the timeline as unsettled until James and John reconcile ("One Raise, One Story").
 
 
 ---
@@ -651,10 +703,11 @@ metrics:
   launch: "Launches year 2"
   check: "up to $50,000"
 when:
-  start: 2027-09-01
-  end: 2028-02-29
+  start: 2027-10-01
+  end: 2028-03-31
   label: "Launches year 2"
-  precision: approx
+  precision: month
+  note: "October 2027 — JB, Aug 21 2026"
 milestones: []
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -678,14 +731,14 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section Scout Fund
-    Launches year 2 :2027-09-01, 2028-02-29
+    Launches year 2 :2027-10-01, 2028-03-31
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[Scout Fund]] | Launches year 2 | 2027-09-01 → 2028-02-29 | approx |
+| [[Scout Fund]] | Launches year 2 | 2027-10-01 → 2028-03-31 | month |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Scout Fund]]
 
@@ -704,6 +757,11 @@ See [[Numbers]].
 > [!quote] [j]
 > lets include top of funnel idea of Say interviewing every person who comes to School for how they can support and benefit from guild, and then they recommend 1 person that is ideal for our mission, and them both being eligible for prizes to support them and their work
 
+## Open
+
+> [!todo]
+> Re doc comment [e]: the scout check is $50,000 per deal, not per member (James, Aug 21 2026). The sentence "source up to $50,000 in capital" awaits rewording.
+
 
 ---
 
@@ -718,10 +776,11 @@ aliases: [Network State, network state, mystical network state]
 metrics:
   goal_18mo: "2 new nodes online"
 when:
-  start: 2026-09-01
-  end: 2028-02-29
+  start: 2026-10-01
+  end: 2028-03-31
   label: "2 new nodes online"
   precision: horizon
+  note: "James, Aug 21 2026: \"i think it means two papered deals with reciprocal value\""
 milestones: []
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -752,25 +811,23 @@ gantt
   axisFormat %b %y
   todayMarker stroke-width:2px,stroke:#d33
   section Mystical Network State
-    2 new nodes online :2026-09-01, 2028-02-29
+    2 new nodes online :2026-10-01, 2028-03-31
   section School
-    $1mm ARR :2026-09-01, 2028-02-29
-    a pilot launching by End of september :milestone, 2026-09-30, 0d
-    a conference in the early winter with the Ethereum Foundation :milestone, 2026-12-15, 0d
+    $1mm ARR :2026-10-01, 2028-03-31
+    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-07-01, 0d
+    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
 ```
 
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
-| [[Mystical Network State]] | 2 new nodes online | 2026-09-01 → 2028-02-29 | horizon |
-| [[School]] | $1mm ARR | 2026-09-01 → 2028-02-29 | horizon |
-| [[School]] | a pilot launching by End of september | 2026-09-30 | approx |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2026-12-15 | approx |
+| [[Mystical Network State]] | 2 new nodes online | 2026-10-01 → 2028-03-31 | horizon |
+| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
+| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-07-01 | year |
+| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Mystical Network State]]
 
@@ -793,7 +850,11 @@ status: review
 updated: 2026-08-21
 aliases: []
 when: null
-milestones: []
+milestones:
+  - label: "our upcoming Presence conference"
+    date: 2027-01-15
+    precision: month
+    note: "same event as School’s early-winter conference with the Ethereum Foundation — JB, Aug 21 2026"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
@@ -821,9 +882,21 @@ A brain visualizer
 
 # Timeline — Loonshots
 
-No dated items yet. Add `when:` or `milestones:` to the frontmatter of [[Loonshots]] or a company whose `part_of::` is [[Loonshots]].
+```mermaid
+gantt
+  title Loonshots
+  dateFormat YYYY-MM-DD
+  axisFormat %b %y
+  todayMarker stroke-width:2px,stroke:#d33
+  section Loonshots
+    our upcoming Presence conference :milestone, 2027-01-15, 0d
+```
 
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-09-01 → 2028-02-29, assumed from Fall 2026). Edit the note, not this file.
+| item | label (verbatim) | date | precision |
+|---|---|---|---|
+| [[Loonshots]] | our upcoming Presence conference | 2027-01-15 | month |
+
+Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
 
 — embedded from [[Timeline — Loonshots]]
 
@@ -849,43 +922,45 @@ sources:
 
 # Numbers
 
-| figure (verbatim) | note | as of | source |
-|---|---|---|---|
-| $400k ARR; 18 month goal: $1mm ARR | [[School]] | 2026-08-21 | doc §1 heading |
-| 28,000 sq. ft. complex on McCarren Park in Greenpoint | [[School]] | 2026-08-21 | doc §1 |
-| Convent, a 7,000 sqft 9 bedroom townhouse | [[Convent]] | 2026-08-21 | doc §1 |
-| School, 21,000 sqft of flexible space | [[School]] | 2026-08-21 | doc §1 |
-| an additional 3,000 sqft of prime rooftop views of Manhattan | [[School]] | 2026-08-21 | doc §1 |
-| $15-20,000/day in revenue | [[School]] — TV/Film & Events | 2026-08-21 | doc §1 |
-| a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts | [[School]] — Short-term rentals | 2026-08-21 | doc §1 |
-| a recently acquired startup (>$600m) | [[School]] — Short-term rentals | 2026-08-21 | doc §1 |
-| a three day intensive next May | [[School]] — Conferences | 2026-08-21 | doc §1 |
-| a pilot launching by End of september | [[School]] — Agentic automation | 2026-08-21 | doc §1 |
-| 10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $500k ARR in membership fees | [[Membership]] | 2026-08-21 | doc §2 heading |
-| a sliding scale of $300 to $1,000 per month for founding members | [[Membership]] | 2026-08-21 | doc §2 |
-| limiting our growth in memberships to 150 people | [[Membership]] | 2026-08-21 | doc §2 |
-| 18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR | [[Studio]] | 2026-08-21 | doc §3 heading |
-| which will assume 51% ownership | [[Studio]] | 2026-08-21 | doc §3 |
-| lead between 1-2 studio projects each | [[Studio]] | 2026-08-21 | doc §3 |
-| The Studio will own > 51% of Studio companies | [[Studio]] | 2026-08-21 | doc §3 |
-| ~$100k revenue YTD, targeting $1mm in 2027 | [[ETHEREA]] | 2026-08-21 | doc §3 |
-| raising $4 million | [[ETHEREA]] (via [[Our Story]]) | 2026-08-21 | doc Our story |
-| a six-figure events and installations business this year | [[ETHEREA]] | 2026-08-21 | doc §3 |
-| a recent three-story permanent installation | [[ETHEREA]] | 2026-08-21 | doc §3 |
-| 18 month goal: 10 companies totaling > $5mm ARR | [[Cooperative]] | 2026-08-21 | doc §4 heading |
-| We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock | [[Cooperative]] | 2026-08-21 | doc §4 |
-| Check sizes will typically range from $500,000 to $1 million | [[Cooperative]] | 2026-08-21 | doc §4 |
-| the greater of $10 million or the last round's valuation | [[Cooperative]] | 2026-08-21 | doc §4 |
-| founder common stock vesting over four years | [[Cooperative]] | 2026-08-21 | doc §4 |
-| between one to five days | [[Cooperative]] — sprints | 2026-08-21 | doc §4 |
-| up to 25% of their holdings for repurchase | [[Unlimited Partners]] | 2026-08-21 | doc §5 |
-| Launches year 2 | [[Scout Fund]] | 2026-08-21 | doc §6 heading |
-| up to $50,000 in capital | [[Scout Fund]] | 2026-08-21 | doc §6 |
-| 18 month goal: 2 new nodes online | [[Mystical Network State]] | 2026-08-21 | doc §7 heading |
-| six physical properties | [[Mystical Network State]] | 2026-08-21 | doc §7 |
-| an 85-acre wonderland | [[Mystical Network State]] — The Thyme | 2026-08-21 | doc §7 |
-| a 110-year-old former convent | [[Convent]] (via [[Our Story]]) | 2026-08-21 | doc Our story |
-| forty new friends from Brooklyn for a month in Essouria, Morocco | [[Our Story]] | 2026-08-21 | doc Our story |
+| figure (verbatim) | note | as of | source | status |
+|---|---|---|---|---|
+| $400k ARR; 18 month goal: $1mm ARR | [[School]] | 2026-08-21 | doc §1 heading | canon — JB, Aug 21 2026 |
+| 28,000 sq. ft. complex on McCarren Park in Greenpoint | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| Convent, a 7,000 sqft 9 bedroom townhouse | [[Convent]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| School, 21,000 sqft of flexible space | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| an additional 3,000 sqft of prime rooftop views of Manhattan | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| $15-20,000/day in revenue | [[School]] — TV/Film & Events | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| a recently acquired startup (>$600m) | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | unsettled — still closing, JB Aug 21 2026 |
+| a three day intensive next May | [[School]] — Conferences | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| 10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $500k ARR in membership fees | [[Membership]] | 2026-08-21 | doc §2 heading | count 10: canon; $60k ARR: unsettled (cash vs in-kind — James & John to reconcile); goal: canon — JB Aug 21 2026 |
+| a sliding scale of $300 to $1,000 per month for founding members | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
+| limiting our growth in memberships to 150 people | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
+| 18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR | [[Studio]] | 2026-08-21 | doc §3 heading | canon — JB, Aug 21 2026 |
+| which will assume 51% ownership | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| lead between 1-2 studio projects each | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| The Studio will own > 51% of Studio companies | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| ~$100k revenue YTD, targeting $1mm in 2027 | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| raising $3 million | [[Our Story]] (raised for Autobiographer) | 2026-08-21 | doc Our story, corrected | canon — JB, Aug 21 2026 (was "$4 million") |
+| a six-figure events and installations business this year | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| a recent three-story permanent installation | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
+| 18 month goal: 10 companies totaling > $5mm ARR | [[Cooperative]] | 2026-08-21 | doc §4 heading | canon — JB, Aug 21 2026 (halving to 5 / $2.5mm was considered, then kept) |
+| We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
+| Check sizes will typically range from $500,000 to $1 million | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
+| the greater of $10 million or the last round's valuation | [[Cooperative]] | 2026-08-21 | doc §4 | SUPERSEDED — James, Aug 21 2026: "either last round or we will determine if you've never raised, somewhere between $5-15mm"; prose still says $10m pending replacement sentence |
+| founder common stock vesting over four years | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
+| between one to five days | [[Cooperative]] — sprints | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
+| up to 25% of their holdings for repurchase | [[UnLimited Partners]] | 2026-08-21 | doc §5 | canon — JB, Aug 21 2026 |
+| Launches year 2 | [[Scout Fund]] | 2026-08-21 | doc §6 heading | canon — October 2027, JB Aug 21 2026 |
+| up to $50,000 in capital | [[Scout Fund]] | 2026-08-21 | doc §6 | canon as $50k PER DEAL, not per member — JB Aug 21 2026; sentence to be reworded (doc comment [e]) |
+| 18 month goal: 2 new nodes online | [[Mystical Network State]] | 2026-08-21 | doc §7 heading | canon as meaning "two papered deals with reciprocal value" — JB Aug 21 2026 |
+| six physical properties | [[Mystical Network State]] | 2026-08-21 | doc §7 | canon — JB, Aug 21 2026 |
+| an 85-acre wonderland | [[Mystical Network State]] — The Thyme | 2026-08-21 | doc §7 | canon — JB, Aug 21 2026 |
+| a 110-year-old former convent | [[Convent]] (via [[Our Story]]) | 2026-08-21 | doc Our story | canon — JB, Aug 21 2026 |
+| forty new friends from Brooklyn for a month in Essouria, Morocco | [[Our Story]] | 2026-08-21 | doc Our story | canon — JB, Aug 21 2026 |
+| $22M at increasing multiples post-money | [[UnLimited Partners]] — raise target | 2026-08-21 | site “The First Raise” / plan Terms, Aug 16 | unsettled — four versions in circulation; JB put the written one on the timeline Aug 21 2026 |
+| $11M targeted within three months | [[UnLimited Partners]] — first close | 2026-08-21 | site / plan Terms, Aug 16 | unsettled — drawn Dec. 31, 2026 on the Oct. 1 clock |
+| awarded an $850k grant in May of 2026 | [[Research Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
 
 
 ---
@@ -913,9 +988,11 @@ milestones:
   - label: "AI for Individual Rights Summit in San Francisco in November"
     date: 2026-11-15
     precision: month
+    note: "confirmed; exact dates TBD — JB, Aug 21 2026"
   - label: "launching in the app store in the late fall"
-    date: 2026-11-30
-    precision: approx
+    date: 2026-12-15
+    precision: month
+    note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[James Barnes]]"
@@ -982,8 +1059,20 @@ type: company
 status: review
 updated: 2026-08-21
 aliases: []
-when: null
-milestones: []
+when:
+  start: 2025-08-01
+  end: 2028-03-31
+  precision: approx
+  note: "James, Aug 21 2026: \"i've been working on this for a year now\" → started ~Aug 2025; runs through the horizon"
+milestones:
+  - label: "recruit a leader for Research Router this year"
+    date: 2026-12-31
+    precision: year
+    note: "James, Aug 21 2026: \"we are trying to recruit a leader for research router this year\""
+  - label: "awarded an $850k grant"
+    date: 2026-05-15
+    precision: month
+    note: "ARIA Scaling Trust; May 2026 — JB, Aug 21 2026"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[James Barnes]]"
@@ -997,8 +1086,9 @@ In a world where frontier labs threaten to centralize scientific discovery, netw
 
 Next Steps:
 
-1. 
-
+1. Complete next round of user research with elite academic researchers
+2. Begin pilot with Scaling Trust cohort and validate router usefulness
+3. Validate economics of collective bargaining with frontier lab data buyers
 pitch site | working paper  | scaling trust
 
 ## Relations
@@ -1019,7 +1109,11 @@ status: review
 updated: 2026-08-21
 aliases: [Tiny Cloud]
 when: null
-milestones: []
+milestones:
+  - label: "received the top midterm award grant"
+    date: 2026-07-15
+    precision: month
+    note: "Shape Rotator Accelerator; July 2026 — JB, Aug 21 2026"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Sam Gbafa]]"
