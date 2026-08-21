@@ -998,6 +998,38 @@ milestones:
     date: 2026-12-15
     precision: month
     note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
+media:
+  - type: video
+    youtube: wrUMUh3bcRA
+    caption: "Etherea Radio Live | Chillits (2 tracks) | Chrome bodies dance psychedelic patterns"
+  - type: video
+    youtube: 1XMIYZJc4XA
+    caption: "A tour through Tokyo with ETHEREA"
+  - type: image
+    src: media/etherea/gallery-1.jpg
+    caption: "30 Years of Silicon Alley"
+  - type: image
+    src: media/etherea/gallery-2.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-3.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-4.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-5.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-6.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-7.jpg
+    caption: "ETHEREA live show"
+  - type: image
+    src: media/etherea/gallery-8.jpg
+    caption: "ETHEREA live show"
+media_source: "ETHEREA site (etherea-ai repo): landing gallery 1–8 + YouTube @withetherea; captions are the site’s alt text / video titles"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[James Barnes]]"
