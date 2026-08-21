@@ -1277,5 +1277,4 @@ Built the world’s marketplace for art; now building [[SECO]] — a new company
 
 ## Relations
 
-founded_by:: [[SECO]]
 part_of:: [[Membership]]
