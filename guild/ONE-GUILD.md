@@ -57,7 +57,9 @@ Managing Partners, ✌🏻One Guild
 
 ## [[Thesis|Our Thesis]]
 
-> Our thesis is the flywheel: [[Presence|presence]] builds [[Trust|trust]], trust opens [[Connection|connection]], and connection returns people to presence. We invest at the intersections of Body, Mind, and Spirit, underwriting what our own people need and use. We lead where pipeline exists and build heavier infrastructure as the community grows into needing it.
+> [[Presence]]
+> [[Connection]]
+> [[Trust]]
 > — from [[Thesis]]
 
 ## Our Flywheel
@@ -315,24 +317,17 @@ title: Thesis
 type: theme
 status: review
 updated: 2026-08-21
-aliases: [Our Thesis, The Investment Thesis]
+aliases: [Our Thesis]
 sources:
-  - "oneguild.nyc front page (site/world/full.html), section The Investment Thesis — copied verbatim 2026-08-21 at James’s request"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, section Our Thesis (the three words)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
 # Our Thesis
 
-Our thesis is the flywheel: [[Presence|presence]] builds [[Trust|trust]], trust opens [[Connection|connection]], and connection returns people to presence. We invest at the intersections of Body, Mind, and Spirit, underwriting what our own people need and use. We lead where pipeline exists and build heavier infrastructure as the community grows into needing it.
-^intro
-
 [[Presence]]
-[[Trust]]
 [[Connection]]
-
-## Relations
-
-part_of:: [[00 Prospectus]]
+[[Trust]]
+^intro
 
 
 ---
