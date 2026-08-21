@@ -869,14 +869,19 @@ A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or 
 Here are a few other Loonshots that we’re currently exploring:
 
 ## Experiences
-A stadium-scale legal psychedelic ceremony:
-An AI-powered Sleep No More at [[School]]
+
+- A stadium-scale legal psychedelic ceremony:
+- An AI-powered Sleep No More at [[School]]
+
 ## Media
-An oral history of the world  
-The next TED
+
+- An oral history of the world
+- The next TED
+
 ## Technology
-A frontier model for inquiry
-A brain visualizer
+
+- A frontier model for inquiry
+- A brain visualizer
 
 ## Timeline
 
