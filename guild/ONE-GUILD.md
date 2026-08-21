@@ -1189,13 +1189,20 @@ aliases: [Seco]
 when: null
 milestones: []
 sources:
+  - "James, dictated in interview, Aug 21 2026 (first paragraph)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Carter Cleveland]]"
 ---
 
 # SECO
 
-SECO, the second company from Artsy founder Carter Cleveland, is an encrypted group messaging platfor
+SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
+^intro
+
+SECO, the second company from Artsy founder [[Carter Cleveland]], is an encrypted group messaging platfor
+
+> [!todo]
+> The sentence above is the doc’s, and cuts off at "platfor". Keep, finish, or drop — James/John.
 
 ## Relations
 
