@@ -1126,20 +1126,20 @@ The intentional use of these medicines has been a technology granted to humans a
 
 ## Set
 
-Every journey is supported through coaching and clinical prep led by world-class practitioners and clinicians. Hohm Journeys are led by world-class performers and ceremonialists (already including Snow Raven and Mendeleyev). Our partnership with House of Blue Lotus, the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members. 
+Every journey is supported through coaching and clinical prep led by world-class practitioners and clinicians. Hohm Journeys are led by world-class performers and ceremonialists (already including [[Snow Raven]] and [[Mendeleyev]]). Our partnership with [[House of Blue Lotus]], the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members. 
 ROI is measured in Ripple of Impact on guild members and select members of their communities.
 
 ## Setting
 
-Templar, Hohm’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting. It already holds our own community and a growing calendar of partnership rentals, and it is built memetically, as other mindful operators (luxury hotels and retreats, and UHNW) have expressed desire to install their own Templars. We already have orders backlogged, unlocked by capital and ops support. 
-This is a high margin product, providing strong cash flow at low volume. Matt Emmi, the founder of our key supplier OneButton, is a member of the guild, and our partnership includes design, purchase and installation of at cost.
+[[Templar]], Hohm’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting. It already holds our own community and a growing calendar of partnership rentals, and it is built memetically, as other mindful operators (luxury hotels and retreats, and UHNW) have expressed desire to install their own Templars. We already have orders backlogged, unlocked by capital and ops support. 
+This is a high margin product, providing strong cash flow at low volume. [[Matt Emmi]], the founder of our key supplier [[OneButton]], is a member of the guild, and our partnership includes design, purchase and installation of at cost.
 
 ## Integration
 
-Inception, an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
+[[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
 Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
 
-The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting Inception, and running a clinical trial with “Roots to Thrive”, the ketamine clinic associated with Paul Stamets and his partner Pam Kryskow.
+The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting Inception, and running a clinical trial with “[[Roots to Thrive]]”, the ketamine clinic associated with [[Paul Stamets]] and his partner [[Pam Kryskow]].
 
 ## Relations
 
