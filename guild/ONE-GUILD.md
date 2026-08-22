@@ -173,6 +173,8 @@ Dates are read from each note’s frontmatter (`when`, `milestones`). `precision
 
 — embedded from [[Timeline]]
 
+## [[Cap Table]]
+
 ## [[Numbers]]
 
 ## Relations
@@ -526,6 +528,7 @@ Dates are read from each note’s frontmatter (`when`, `milestones`). `precision
 
 ## Relations
 
+depends_on:: [[Cap Table]]
 located_at:: [[School]]
 
 ## Numbers
@@ -703,6 +706,7 @@ Dates are read from each note’s frontmatter (`when`, `milestones`). `precision
 
 ## Relations
 
+depends_on:: [[Cap Table]]
 
 
 ## Doc comments
