@@ -1592,7 +1592,7 @@ founded_by:: [[Carter Cleveland]]
 
 ---
 
-<!-- note: Meridial (companies/Meridial.md) -->
+<!-- note: Meridial (_review/parked/Meridial.md) -->
 
 ---
 title: Meridial
@@ -2020,7 +2020,7 @@ precedes:: [[School]]
 
 ---
 
-<!-- note: Smithers (companies/Smithers.md) -->
+<!-- note: Smithers (_review/parked/Smithers.md) -->
 
 ---
 title: Smithers
