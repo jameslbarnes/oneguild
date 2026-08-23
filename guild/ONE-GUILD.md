@@ -129,6 +129,11 @@ Managing Partners, ✌🏻One Guild
 > — from [[Loonshots]]
 
 
+## [[Our Edges]]
+
+> One is a venture studio, with a cultural engine that drives influence and top of funnel. It is also a grounded bet on a cost structure, sourcing pipeline, and set of terms that no other startup, studio, or fund can match. We have structural economic and financial edges that significantly reduce risk and increase upside.
+> — from [[Our Edges]]
+
 ## [[Cap Table]]
 
 ## [[Numbers]]
@@ -873,6 +878,60 @@ depends_on:: [[Cooperative]]
 
 ---
 
+<!-- note: Our Edges (terms/Our Edges.md) -->
+
+---
+title: Our Edges
+type: theme
+status: canon
+updated: 2026-08-23
+aliases: [Arbitrage, Synergies, and Competitive Edges, Edges]
+sources:
+  - "James Barnes, written Aug 23 2026 (provided in conversation, placed verbatim)"
+---
+
+# Our Edges
+
+Arbitrage, Synergies, and Competitive Edges
+
+One is a venture studio, with a cultural engine that drives influence and top of funnel. It is also a grounded bet on a cost structure, sourcing pipeline, and set of terms that no other startup, studio, or fund can match. We have structural economic and financial edges that significantly reduce risk and increase upside.
+^intro
+
+## 1. LEASE
+
+One is the anchor tenant of a 28,000-square-foot, three-story former parochial school and convent in Williamsburg/Greenpoint. Five-year master lease with a five-year tenant option, held by [[School]], the nonprofit and our long-term aligned partner. One pays pass-through costs only on below market rent, with no markup, with an option on additional space at the same pass-through rate, priority booking of common space, and tenant improvement credited against rent. We also run our conferences, showcases, and member events in the building at cost. Total combined annual savings at $438,000 vs market rent, totalling $2.35m across 5 years
+
+## 2. TALENT POOL
+
+Our container, the location, and the network continue to attract multi-time founders who could build anywhere and choose One. Guild membership is also earned through contribution, attracting operators, ceremonialists, artists, and teachers, stocking the building with all stripes of A-level talent. [[Studio]] companies draw upon shared growth/marketing, product, and engineering teams, plus a resident bench of long-term aligned partners.
+
+## 3. DEAL FLOW & DILIGENCE
+
+Artists and entrepreneurs-in-residence rotate through [[Convent]] at 50% discount. One’s members and portcos operate out of [[School]]. This brings unprecedented insight into performance, strength, weaknesses, and opportunities that 10x diligence effectiveness. No amount of capital buys a competing fund the same vantage point, because it's a factor of our unique flywheel.
+
+## 4. TERM SHEET
+
+Founders who came up through One's network are already giving us better terms than the market sets. [[Carter Cleveland]], founder of [[SECO|Seco]], and previously of Artsy, and [[Sam Gbafa]], founder of [[TinyCloud]], formerly of OpenAI, have given the One 5% equity in exchange for the [[Studio]]’s accelerator support, while also allowing One to invest at their previous round valuation, a tangible and meaningful discount to what new money is paying.
+
+## 5. COMPOUNDING
+
+Capacity, deal flow, talent, internal tools, and network all move freely between the studio's companies and the Guild’s members. That sharing has already produced faster breakthroughs inside the portfolio than any single company would reach alone, and increases One’s likelihood of achieving the outsized, hard-to-predict wins the rest of venture prices for but rarely gets.
+
+## Relations
+
+part_of:: [[00 Prospectus]]
+
+## Open
+
+> [!todo] Claude
+> Two internal tensions, flagged not fixed:
+> - **§4 vs [[Cooperative]]:** this says Carter and Sam "have given the One 5% equity … while also allowing One to invest at their previous round valuation." The [[Cooperative]] note says "We target 10% ownership … divided in half between investment and Founder Common stock" at "the greater of $10 million or the last round's valuation" (itself superseded per the Aug 22 interview). Same deals described two ways — which is the term?
+> - **§1 arithmetic:** $438,000 × 5 = $2.19m, not $2.35m — presumably escalation; worth one line of basis somewhere before diligence.
+> - **"[[School]], the nonprofit":** here "[[School]]" names the 501(c)(3) landlord; elsewhere [[School]] is the engine/building. Doc comment [b] (29 Nassau vs 25 Dobbin, "related but distinct") is the same knot.
+
+
+---
+
 <!-- note: Numbers (ledger/Numbers.md) -->
 
 ---
@@ -928,6 +987,10 @@ sources:
 | awarded an $850k grant in May of 2026 | [[Research Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
 | the $15b conference production market | [[ETHEREA]] | 2026-08-23 | James, Aug 23 2026; basis: US event production/AV spend ≈ $10–20B (Encore ~$1.2–1.5B + Freeman ~$1.4B atop a long tail; 10–20% of the ~$466B US events market) — see _review/ETHEREA — conference market sizing | canon — JB, Aug 23 2026 (ETHEREA serviceable slice ≈ $200M) |
 | a response 47 percent stronger results than those who did not | [[Hohm]] / [[Inception]] — preliminary trials | 2026-08-23 | doc, Hohm §Integration (John) | unsettled — doc comments [j]/[k] Aug 23: replace pending clinical trials |
+| Five-year master lease with a five-year tenant option | [[Our Edges]] §1 — held by School, the nonprofit | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
+| Total combined annual savings at $438,000 vs market rent, totalling $2.35m across 5 years | [[Our Edges]] §1 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author); note 438k×5=$2.19m — basis for $2.35m (escalation?) to be stated |
+| Artists and entrepreneurs-in-residence rotate through Convent at 50% discount | [[Our Edges]] §3 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
+| 5% equity in exchange for the Studio’s accelerator support (+ invest at previous round valuation) — Carter Cleveland (SECO), Sam Gbafa (TinyCloud) | [[Our Edges]] §4 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author); tension with [[Cooperative]] 10% target flagged in the note |
 
 
 ---
