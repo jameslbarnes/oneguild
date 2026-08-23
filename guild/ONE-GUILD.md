@@ -1035,42 +1035,7 @@ milestones:
     date: 2026-12-15
     precision: month
     note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
-media:
-  - type: file
-    src: media/etherea/hero.mp4
-    poster: media/etherea/hero-poster.jpg
-    caption: ""
-  - type: video
-    youtube: wrUMUh3bcRA
-    caption: "Etherea Radio Live | Chillits (2 tracks) | Chrome bodies dance psychedelic patterns"
-  - type: video
-    youtube: 1XMIYZJc4XA
-    caption: "A tour through Tokyo with ETHEREA"
-  - type: image
-    src: media/etherea/gallery-1.jpg
-    caption: "30 Years of Silicon Alley"
-  - type: image
-    src: media/etherea/gallery-2.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-3.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-4.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-5.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-6.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-7.jpg
-    caption: "ETHEREA live show"
-  - type: image
-    src: media/etherea/gallery-8.jpg
-    caption: "ETHEREA live show"
-media_source: "ETHEREA site (etherea-ai repo): landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
+media_source: "Media section: ETHEREA site (etherea-ai repo) — landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[James Barnes]]"
@@ -1080,12 +1045,26 @@ owner: "[[James Barnes]]"
 now:: ~$100k revenue YTD
 target:: targeting $1mm in 2027
 
-ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]]. Here is video of Nomic AI founder Brandon Duderstadt visualized by ETHEREA on a panel with Ethereum founder Vitalik Buterin and others. 
-
-
+ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]]. 
 
 ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to caption their AI for Individual Rights Summit in San Francisco in November. With this success in mind, ETHEREA will aggressively attack the live captioning market, offering a beautiful and interesting alternative to traditional black and white captions, and a new ambient visualization capability that we have received nearly universal feedback causes people to pay more attention to speakers. We believe that refining this capability on bigger and more important stages will offer a natural distribution path for a more scalable mobile app that is nearly complete and launching in the app store in the late fall. Warm leads we are exploring include TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September.
 
+
+
+
+## Media
+
+![[hero.mp4]]
+![Etherea Radio Live | Chillits (2 tracks) | Chrome bodies dance psychedelic patterns](https://www.youtube.com/watch?v=wrUMUh3bcRA)
+![A tour through Tokyo with ETHEREA](https://www.youtube.com/watch?v=1XMIYZJc4XA)
+![[gallery-1.jpg|30 Years of Silicon Alley]]
+![[gallery-2.jpg|ETHEREA live show]]
+![[gallery-3.jpg|ETHEREA live show]]
+![[gallery-4.jpg|ETHEREA live show]]
+![[gallery-5.jpg|ETHEREA live show]]
+![[gallery-6.jpg|ETHEREA live show]]
+![[gallery-7.jpg|ETHEREA live show]]
+![[gallery-8.jpg|ETHEREA live show]]
 
 ## Relations
 
@@ -1213,13 +1192,6 @@ milestones:
     date: 2026-07-15
     precision: month
     note: "Shape Rotator Accelerator; July 2026 — JB, Aug 21 2026"
-embeds:
-  - type: x
-    url: https://x.com/TinyCloudLabs/status/1992679015342059592
-    author: TinyCloud Labs
-    handle: TinyCloudLabs
-    date: November 23, 2025
-    text: "You're already a cyborg. But do you own your exocortex?\n\n@samgbafa's D/acc Day talk on cognitive sovereignty is now up.\n\nThanks to everyone at Devconnect for making it an unforgettable time."
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Sam Gbafa]]"
@@ -1234,6 +1206,10 @@ TinyCloud is a user owned data store which inverts the past relationship between
 TinyCloud’s powerful infrastructure is vital to many of the Guild's initiatives, providing a database layer for any user-facing projects, storage and provenance for the [[Research Router]], and the identity service for the [[Mystical Network State]]. Tiny Cloud participated in the recent Shape Rotator Accelerator, where it received the top midterm award grant. The team has also been recently collaborating with Flashbots on their Coordination OS project, where they enable loosely affiliated teams to selectively share information with one another. At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
 
 TinyCloud CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+## From X
+
+![](https://x.com/TinyCloudLabs/status/1992679015342059592)
 
 ## Relations
 
