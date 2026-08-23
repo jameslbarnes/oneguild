@@ -542,10 +542,6 @@ After studying the stories of many venture studios over the past few decades, we
 | CTO, ONE ([[Sam Gbafa]], Fractional) |         |         |         |         |
 | Head of Engineering, ONE ()      |         |         |         |         |
 
-## Timeline
-
-
-
 ## Relations
 
 depends_on:: [[Cap Table]]
