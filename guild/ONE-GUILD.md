@@ -1084,9 +1084,6 @@ ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turn
 
 ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to caption their AI for Individual Rights Summit in San Francisco in November. With this success in mind, ETHEREA will aggressively attack the live captioning market, offering a beautiful and interesting alternative to traditional black and white captions, and a new ambient visualization capability that we have received nearly universal feedback causes people to pay more attention to speakers. We believe that refining this capability on bigger and more important stages will offer a natural distribution path for a more scalable mobile app that is nearly complete and launching in the app store in the late fall. Warm leads we are exploring include TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September.
 
-Next Steps:
-
-1.
 
 ## Relations
 
@@ -1214,6 +1211,13 @@ milestones:
     date: 2026-07-15
     precision: month
     note: "Shape Rotator Accelerator; July 2026 — JB, Aug 21 2026"
+embeds:
+  - type: x
+    url: https://x.com/TinyCloudLabs/status/1992679015342059592
+    author: TinyCloud Labs
+    handle: TinyCloudLabs
+    date: November 23, 2025
+    text: "You're already a cyborg. But do you own your exocortex?\n\n@samgbafa's D/acc Day talk on cognitive sovereignty is now up.\n\nThanks to everyone at Devconnect for making it an unforgettable time."
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Sam Gbafa]]"
