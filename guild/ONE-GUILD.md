@@ -58,8 +58,17 @@ Managing Partners, ✌🏻One Guild
 ## [[Thesis|Our Thesis]]
 
 > - [[Presence]]
+> 	- Conscious technologies: 
+> 	- Psychedelic integration
+> 	- Coaching and mentorship
 > - [[Connection]]
+> 	- Trust-based networks
+> 	- Social agents
+> 	- Community living
 > - [[Trust]]
+> 	- Cooperative ownership
+> 	- Trustless technologies
+> 	- Local AI
 > — from [[Thesis]]
 
 ## Our Flywheel
@@ -138,8 +147,6 @@ gantt
   section Membership
     150+ members producing > $500k ARR in membership fees :2026-10-01, 2028-03-31
     Eventually, we will develop an internal marketplace :milestone, 2027-08-31, 0d
-  section Studio
-    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-10-01, 2028-03-31
   section Cooperative
     10 companies totaling > $5mm ARR :2026-10-01, 2028-03-31
   section UnLimited Partners
@@ -161,7 +168,6 @@ gantt
 | [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 | [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
 | [[Membership]] | Eventually, we will develop an internal marketplace | 2027-08-31 | year |
-| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-10-01 → 2028-03-31 | horizon |
 | [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-10-01 → 2028-03-31 | horizon |
 | [[UnLimited Partners]] | $22M at increasing multiples post-money | 2026-10-01 → 2027-09-30 | approx |
 | [[UnLimited Partners]] | $11M targeted within three months | 2026-12-31 | month |
@@ -483,8 +489,17 @@ sources:
 # Our Thesis
 
 - [[Presence]]
+	- Conscious technologies: 
+	- Psychedelic integration
+	- Coaching and mentorship
 - [[Connection]]
+	- Trust-based networks
+	- Social agents
+	- Community living
 - [[Trust]]
+	- Cooperative ownership
+	- Trustless technologies
+	- Local AI
 ^intro
 
 
@@ -591,22 +606,11 @@ type: engine
 status: review
 updated: 2026-08-21
 aliases: []
-metrics:
-  goal_18mo: "EIR’s for 4 majority owned companies totaling > $2mm ARR"
-when:
-  start: 2026-10-01
-  end: 2028-03-31
-  label: "EIR’s for 4 majority owned companies totaling > $2mm ARR"
-  precision: horizon
 milestones: []
 sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+  - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
 ---
-
 # Studio
-
-18 month goal:: EIR’s for 4 majority owned companies totaling > $2mm ARR
-by:: March 31, 2028
 
 As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
 ^intro
@@ -620,50 +624,28 @@ After studying the stories of many venture studios over the past few decades, we
 3. The Studio will own > 51% of Studio companies as cofounders, and will compensate CEO’s with a substantial mix of guild equity and company equity. Contributing members will be rewarded with equity proportional to their contribution.
 
 4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
+   
+5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
 
-Here is more information about the initial batch of Studio projects:
+ Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap ETHEREA's visual agent SDK and [[TinyCloud]]'s managed database service.  In parallel, we will hire a CEO and founding engineer for [[Research Router]], another project for which TinyCloud is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
 
-- [[ETHEREA]]
-- [[Hohm]]
-- [[Research Router]]
+## Team needs
+
+
+|                                  | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 |
+| -------------------------------- | ------- | ------- | ------- | ------- |
+| Founding Engineer, ETHEREA       |         |         |         |         |
+| Founding GTM, ETHEREA            |         |         |         |         |
+| Founding designer, ETHEREA       |         |         |         |         |
+| Founding GTM, Hohm (Inception)   |         |         |         |         |
+| CMO, ONE                         |         |         |         |         |
+| COO, ONE                         |         |         |         |         |
+| CTO, ONE (Sam Gbafa, Fractional) |         |         |         |         |
+| Head of Engineering, ONE ()      |         |         |         |         |
 
 ## Timeline
 
-# Timeline — Studio
 
-```mermaid
-gantt
-  title Studio
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Studio
-    EIR’s for 4 majority owned companies totaling > $2mm ARR :2026-10-01, 2028-03-31
-  section ETHEREA
-    targeting $1mm in 2027 :2027-01-01, 2027-12-31
-    our monthly salon at Nouriel Roubini’s in mid September :milestone, 2026-09-15, 0d
-    AI for Individual Rights Summit in San Francisco in November :milestone, 2026-11-15, 0d
-    launching in the app store in the late fall :milestone, 2026-12-15, 0d
-  section Research Router
-    Research Router :2025-08-01, 2028-03-31
-    recruit a leader for Research Router this year :milestone, 2026-12-31, 0d
-    awarded an $850k grant :milestone, 2026-05-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Studio]] | EIR’s for 4 majority owned companies totaling > $2mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[ETHEREA]] | targeting $1mm in 2027 | 2027-01-01 → 2027-12-31 | year |
-| [[ETHEREA]] | our monthly salon at Nouriel Roubini’s in mid September | 2026-09-15 | approx |
-| [[ETHEREA]] | AI for Individual Rights Summit in San Francisco in November | 2026-11-15 | month |
-| [[ETHEREA]] | launching in the app store in the late fall | 2026-12-15 | month |
-| [[Research Router]] |  | 2025-08-01 → 2028-03-31 | approx |
-| [[Research Router]] | recruit a leader for Research Router this year | 2026-12-31 | year |
-| [[Research Router]] | awarded an $850k grant | 2026-05-15 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Studio]]
 
 ## Relations
 
@@ -678,6 +660,9 @@ See [[Numbers]].
 
 > [!quote] [g]
 > studio needs rewriting
+
+> [!quote] [i] (new, Aug 23)
+> should we add an events company called "After School"? maybe thats where we throw parties, rent the space, and throw the conference out of?
 
 
 ---
@@ -706,9 +691,6 @@ sources:
 
 # Cooperative
 
-18 month goal:: 10 companies totaling > $5mm ARR
-by:: March 31, 2028
-
 For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
 ^intro
 
@@ -716,14 +698,12 @@ We target 10% ownership of companies in the cooperative, divided in half between
 
 The mutual exchange of equity, in addition to the discrete allocation described above in the [[Membership|membership section]], will enable fluidity between companies and for founders in the co-op to be able to hedge their own possibility of an exit with the overall success of our portfolio. In a world where founders increasingly see substantial exits marred by unfavorable terms with investors, we believe that this early-stage support with confidence in shared success among peers, paired with a later-stage growth fund with participation from many partners across the ecosystem, will create a different paradigm for mission-aligned founders looking for long-term sustainability.
 
-Check sizes will typically range from $500,000 to $1 million, and valuation will come in at the greater of $10 million or the last round's valuation, with the remaining percentage covered by founder common stock vesting over four years in exchange for shared services.
+Check sizes will typically range from $500,000 to $1 million, and valuation will come in at the greater of $10 million or the last round's valuation, with the remaining percentage covered by founder common stock vesting over four years in exchange for shared services. We will begin with two initial deals with mission-aligned companies founded by people we already trust, and will intentionally grow slowly towards a first milestone of ten companies in the co-op by the end of 2028.
 
 Current Companies
 
 - [[TinyCloud]]
 - [[SECO]]
-- [[Meridial]]
-- [[Smithers]]
 
 ## Timeline
 
@@ -893,27 +873,6 @@ A growing membership of the world's brightest minds and boldest hearts provides 
 
 While we will have no firm geographic requirements, the scout fund evaluation process will bias towards founders living in Brooklyn, New York City, and the rest of the world, in that order.  Understanding false negatives and false positives, we’ll be able to calibrate the agent to each member, understanding where they are believable, and tune the model to synthesize our community’s best insights to make better decisions while helping members improve in evaluating opportunities. Over time, as AI agents grow increasingly capable of synthesizing multi-dimensional information to evaluate investment decisions , we believe that training through this low-risk experimentation will prepare us to use this technology with higher stakes. We view this as a stake in the ground on day one for our commitment to collective stewardship of capital.
 
-## Timeline
-
-# Timeline — Scout Fund
-
-```mermaid
-gantt
-  title Scout Fund
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Scout Fund
-    Launches year 2 :2027-10-01, 2028-03-31
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Scout Fund]] | Launches year 2 | 2027-10-01 → 2028-03-31 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Scout Fund]]
 
 ## Relations
 
@@ -1040,7 +999,7 @@ sources:
 The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
 ^intro
 
-A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Research Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming [[Present Future Summit|Presence conference]], and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
+A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Research Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming [[Present Future Summit|Present Future Summit]], and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
 
 Here are a few other Loonshots that we’re currently exploring:
 
@@ -1143,6 +1102,7 @@ sources:
 | $11M targeted within three months | [[UnLimited Partners]] — first close | 2026-08-21 | site / plan Terms, Aug 16 | unsettled — drawn Dec. 31, 2026 on the Oct. 1 clock |
 | awarded an $850k grant in May of 2026 | [[Research Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
 | the $15b conference production market | [[ETHEREA]] | 2026-08-23 | James, Aug 23 2026; basis: US event production/AV spend ≈ $10–20B (Encore ~$1.2–1.5B + Freeman ~$1.4B atop a long tail; 10–20% of the ~$466B US events market) — see _review/ETHEREA — conference market sizing | canon — JB, Aug 23 2026 (ETHEREA serviceable slice ≈ $200M) |
+| a response 47 percent stronger results than those who did not | [[Hohm]] / [[Inception]] — preliminary trials | 2026-08-23 | doc, Hohm §Integration (John) | unsettled — doc comments [j]/[k] Aug 23: replace pending clinical trials |
 
 
 ---
@@ -1182,13 +1142,27 @@ owner: "[[James Barnes]]"
 ---
 # ETHEREA
 
-now:: ~$100k revenue YTD
-target:: targeting $1mm in 2027
+| Timeline   | Milestone                                                                                 | Revenue                       |
+| ---------- | ----------------------------------------------------------------------------------------- | ----------------------------- |
+| Now        | Strong PMF signals for live event visualization                                           | ~$100k                        |
+| Soon       | Become breakout conference visualization technology on some of the world's largest stages | $1mm in 2027 \| $15mm by 2030 |
+| Eventually | Category-defining visualizer with visual agent SDK                                        | $100mm ARR by 2033            |
 
-ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].  
+Visualization is the heart of storytelling.
 
-ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. With this success in mind, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of prosumer applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January, which we will use as a showcase for the bleeding edge of technology.
+Since learning to paint in caves, humans have obsessively invented tools to share what is in our mind’s eyes. More expressive tools help us to better communicate, coordinate, and coexist. When we see what someone else sees, we learn what moves them. By sharing our perspectives with others, we help them see us.  
 
+Audiovisual content is especially effective at communicating ideas because it can be noticed independently by sight and hearing, which multiply when combined in often unexpected ways. Today, artificial intelligence is creating new bandwidth for verbal communication by collapsing the gap between vocalization and visualization. 
+
+ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+
+ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. Building on this momentum, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January.
+
+In the two years since ETHEREA's birth, we have continued to find demand for use cases ranging from stroke recovery research at Johns Hopkins University, to psychedelic reintegration with [[Hohm]], sales teams interested in earning more attention from prospects, travel agents interested in teleporting their clients to far flung locations, and even one of the world's top mentalists. Nearly every person who encounters ETHEREA asks how they can use it, and we are excited to offer two compelling solutions that are intended to scale alongside our events business:
+
+1. **Mobile application:** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which usecases have enough demand to drive bespoke applications.  
+   
+2. **Visual Agent SDK:**  
 
 
 
@@ -1259,6 +1233,7 @@ Next Steps:
 1. Complete next round of user research with elite academic researchers
 2. Begin pilot with Scaling Trust cohort and validate router usefulness
 3. Validate economics of collective bargaining with frontier lab data buyers
+   
 pitch site | working paper  | scaling trust
 
 ## Relations
@@ -1290,6 +1265,7 @@ owner: "[[John Fagan]]"
 The Consciousness Accelerator 
 
 Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future. Our civilization is in need of an Archaic Revival, including the reintroduction of ritual and communal aspects of psychedelics. 
+
 The intentional use of these medicines has been a technology granted to humans across cultures and ages. The growing renaissance in the U.S. needs a loving, dedicated focus on the elements grounding their use: (mind)set, setting, and integration. 
 ^intro
 
@@ -1306,9 +1282,10 @@ This is a high margin product, providing strong cash flow at low volume. [[Matt 
 ## Integration
 
 [[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
+
 Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
 
-The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting Inception, and running a clinical trial with “[[Roots to Thrive]]”, the ketamine clinic associated with [[Paul Stamets]] and his partner [[Pam Kryskow]].
+Next steps: The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting Inception, and running a clinical trial with “[[Roots to Thrive]]”, the ketamine clinic associated with [[Paul Stamets]] and his partner [[Pam Kryskow]].
 
 ## Relations
 
@@ -1316,6 +1293,14 @@ part_of:: [[Studio]]
 founded_by:: [[John Fagan]]
 located_at:: [[School]]
 depends_on:: [[ETHEREA]]
+
+## Doc comments
+
+> [!quote] [j] (on the 47 percent sentence)
+> need to replace this with something better - we need to do clinical trials on how this technology helps integration
+
+> [!quote] [k]
+> yes, agreed. Do we put anything there now?
 
 
 ---
@@ -1339,6 +1324,27 @@ when:
   precision: month
 milestones: []
 ---
+The Inaugural Present Future Summit will be held in January 2027 at the [[School]], co-sponsored by the Ethereum Foundation, Livepeer, MINDS, MAPS, and The Lot Radio to explore the future we are all building together. Split into three days, it will begin first with a day on creative futurism, followed by a day on pro-social technology and d/acc philosophy, with a final day focused on cutting-edge psychedelic research:
+
+As one of the Guild's first [[Loonshots]], this summit gives our members an experimental stage to showcase the ideas, products, and future visions animating their work. 
+
+1. creative futurism (cosponsored by The Lot Radio and Livepeer): as the gap between intention and expression disappears, how will it change the scale of our creative ambitions? 
+	1. Invited speakers:
+		1. David Holz, CEO, Midjourney
+		2. Cristobal Valenzuela, CEO Runway
+		3. Micah Springut, CEO Monumental Labs
+		4. Max Spero, CEO Pangram
+		5. Dr. Catie Cuan (roboticist / dancer)
+2. d/acc / pro-social technology (sponsored by the Ethereum Foundation): 
+	1. Invited speakers:
+		1. Dr. Nouriel Roubini
+		2. Vitalik Buterin
+		3. Jack Dorsey
+3. cutting edge psychedelic research (cosponsored by MINDS and MAPS)
+	1. Invited speakers:
+		1. Michael Pollan
+		2. Paul Stamets
+		3. Hamilton Morris
 
 
 ---
@@ -1484,6 +1490,42 @@ depends_on:: [[Hohm]]
 
 ---
 
+<!-- note: Inception (companies/Inception.md) -->
+
+---
+title: Inception
+type: product
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Inception app]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Inception
+
+## From [[Hohm]] (Integration)
+
+[[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
+Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
+
+## Relations
+
+part_of:: [[Hohm]]
+depends_on:: [[ETHEREA]]
+
+## Open
+
+> [!todo] Claude
+> The "47 percent stronger results" sentence is flagged in the doc ([j]/[k], Aug 23): to be replaced pending clinical trials. Marked unsettled in [[Numbers]].
+
+
+---
+
 <!-- note: TinyCloud (companies/TinyCloud.md) -->
 
 ---
@@ -1592,38 +1634,6 @@ part_of:: [[Cooperative]]
 
 > [!todo] Claude
 > The doc’s placeholder read “can you put something here about meridial” (addressed to John). Still owed in John’s words.
-
-
----
-
-<!-- note: Smithers (companies/Smithers.md) -->
-
----
-title: Smithers
-type: company
-status: review
-updated: 2026-08-21
-aliases: []
-when: null
-milestones: []
-assembled_by: Claude
-sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Smithers
-
-## From the site
-
-An agent framework that runs durable loops for days at a time — “take it to scale while they sleep.” It emerged out of the school’s accelerator.
-
-## Relations
-
-part_of:: [[Cooperative]]
 
 
 ---
@@ -1842,37 +1852,6 @@ depends_on:: [[Templar]]
 
 ---
 
-<!-- note: Inception (companies/Inception.md) -->
-
----
-title: Inception
-type: product
-status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [Inception app]
-sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Inception
-
-## From [[Hohm]] (Integration)
-
-[[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
-Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
-
-## Relations
-
-part_of:: [[Hohm]]
-depends_on:: [[ETHEREA]]
-
-
----
-
 <!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
 
 ---
@@ -2001,3 +1980,35 @@ Founded two years ago at the Calling All Magical People festival, it has built a
 ## Relations
 
 precedes:: [[School]]
+
+
+---
+
+<!-- note: Smithers (companies/Smithers.md) -->
+
+---
+title: Smithers
+type: company
+status: review
+updated: 2026-08-21
+aliases: []
+when: null
+milestones: []
+assembled_by: Claude
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Smithers
+
+## From the site
+
+An agent framework that runs durable loops for days at a time — “take it to scale while they sleep.” It emerged out of the school’s accelerator.
+
+## Relations
+
+part_of:: [[Cooperative]]
