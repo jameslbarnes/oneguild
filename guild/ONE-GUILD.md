@@ -1951,6 +1951,47 @@ part_of:: [[Membership]]
 
 ---
 
+<!-- note: After School (companies/After School.md) -->
+
+---
+title: After School
+type: company
+status: unsettled
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [the events business]
+sources:
+  - "John Fagan, doc comment [i] on Studio, Aug 23 2026"
+  - "James Barnes, in conversation, Aug 23 2026"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Decision recorded; everything below the quotes is open. The two lines quoted are John's and James's own words.
+
+# After School
+
+**John (doc comment [i]):** "should we add an events company called "After School"? maybe thats where we throw parties, rent the space, and throw the conference out of?"
+
+**James (Aug 23):** "yes i think there should clearly be an events business."
+
+## Relations
+
+part_of:: [[Studio]]
+located_at:: [[School]]
+
+## Open
+
+> [!todo] Claude
+> Decided: an events business exists. Everything else is not:
+> - **Name** — "After School" is John's suggestion, not settled.
+> - **Scope** — which of School's lines move in: parties & cultural programming? short-term rentals? TV/Film? conferences incl. the [[Present Future Summit]]? dinners?
+> - **Numbers** — School's "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, School's figures and the [[Numbers]] ledger split and must be restated.
+> - **Cap table** — new studio company per the template (One 51 / lead ~25–35 / pool ~15; incubating partner 2–4). Who leads it — an EIR hire, or does this become the operator role at School?
+> - **Whether it also owns the agentic rental automation** James removed from School's copy on Aug 21.
+
+
+---
+
 <!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
 
 ---
