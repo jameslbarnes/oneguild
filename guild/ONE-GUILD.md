@@ -103,8 +103,7 @@ Managing Partners, ✌🏻One Guild
 
 5. [[UnLimited Partners]]
 
-   > # UnLimited Partners
-> UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+   > UnLimited Partners are the economic engine who give One Guild the patient capital to build out of School, launch companies through the Studio, and grow the cooperative. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
 > — from [[UnLimited Partners]]
 
 6. [[Scout Fund]]
@@ -777,51 +776,45 @@ sources:
 ---
 
 # UnLimited Partners
-UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the [[Cooperative|cooperative]]. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+
+UnLimited Partners are the economic engine who give One Guild the patient capital to build out of School, launch companies through the Studio, and grow the cooperative. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
 ^intro
+
 We built the Guild to be held. We do not intend to sell the Guild or take it public, and our strategy explicitly does not depend on either outcome. The value we create for our members and ULC far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the Guild generates - and most of the proceeds from the companies it creates -into  future studio company, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+
 We also want to make long-term ownership worth your while without making it permanent.
+
 The Guild will distribute dividends ongoing, as well as open eligible liquidity windows following a meaningful liquidity event, when it has surplus cash beyond its operating needs and reserves, or when an approved buyer wants to join the ownership group. These windows will not necessarily occur on a fixed annual schedule.
+
 At an eligible liquidity window, an UnLimited Partner has three choices:
+
 1. Remain fully invested. The partner keeps their entire position and continues participating in the Guild’s growth (see below for incentives to remain fully invested).
 2. Take modest liquidity. The partner may offer up to 25% of their holdings for repurchase while remaining an UnLimited Partner and retaining the benefits of continued participation.
 3. Make a clean exit. A partner who wants more than partial liquidity may offer their entire position for sale. The Guild may satisfy that request through a company repurchase, another UnLimited Partner, or an approved new investor.
+
 This is an intentional choice between staying meaningfully invested and leaving cleanly. We do not want partners slowly hollowing out their ownership while continuing to hold the access and privileges of a full participant. At the same time, the 25% option allows someone to recover capital, manage risk, or realize part of the value they helped create without leaving the family.
+
 All purchases remain subject to available funds, applicable law, and buyer demand. If a liquidity window is oversubscribed, the available pool will be allocated according to published terms. A request for a complete exit will be treated as all-or-nothing rather than converted into an unintended partial sale.
+
 ## Making it worthwhile to stay
+
 Remaining an UnLimited Partner carries benefits beyond continued ownership of the Guild.
+
 When a company spins out of the Studio, UnLimited Partners receive priority access to invest alongside the Guild through a dedicated vehicle. Those investments can return proceeds directly when the underlying company distributes cash or exits.
+
 UnLimited Partners also receive priority allocation in the Guild’s separately structured Growth Funds, which invest behind outside leads and return proceeds through conventional fund distributions.
+
 Partners who recycle proceeds into future Guild vehicles may receive published loyalty terms, including priority allocation and reduced fees or carry where appropriate. These incentives will be offered through consistent programs available to similarly situated partners, rather than negotiated privately through side letters.
+
 The result is a relationship with several layers: ownership in the compounding Guild, direct participation in individual studio companies, and access to funds designed to return cash. An UnLimited Partner can take some liquidity when it is available without surrendering that relationship, or make a complete exit when the relationship has run its course.
+
 ## A future network token
+
 The Guild’s membership, credits, and network of nodes may eventually be represented by a digital token: a shared instrument for access, participation, reputation, or governance across the network.
+
 If the Guild or an affiliated issuer creates such an instrument, UnLimited Partners will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
+
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the Guild creates one, the investors who own the Guild will participate fairly in the value it creates.
-
-## Timeline
-
-# Timeline — UnLimited Partners
-
-```mermaid
-gantt
-  title UnLimited Partners
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section UnLimited Partners
-    $22M at increasing multiples post-money :2026-10-01, 2027-09-30
-    $11M targeted within three months :milestone, 2026-12-31, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[UnLimited Partners]] | $22M at increasing multiples post-money | 2026-10-01 → 2027-09-30 | approx |
-| [[UnLimited Partners]] | $11M targeted within three months | 2026-12-31 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — UnLimited Partners]]
 
 ## Relations
 
@@ -1271,12 +1264,14 @@ The intentional use of these medicines has been a technology granted to humans a
 
 ## Set
 
-Every journey is supported through coaching and clinical prep led by world-class practitioners and clinicians. Hohm Journeys are led by world-class performers and ceremonialists (already including [[Snow Raven]] and [[Mendeleyev]]). Our partnership with [[House of Blue Lotus]], the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members. 
+Every journey is supported through coaching and clinical prep led by world-class practitioners and clinicians. Hohm Journeys are led by world-class performers and ceremonialists (already including [[Snow Raven]] and [[Mendeleyev]]). Our partnership with [[House of Blue Lotus]], the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members.
+
 ROI is measured in Ripple of Impact on guild members and select members of their communities.
 
 ## Setting
 
-[[Templar]], Hohm’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting. It already holds our own community and a growing calendar of partnership rentals, and it is built memetically, as other mindful operators (luxury hotels and retreats, and UHNW) have expressed desire to install their own Templars. We already have orders backlogged, unlocked by capital and ops support. 
+[[Templar]], Hohm’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting. It already holds our own community and a growing calendar of partnership rentals, and it is built memetically, as other mindful operators (luxury hotels and retreats, and UHNW) have expressed desire to install their own Templars. We already have orders backlogged, unlocked by capital and ops support.
+
 This is a high margin product, providing strong cash flow at low volume. [[Matt Emmi]], the founder of our key supplier [[OneButton]], is a member of the guild, and our partnership includes design, purchase and installation of at cost.
 
 ## Integration
