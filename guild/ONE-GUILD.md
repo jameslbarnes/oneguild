@@ -119,6 +119,7 @@ Managing Partners, ✌🏻One Guild
 
    > 18 month goal:: 2 new nodes online
 > by:: March 31, 2028
+> timeline:: [[Timeline]]
 > Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 > — from [[Mystical Network State]]
 
@@ -274,6 +275,7 @@ sources:
 now:: $400k ARR
 18 month goal:: $1mm ARR
 by:: March 31, 2028
+timeline:: [[Timeline]]
 
 It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan. 
 ^intro
@@ -456,6 +458,7 @@ sources:
 now:: 10 founding members producing $60k ARR currently
 18 month goal:: 150+ members producing > $500k ARR in membership fees
 by:: March 31, 2028
+timeline:: [[Timeline]]
 
 Guild members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. 
 ^intro
@@ -542,6 +545,8 @@ After studying the stories of many venture studios over the past few decades, we
 | CTO, ONE ([[Sam Gbafa]], Fractional) |         |         |         |         |
 | Head of Engineering, ONE ()      |         |         |         |         |
 
+timeline:: [[Timeline]]
+
 ## Relations
 
 depends_on:: [[Cap Table]]
@@ -600,6 +605,8 @@ Current Companies
 - [[TinyCloud]]
 - [[SECO]]
 
+
+timeline:: [[Timeline]]
 
 ## Relations
 
@@ -688,6 +695,8 @@ If the Guild or an affiliated issuer creates such an instrument, UnLimited Partn
 
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the Guild creates one, the investors who own the Guild will participate fairly in the value it creates.
 
+timeline:: [[Timeline]]
+
 ## Relations
 
 depends_on:: [[Cap Table]]
@@ -732,6 +741,7 @@ sources:
 
 launch:: Launches year 2
 by:: October 2027
+timeline:: [[Timeline]]
 
 A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
 ^intro
@@ -787,6 +797,7 @@ sources:
 
 18 month goal:: 2 new nodes online
 by:: March 31, 2028
+timeline:: [[Timeline]]
 Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 ^intro
 
@@ -1038,6 +1049,8 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 ![[gallery-7.jpg|ETHEREA live show]]
 ![[gallery-8.jpg|ETHEREA live show]]
 
+timeline:: [[Timeline]]
+
 ## Relations
 
 part_of:: [[Studio]]
@@ -1153,6 +1166,8 @@ Next Steps:
 3. Validate economics of collective bargaining with frontier lab data buyers
    
 pitch site | working paper  | scaling trust
+
+timeline:: [[Timeline]]
 
 ## Relations
 
@@ -1449,6 +1464,8 @@ TinyCloud CEO [[Sam Gbafa]] will serve as the Guild’s fractional head of engin
 ## From X
 
 ![](https://x.com/TinyCloudLabs/status/1992679015342059592)
+
+timeline:: [[Timeline]]
 
 ## Relations
 
