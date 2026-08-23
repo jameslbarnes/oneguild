@@ -128,56 +128,6 @@ Managing Partners, ✌🏻One Guild
 > — from [[Loonshots]]
 
 
-## [[Timeline]]
-
-# Timeline
-
-```mermaid
-gantt
-  title One Guild — 18 months
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section School
-    $1mm ARR :2026-10-01, 2028-03-31
-    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
-    a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
-  section Membership
-    150+ members producing > $500k ARR in membership fees :2026-10-01, 2028-03-31
-    Eventually, we will develop an internal marketplace :milestone, 2027-08-31, 0d
-  section Cooperative
-    10 companies totaling > $5mm ARR :2026-10-01, 2028-03-31
-  section UnLimited Partners
-    $22M at increasing multiples post-money :2026-10-01, 2027-09-30
-    $11M targeted within three months :milestone, 2026-12-31, 0d
-  section Scout Fund
-    Launches year 2 :2027-10-01, 2028-03-31
-  section Mystical Network State
-    2 new nodes online :2026-10-01, 2028-03-31
-  section Loonshots
-    our upcoming Presence conference :milestone, 2027-01-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
-| [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
-| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
-| [[Membership]] | Eventually, we will develop an internal marketplace | 2027-08-31 | year |
-| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[UnLimited Partners]] | $22M at increasing multiples post-money | 2026-10-01 → 2027-09-30 | approx |
-| [[UnLimited Partners]] | $11M targeted within three months | 2026-12-31 | month |
-| [[Scout Fund]] | Launches year 2 | 2027-10-01 → 2028-03-31 | month |
-| [[Mystical Network State]] | 2 new nodes online | 2026-10-01 → 2028-03-31 | horizon |
-| [[Loonshots]] | our upcoming Presence conference | 2027-01-15 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline]]
-
 ## [[Cap Table]]
 
 ## [[Numbers]]
@@ -341,33 +291,6 @@ In addition to being the home for the guild and the first node in our [[Mystical
 **Parties and cultural programming:** 
 
 
-## Timeline
-
-# Timeline — School
-
-```mermaid
-gantt
-  title School
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section School
-    $1mm ARR :2026-10-01, 2028-03-31
-    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
-    a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
-| [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — School]]
 
 ## Relations
 
@@ -554,29 +477,6 @@ In addition to being interviewed and selected by new managing partners, members 
 - the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[UnLimited Partners|unlimited partner]]
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. As we expand geographic nodes in our mystical [[Mystical Network State|network state]], we plan on opening up new capacity such that each location can maintain a cohesive community.
 
-## Timeline
-
-# Timeline — Membership
-
-```mermaid
-gantt
-  title Membership
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Membership
-    150+ members producing > $500k ARR in membership fees :2026-10-01, 2028-03-31
-    Eventually, we will develop an internal marketplace :milestone, 2027-08-31, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
-| [[Membership]] | Eventually, we will develop an internal marketplace | 2027-08-31 | year |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Membership]]
 
 ## Relations
 
@@ -704,30 +604,6 @@ Current Companies
 - [[TinyCloud]]
 - [[SECO]]
 
-## Timeline
-
-# Timeline — Cooperative
-
-```mermaid
-gantt
-  title Cooperative
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Cooperative
-    10 companies totaling > $5mm ARR :2026-10-01, 2028-03-31
-  section TinyCloud
-    received the top midterm award grant :milestone, 2026-07-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Cooperative]] | 10 companies totaling > $5mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[TinyCloud]] | received the top midterm award grant | 2026-07-15 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Cooperative]]
 
 ## Relations
 
@@ -928,36 +804,6 @@ The network already touches six physical properties, in various stages of build 
 
 We have informal access and deep connections with: [[Carter Cleveland]]’s (Guild member and founder of [[SECO|Seco]]) project upstate is underway and already hosting an Edge City popup; Apapacha, an eco-land preserve and development in Zipolite, Mexico; The Thyme is an 85-acre wonderland for creativity, explorations in nature, and human connection in the Berkshires, affiliated nodes. Yoko Village is an eco-village in Santa Teresa, co-founded by a member of the Guild. The 18-month goal is formalizing these partnerships, and getting two more nodes online.
 
-## Timeline
-
-# Timeline — Mystical Network State
-
-```mermaid
-gantt
-  title Mystical Network State
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Mystical Network State
-    2 new nodes online :2026-10-01, 2028-03-31
-  section School
-    $1mm ARR :2026-10-01, 2028-03-31
-    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
-    a three day intensive next May :milestone, 2027-05-15, 0d
-    next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Mystical Network State]] | 2 new nodes online | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
-| [[School]] | a three day intensive next May | 2027-05-15 | month |
-| [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Mystical Network State]]
 
 ## Relations
 
@@ -1011,27 +857,6 @@ Here are a few other Loonshots that we’re currently exploring:
 - A frontier model for inquiry
 - A brain visualizer
 
-## Timeline
-
-# Timeline — Loonshots
-
-```mermaid
-gantt
-  title Loonshots
-  dateFormat YYYY-MM-DD
-  axisFormat %b %y
-  todayMarker stroke-width:2px,stroke:#d33
-  section Loonshots
-    our upcoming Presence conference :milestone, 2027-01-15, 0d
-```
-
-| item | label (verbatim) | date | precision |
-|---|---|---|---|
-| [[Loonshots]] | our upcoming Presence conference | 2027-01-15 | month |
-
-Dates are read from each note’s frontmatter (`when`, `milestones`). `precision` says how the date was derived: `day` exact; `month`/`year` the doc names only that; `approx` a phrase like “late fall”; `horizon` the 18-month goal window (2026-10-01 → 2028-03-31; clock starts Oct. 1, 2026 per James, Aug 21 2026). Edit the note, not this file.
-
-— embedded from [[Timeline — Loonshots]]
 
 ## Relations
 
