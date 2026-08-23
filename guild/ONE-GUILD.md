@@ -186,6 +186,102 @@ located_at:: [[School]]
 
 ---
 
+<!-- note: James Barnes (people/James Barnes.md) -->
+
+---
+title: James Barnes
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [James]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# James Barnes
+
+## From the site
+
+At the guild level: John Fagan, CEO and Head of Growth; James Barnes, Head of Product; Sam Gbafa, Head of Engineering. Each company keeps its own leadership; the guild team is shared capacity any of them can draw on.
+
+## From [[Our Story]]
+
+In the years after, the twists and turns of entrepreneurship led James to invent ETHEREA, a new speech visualization technology after raising $3 million and launch an AI biographer with Katie Couric, and John to discover an increasingly Rick Rubin-esque ability to identify and develop talent while creating the world's most advanced ketamine therapy and sound protocol in Hohm.
+
+## From [[ETHEREA]]
+
+ETHEREA, founded by managing partner James Barnes, is a visualizer that turns live speech into beautiful video in realtime.
+
+## From [[Research Router]]
+
+Research Router, cofounded by managing partnerJames Barnes and computer security pioneer Dr.
+
+## From [[Studio]]
+
+At any given time, John and James will lead between 1-2 studio projects each, starting with ETHEREA, Hohm / Templar,  Research Router, and School, and will be judged by finding a killer replacement once demand exceeds operational capacity.
+
+## From [[Cap Table]]
+
+| James Barnes | Managing partner, head of product | 28.75% |
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: John Fagan (people/John Fagan.md) -->
+
+---
+title: John Fagan
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [John]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# John Fagan
+
+## From the site
+
+At the guild level: John Fagan, CEO and Head of Growth; James Barnes, Head of Product; Sam Gbafa, Head of Engineering. Each company keeps its own leadership; the guild team is shared capacity any of them can draw on.
+
+## From [[Our Story]]
+
+In the years after, the twists and turns of entrepreneurship led James to invent ETHEREA, a new speech visualization technology after raising $3 million and launch an AI biographer with Katie Couric, and John to discover an increasingly Rick Rubin-esque ability to identify and develop talent while creating the world's most advanced ketamine therapy and sound protocol in Hohm.
+
+## From [[Hohm]]
+
+Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future.
+
+## From [[Studio]]
+
+At any given time, John and James will lead between 1-2 studio projects each, starting with ETHEREA, Hohm / Templar,  Research Router, and School, and will be judged by finding a killer replacement once demand exceeds operational capacity.
+
+## From [[Cap Table]]
+
+| John Fagan | Managing partner, CEO, head of growth | 33.75% |
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
 <!-- note: School (engines/School.md) -->
 
 ---
@@ -229,11 +325,11 @@ It all starts with the physical container, our 28,000 sq. ft. complex on McCarre
 
 In addition to being the home for the guild and the first node in our [[Mystical Network State|network state]], It offers multiple revenue streams that support our other activities with a growing and synergistic business today:
 
-**TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-20,000/day in revenue l, offsetting the monthly rent and overhead for the entire school. 
+**TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-20,000/day in revenue, offsetting the monthly rent and overhead for the entire school. 
 
 **Short-term rentals:** We recently hosted a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts. We are closing a deal with a recently acquired startup (>$600m) to relocate their headquarters while their offices are renovated. Short-term rentals like this allow us to maintain flexibility, welcome new and interesting people into the community, and charge competitive rates.
 
-**Conferences:** Our experience in hosting the accelerator for Flashbots also gave us our first taste of producing a conference, with a two-day final demo day featuring many of the products built from within School and high-profile speakers like Vitalik Buterin, Ethereum founder, and visualized by the Guild’s own [[ETHEREA]]. We will continue to host conferences aligned with our values that are revenue positive and build a brand for School as a place where important and beautiful things happen.We have already booked Richard Schwarz, the founder of Internal Family Systems, for a three day intensive next May, among others. To catalyze this, we will host a conference in the early winter with the Ethereum Foundation, [sponsor 2], and [sponsor 3]  exploring the intersection themes that animate School - pro-social technology, immersive art, and consciousness expansion.
+**Conferences:** Our experience in hosting the accelerator for Flashbots also gave us our first taste of producing a conference, with a two-day final demo day featuring many of the products built from within School and high-profile speakers like Vitalik Buterin, Ethereum founder, and visualized by the Guild’s own [[ETHEREA]]. We will continue to host conferences aligned with our values that are revenue positive and build a brand for School as a place where important and beautiful things happen.We have already booked Richard Schwarz, the founder of Internal Family Systems, for a three day intensive next May, among others. To catalyze this, we will host the inaugural [[Present Future Summit]] with the [[Ethereum Foundation]], [[Daydream]], [[The Lot Radio]] and the [[Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)]],  exploring the intersection themes that animate School and the Guild, split in three days between d/acc pro-social technology,  creative futurism, and consciousness expansion.
 
 **Dinners:** In Convent’s first season, we hosted a Michelin-star chef who created magical dinners for audiences ranging from top-tier VCs to critically acclaimed artists and world-renowned DJs. Eating well has become a foundation of our community here, and we hope to become a long-term magnet and revenue source. Our industrial kitchen, magically projection-mapped dining rooms, and close proximity to high-quality ingredients makes us a fantastic location for external dinners and a great foundation for the guild to host some of New York's most interesting people for fantastic meals.
 
@@ -286,6 +382,49 @@ See [[Numbers]].
 
 > [!quote] [h]
 > link to video or pictures
+
+
+---
+
+<!-- note: Convent (places/Convent.md) -->
+
+---
+title: Convent
+type: place
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [the Convent, The New Old School]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Convent
+
+## From [[Our Story]]
+
+A chance encounter with someone retrieving vibroacoustic beds we had been lent for a journey led us to discover Convent, a 110-year-old former convent on McCarren Park and attached parochial school on the border of Greenpoint and Williamsburg, which quickly became our home and under our stewardship.
+
+After a few months, 69 Gansevoort was sold, but not before gaining us long-term relationships with the owner, a new and exciting home in Convent and School, and a widened perspective on building community with physical space in New York City.
+
+## From [[School]]
+
+This campus is split between Convent, a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
+
+**Dinners:** In Convent’s first season, we hosted a Michelin-star chef who created magical dinners for audiences ranging from top-tier VCs to critically acclaimed artists and world-renowned DJs.
+
+## From the site
+
+Founder of The Convent, The Old School, and The Grove — a 501(c)(3) non-profit dedicated to the advancement of local AI tools. *(Alexis Bedarnick’s crew bio)*
+
+## Relations
+
+part_of:: [[School]]
+located_at:: [[School]]
 
 
 ---
@@ -1003,6 +1142,7 @@ sources:
 | $22M at increasing multiples post-money | [[UnLimited Partners]] — raise target | 2026-08-21 | site “The First Raise” / plan Terms, Aug 16 | unsettled — four versions in circulation; JB put the written one on the timeline Aug 21 2026 |
 | $11M targeted within three months | [[UnLimited Partners]] — first close | 2026-08-21 | site / plan Terms, Aug 16 | unsettled — drawn Dec. 31, 2026 on the Oct. 1 clock |
 | awarded an $850k grant in May of 2026 | [[Research Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
+| the $15b conference production market | [[ETHEREA]] | 2026-08-23 | James, Aug 23 2026; basis: US event production/AV spend ≈ $10–20B (Encore ~$1.2–1.5B + Freeman ~$1.4B atop a long tail; 10–20% of the ~$466B US events market) — see _review/ETHEREA — conference market sizing | canon — JB, Aug 23 2026 (ETHEREA serviceable slice ≈ $200M) |
 
 
 ---
@@ -1047,7 +1187,9 @@ target:: targeting $1mm in 2027
 
 ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].  
 
-ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to caption their AI for Individual Rights Summit in San Francisco in November. With this success in mind, ETHEREA will aggressively attack the $15b conference production market with a new ambient visualization capability that we have received nearly universal feedback causes audiences to pay more attention to speakers. We believe that refining this capability on bigger and more important stages will offer a natural distribution path for a more scalable mobile app that is nearly complete and launching in the app store in the late fall. Warm leads we are exploring include TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September.
+ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. With this success in mind, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of prosumer applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January, which we will use as a showcase for the bleeding edge of technology.
+
+
 
 
 
@@ -1075,6 +1217,55 @@ located_at:: [[School]]
 ## Numbers
 
 See [[Numbers]].
+
+
+---
+
+<!-- note: Research Router (companies/Research Router.md) -->
+
+---
+title: Research Router
+type: company
+status: review
+updated: 2026-08-21
+aliases: []
+when:
+  start: 2025-08-01
+  end: 2028-03-31
+  precision: approx
+  note: "James, Aug 21 2026: \"i've been working on this for a year now\" → started ~Aug 2025; runs through the horizon"
+milestones:
+  - label: "recruit a leader for Research Router this year"
+    date: 2026-12-31
+    precision: year
+    note: "James, Aug 21 2026: \"we are trying to recruit a leader for research router this year\""
+  - label: "awarded an $850k grant"
+    date: 2026-05-15
+    precision: month
+    note: "ARIA Scaling Trust; May 2026 — JB, Aug 21 2026"
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+owner: "[[James Barnes]]"
+---
+
+# Research Router
+
+Research Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
+
+In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science.
+
+Next Steps:
+
+1. Complete next round of user research with elite academic researchers
+2. Begin pilot with Scaling Trust cohort and validate router usefulness
+3. Validate economics of collective bargaining with frontier lab data buyers
+pitch site | working paper  | scaling trust
+
+## Relations
+
+part_of:: [[Studio]]
+founded_by:: [[James Barnes]]
+depends_on:: [[TinyCloud]]
 
 
 ---
@@ -1129,51 +1320,64 @@ depends_on:: [[ETHEREA]]
 
 ---
 
-<!-- note: Research Router (companies/Research Router.md) -->
+<!-- note: Present Future Summit (events/Present Future Summit.md) -->
 
 ---
-title: Research Router
-type: company
+title: Present Future Summit
+type: event
 status: review
-updated: 2026-08-21
-aliases: []
-when:
-  start: 2025-08-01
-  end: 2028-03-31
-  precision: approx
-  note: "James, Aug 21 2026: \"i've been working on this for a year now\" → started ~Aug 2025; runs through the horizon"
-milestones:
-  - label: "recruit a leader for Research Router this year"
-    date: 2026-12-31
-    precision: year
-    note: "James, Aug 21 2026: \"we are trying to recruit a leader for research router this year\""
-  - label: "awarded an $850k grant"
-    date: 2026-05-15
-    precision: month
-    note: "ARIA Scaling Trust; May 2026 — JB, Aug 21 2026"
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Presence conference, the Presence conference]
 sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-owner: "[[James Barnes]]"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "James & John, interview Aug 21 2026 (date), working session Aug 15 2026 (format)"
+when:
+  start: 2027-01-15
+  end: 2027-01-15
+  label: "the inaugural Present Future Summit"
+  precision: month
+milestones: []
 ---
 
-# Research Router
 
-Research Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
+---
 
-In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science.
+<!-- note: Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS) (partners/Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS).md) -->
 
-Next Steps:
+---
+title: Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [MINDS]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
 
-1. Complete next round of user research with elite academic researchers
-2. Begin pilot with Scaling Trust cohort and validate router usefulness
-3. Validate economics of collective bargaining with frontier lab data buyers
-pitch site | working paper  | scaling trust
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)
+
+## From [[Hohm]]
+
+Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image.
+
+## From the site
+
+Listed under Partners as “Multidisciplinary Institute for Novel Discoveries and Science”. *(Claude: the site’s expansion of the acronym differs from this note’s title — James/John to settle.)*
 
 ## Relations
 
-part_of:: [[Studio]]
-founded_by:: [[James Barnes]]
-depends_on:: [[TinyCloud]]
+depends_on:: [[Hohm]]
+
+## Open
+
+> [!todo] Claude
+> No description exists in James’s or John’s words yet.
 
 
 ---
@@ -1284,15 +1488,253 @@ updated: 2026-08-21
 aliases: []
 when: null
 milestones: []
+assembled_by: Claude
 sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
 # Smithers
+
+## From the site
+
+An agent framework that runs durable loops for days at a time — “take it to scale while they sleep.” It emerged out of the school’s accelerator.
 
 ## Relations
 
 part_of:: [[Cooperative]]
+
+
+---
+
+<!-- note: Snow Raven (people/Snow Raven.md) -->
+
+---
+title: Snow Raven
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Snow Raven
+
+Ceremonialist in Residence
+
+## From the site
+
+Ancestral voice from Arctic Siberia; creator of Arctic Beatbox and founder of OLOX.
+
+## From [[Hohm]]
+
+Hohm Journeys are led by world-class performers and ceremonialists (already including Snow Raven and Mendeleyev).
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Mendeleyev (people/Mendeleyev.md) -->
+
+---
+title: Mendeleyev
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Mendeleyev
+
+Chief Artist in Residence
+
+## From the site
+
+Baritone trained in voice improvisation by Bobby McFerrin; turned all four chairs on The Voice. His instrument is Spaceship: his 95-pound vocal sampling rig reborn as portable software, integrated with ETHEREA.
+
+## From [[Hohm]]
+
+Hohm Journeys are led by world-class performers and ceremonialists (already including Snow Raven and Mendeleyev).
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: House of Blue Lotus (partners/House of Blue Lotus.md) -->
+
+---
+title: House of Blue Lotus
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [HoBL]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# House of Blue Lotus
+
+## From [[Hohm]]
+
+Our partnership with House of Blue Lotus, the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members.
+
+## From the site
+
+CEO, House of Blue Lotus. Co-founder of Spirituality Week and former CEO of The Open Center; leads a charitable partner named in One’s charter. *([[Ross Guttler]]’s crew bio — Spiritual Advisor)*
+
+## From [[Cap Table]]
+
+| Pool | CEO and team grants across studio companies, contributing members, hires — including 10% reserved for the charter non-profits (The New Old School, House of Blue Lotus) | 30% |
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Templar (places/Templar.md) -->
+
+---
+title: Templar
+type: place
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sound Temple, Templar room]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Templar
+
+## From [[Hohm]]
+
+Templar, Hohm’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting.
+
+This is a high margin product, providing strong cash flow at low volume.
+
+Matt Emmi, the founder of our key supplier OneButton, is a member of the guild, and our partnership includes design, purchase and installation of at cost.
+
+The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting Inception, and running a clinical trial with “Roots to Thrive”, the ketamine clinic associated with Paul Stamets and his partner Pam Kryskow.
+
+## From [[Studio]]
+
+At any given time, John and James will lead between 1-2 studio projects each, starting with ETHEREA, Hohm / Templar,  Research Router, and School, and will be judged by finding a killer replacement once demand exceeds operational capacity.
+
+## From the site (as “Sound Temple”)
+
+A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at The New Old School. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
+
+## Relations
+
+part_of:: [[Hohm]]
+located_at:: [[School]]
+depends_on:: [[OneButton]]
+
+
+---
+
+<!-- note: Inception (companies/Inception.md) -->
+
+---
+title: Inception
+type: product
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Inception app]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Inception
+
+## From [[Hohm]] (Integration)
+
+[[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
+Built in partnership with the organizations already doing this work (MAPS, MINDS, Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
+
+## Relations
+
+part_of:: [[Hohm]]
+depends_on:: [[ETHEREA]]
+
+
+---
+
+<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+
+---
+title: Sam Gbafa
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sam]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Sam Gbafa
+
+Head of Engineering
+
+## From the site
+
+Leads engineering at the guild. CEO of TinyCloud. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+
+## From [[TinyCloud]]
+
+TinyCloud CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+
+## From [[Cap Table]]
+
+| Sam Gbafa | Head of engineering (fractional) | 5% |
+
+## Relations
+
+part_of:: [[Membership]]
 
 
 ---
@@ -1315,6 +1757,37 @@ Founder, Artsy
 
 Built the world’s marketplace for art; now building [[SECO]] — a new company, still in stealth — inside the guild.
 ^intro
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Ross Guttler (people/Ross Guttler.md) -->
+
+---
+title: Ross Guttler
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Ross]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Ross Guttler
+
+Spiritual Advisor
+
+## From the site
+
+CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of The Open Center; leads a charitable partner named in One’s charter.
 
 ## Relations
 
