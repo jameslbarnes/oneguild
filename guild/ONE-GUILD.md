@@ -132,7 +132,7 @@ gantt
   todayMarker stroke-width:2px,stroke:#d33
   section School
     $1mm ARR :2026-10-01, 2028-03-31
-    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
+    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
     next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
   section Membership
@@ -156,7 +156,7 @@ gantt
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
 | [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
+| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
 | [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 | [[Membership]] | 150+ members producing > $500k ARR in membership fees | 2026-10-01 → 2028-03-31 | horizon |
@@ -299,7 +299,7 @@ when:
   label: "$1mm ARR"
   precision: horizon
 milestones:
-  - label: "a conference in the early winter with the Ethereum Foundation"
+  - label: "the inaugural Present Future Summit"
     date: 2027-01-15
     precision: month
     note: "the Presence conference — January 2027; Ethereum Foundation confirmed; exact dates TBD — JB, Aug 21 2026"
@@ -348,7 +348,7 @@ gantt
   todayMarker stroke-width:2px,stroke:#d33
   section School
     $1mm ARR :2026-10-01, 2028-03-31
-    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
+    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
     next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
 ```
@@ -356,7 +356,7 @@ gantt
 | item | label (verbatim) | date | precision |
 |---|---|---|---|
 | [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
+| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
 | [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 
@@ -990,7 +990,7 @@ gantt
     2 new nodes online :2026-10-01, 2028-03-31
   section School
     $1mm ARR :2026-10-01, 2028-03-31
-    a conference in the early winter with the Ethereum Foundation :milestone, 2027-01-15, 0d
+    the inaugural Present Future Summit :milestone, 2027-01-15, 0d
     a three day intensive next May :milestone, 2027-05-15, 0d
     next year’s gathering in New York City at our hq, School :milestone, 2027-10-15, 0d
 ```
@@ -999,7 +999,7 @@ gantt
 |---|---|---|---|
 | [[Mystical Network State]] | 2 new nodes online | 2026-10-01 → 2028-03-31 | horizon |
 | [[School]] | $1mm ARR | 2026-10-01 → 2028-03-31 | horizon |
-| [[School]] | a conference in the early winter with the Ethereum Foundation | 2027-01-15 | month |
+| [[School]] | the inaugural Present Future Summit | 2027-01-15 | month |
 | [[School]] | a three day intensive next May | 2027-05-15 | month |
 | [[School]] | next year’s gathering in New York City at our hq, School | 2027-10-15 | approx |
 
@@ -1040,7 +1040,7 @@ sources:
 The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
 ^intro
 
-A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Research Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming Presence conference, and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
+A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Research Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming [[Present Future Summit|Presence conference]], and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
 
 Here are a few other Loonshots that we’re currently exploring:
 
@@ -1343,6 +1343,108 @@ milestones: []
 
 ---
 
+<!-- note: Ethereum Foundation (partners/Ethereum Foundation.md) -->
+
+---
+title: Ethereum Foundation
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Ethereum Foundation
+
+## From [[School]]
+
+To catalyze this, we will host the inaugural Present Future Summit with the Ethereum Foundation, Daydream, The Lot Radio and the Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS),  exploring the intersection themes that animate School and the Guild, split in three days between d/acc pro-social technology,  creative futurism, and consciousness expansion.
+
+## Relations
+
+depends_on:: [[Present Future Summit]]
+
+## Open
+
+> [!todo] Claude
+> No description in James’s or John’s words yet.
+
+
+---
+
+<!-- note: Daydream (partners/Daydream.md) -->
+
+---
+title: Daydream
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Daydream
+
+## From [[School]]
+
+To catalyze this, we will host the inaugural Present Future Summit with the Ethereum Foundation, Daydream, The Lot Radio and the Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS),  exploring the intersection themes that animate School and the Guild, split in three days between d/acc pro-social technology,  creative futurism, and consciousness expansion.
+
+## Relations
+
+depends_on:: [[Present Future Summit]]
+
+## Open
+
+> [!todo] Claude
+> No description in James’s or John’s words yet.
+
+
+---
+
+<!-- note: The Lot Radio (partners/The Lot Radio.md) -->
+
+---
+title: The Lot Radio
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# The Lot Radio
+
+## From [[School]]
+
+To catalyze this, we will host the inaugural Present Future Summit with the Ethereum Foundation, Daydream, The Lot Radio and the Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS),  exploring the intersection themes that animate School and the Guild, split in three days between d/acc pro-social technology,  creative futurism, and consciousness expansion.
+
+## Relations
+
+depends_on:: [[Present Future Summit]]
+
+## Open
+
+> [!todo] Claude
+> No description in James’s or John’s words yet.
+
+
+---
+
 <!-- note: Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS) (partners/Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS).md) -->
 
 ---
@@ -1463,17 +1565,33 @@ updated: 2026-08-21
 aliases: []
 when: null
 milestones: []
+assembled_by: Claude
 sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
 # Meridial
 
-John Fagancan you put something here about meridial
+## From the site
+
+Neuroscientist at UCL. Co-founder of Meridial: maps of the living brain. *(Tommy Younts’s crew bio — ARIA grantee)*
+
+## From [[Loonshots]]
+
+As an example, the Research Router’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon TinyCloud’s sovereign data infrastructure, will be explored in great depth at our upcoming Presence conference, and finds an ideal customer in Meridial and their adjacent ARIA cohort.
 
 ## Relations
 
 part_of:: [[Cooperative]]
+
+## Open
+
+> [!todo] Claude
+> The doc’s placeholder read “can you put something here about meridial” (addressed to John). Still owed in John’s words.
 
 
 ---
@@ -1666,6 +1784,64 @@ depends_on:: [[OneButton]]
 
 ---
 
+<!-- note: Matt Emmi (people/Matt Emmi.md) -->
+
+---
+title: Matt Emmi
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Matt Emmi
+
+## From [[Hohm]]
+
+Matt Emmi, the founder of our key supplier OneButton, is a member of the guild, and our partnership includes design, purchase and installation of at cost.
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: OneButton (partners/OneButton.md) -->
+
+---
+title: OneButton
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: []
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# OneButton
+
+## From [[Hohm]]
+
+Matt Emmi, the founder of our key supplier OneButton, is a member of the guild, and our partnership includes design, purchase and installation of at cost.
+
+## Relations
+
+depends_on:: [[Templar]]
+
+
+---
+
 <!-- note: Inception (companies/Inception.md) -->
 
 ---
@@ -1792,3 +1968,36 @@ CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of 
 ## Relations
 
 part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
+
+---
+title: Calling All Magical People
+type: event
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [CAMP, the Calling All Magical People festival]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Calling All Magical People
+
+## From [[Our Story]]
+
+We soon reunited with our Morocco crew to co-create the Calling All Magical People festival, which reified a growing belief in the cultural frontier of Brooklyn and in the possibility of living a life full of presence, play, trust, and connection.
+
+## From [[ETHEREA]]
+
+Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr.
+
+## Relations
+
+precedes:: [[School]]
