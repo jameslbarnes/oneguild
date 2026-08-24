@@ -1466,6 +1466,13 @@ precedes:: [[School]]
 
 ---
 
+<!-- note: Presence (Presence.md) -->
+
+
+
+
+---
+
 <!-- note: Inception (companies/Inception.md) -->
 
 ---
