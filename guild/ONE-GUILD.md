@@ -1223,7 +1223,7 @@ owner: "[[James Barnes]]"
 
 Research Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
 
-In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science.
+In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science. 
 
 Next Steps:
 
