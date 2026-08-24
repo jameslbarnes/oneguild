@@ -57,13 +57,7 @@ Managing Partners, ✌🏻One Guild
 
 ## [[Thesis|Our Thesis]]
 
-> - [[Presence]]
-> 	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
-> - [[Connection]]
-> 	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
-> 	
-> - [[Trust]]
-> 	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
+> One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
 > — from [[Thesis]]
 
 ## Our Flywheel
@@ -417,15 +411,17 @@ sources:
 One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
 
 One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+^intro
 
 - [[Presence]]
 	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
+	  
+	  
 - [[Connection]]
 	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
 	
 - [[Trust]]
 	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
-^intro
 
 
 ---
