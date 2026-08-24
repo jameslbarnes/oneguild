@@ -98,7 +98,7 @@ Managing Partners, ✌🏻One Guild
 
 5. [[UnLimited Partners]]
 
-   > > [!todo] Confirm how One Guild, Inc. relates to the two layers: this note says ULPs own shares in One Guild, Inc., while the held/compounding entity now reads Studio. (Layer definition per John, Aug 24; inserted by his agent.)
+   > Limited Partners are silent investors who contribute only the most abundant of resources, Capital. It's a legal term of art, and also a state of mind - one that needs deep reformation.
 > — from [[UnLimited Partners]]
 
 6. [[Scout Fund]]
@@ -660,13 +660,13 @@ sources:
 # UnLimited Partners (ULPs)
 
 Limited Partners are silent investors who contribute only the most abundant of resources, Capital. It's a legal term of art, and also a state of mind - one that needs deep reformation.
+^intro
 
 One only accepts UnLimited Partners. The same legal protections as LPs, but with an approach to investing that understands the individual behind the capital - their worldview, experience, network, and energy - is what drive the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the Guild. A ULP owns shares in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
 
 The Guild is the membership layer; the [[Studio]] is the portfolio companies — both internal and the ones we invest in.
 
 > [!todo] Confirm how One Guild, Inc. relates to the two layers: this note says ULPs own shares in One Guild, Inc., while the held/compounding entity now reads Studio. (Layer definition per John, Aug 24; inserted by his agent.)
-^intro
 
 We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
 
