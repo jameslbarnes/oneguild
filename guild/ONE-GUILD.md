@@ -913,6 +913,9 @@ Artists and entrepreneurs-in-residence rotate through [[Convent]] at 50% discoun
 
 Founders who came up through One's network are already giving us better terms than the market sets. [[Carter Cleveland]], founder of [[SECO|Seco]], and previously of Artsy, and [[Sam Gbafa]], founder of [[TinyCloud]], formerly of OpenAI, have given the One 5% equity in exchange for the [[Studio]]’s accelerator support, while also allowing One to invest at their previous round valuation, a tangible and meaningful discount to what new money is paying.
 
+> [!note] James (Aug 23, 2026)
+> Both Sam and Carter have agreed to 5% — "i think we need to talk to them about terms."
+
 ## 5. COMPOUNDING
 
 Capacity, deal flow, talent, internal tools, and network all move freely between the studio's companies and the Guild’s members. That sharing has already produced faster breakthroughs inside the portfolio than any single company would reach alone, and increases One’s likelihood of achieving the outsized, hard-to-predict wins the rest of venture prices for but rarely gets.
@@ -925,7 +928,7 @@ part_of:: [[00 Prospectus]]
 
 > [!todo] Claude
 > Two internal tensions, flagged not fixed:
-> - **§4 vs [[Cooperative]]:** this says Carter and Sam "have given the One 5% equity … while also allowing One to invest at their previous round valuation." The [[Cooperative]] note says "We target 10% ownership … divided in half between investment and Founder Common stock" at "the greater of $10 million or the last round's valuation" (itself superseded per the Aug 22 interview). Same deals described two ways — which is the term?
+> - **§4 vs [[Cooperative]]:** the 5% is agreed with both (James, Aug 23) but full terms are not — "we need to talk to them about terms" (instrument, vesting, the prior-round investment right, how this relates to the Cooperative's 10% target and shared-services structure). Until then §4's "have given" is ahead of the paperwork.
 > - **§1 arithmetic:** $438,000 × 5 = $2.19m, not $2.35m — presumably escalation; worth one line of basis somewhere before diligence.
 > - **"[[School]], the nonprofit":** here "[[School]]" names the 501(c)(3) landlord; elsewhere [[School]] is the engine/building. Doc comment [b] (29 Nassau vs 25 Dobbin, "related but distinct") is the same knot.
 
@@ -990,7 +993,7 @@ sources:
 | Five-year master lease with a five-year tenant option | [[Our Edges]] §1 — held by School, the nonprofit | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
 | Total combined annual savings at $438,000 vs market rent, totalling $2.35m across 5 years | [[Our Edges]] §1 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author); note 438k×5=$2.19m — basis for $2.35m (escalation?) to be stated |
 | Artists and entrepreneurs-in-residence rotate through Convent at 50% discount | [[Our Edges]] §3 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
-| 5% equity in exchange for the Studio’s accelerator support (+ invest at previous round valuation) — Carter Cleveland (SECO), Sam Gbafa (TinyCloud) | [[Our Edges]] §4 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author); tension with [[Cooperative]] 10% target flagged in the note |
+| 5% equity in exchange for the Studio’s accelerator support (+ invest at previous round valuation) — Carter Cleveland (SECO), Sam Gbafa (TinyCloud) | [[Our Edges]] §4 | 2026-08-23 | James, Aug 23 2026 | canon as to the 5% agreement (both agreed, per JB Aug 23); full terms to be negotiated — "we need to talk to them about terms" |
 
 
 ---
