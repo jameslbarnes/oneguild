@@ -31,11 +31,11 @@ Our mission is simple, ambitious and timely: Build a Present Future.
 
 In a present future: 
 
-- SOMETHING ABOUT ABUNDANCE, ALLOCATION ETC
 - Frontier technology blends seamlessly with the proven tools of the past to connect us with ourselves, each other, and the earth beneath our feet.
 - Cryptography combines with general intelligence to enable us to collaborate without fear, and be vulnerable without exploitation.
 - Armed with well-regulated nervous systems, increasingly capable AI allows each of us to become fully self-expressed, creating as we speak to share our deepest potential and uplift all of humanity.
 - The values of radical self-reliance and communal effort stand in harmonious balance, scaffolded by our intention and energy to catalyze a renaissance in a beautiful transmutation of inner work to outer value.
+- We collectively heal from Wetiko, and shift to an abundance mindset to meet the moment.
 
 Below, we are excited to take you through our plan to fully actualize this dream, including and especially highlighting the journey that got us here and the progress we have made so far.
 
@@ -58,17 +58,12 @@ Managing Partners, ✌🏻One Guild
 ## [[Thesis|Our Thesis]]
 
 > - [[Presence]]
-> 	- Conscious technologies: 
-> 	- Psychedelic integration
-> 	- Coaching and mentorship
+> 	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
 > - [[Connection]]
-> 	- Trust-based networks
-> 	- Social agents
-> 	- Community living
+> 	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
+> 	
 > - [[Trust]]
-> 	- [[Cooperative]] ownership
-> 	- Trustless technologies
-> 	- Local AI
+> 	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
 > — from [[Thesis]]
 
 ## Our Flywheel
@@ -84,7 +79,7 @@ Managing Partners, ✌🏻One Guild
 
    now:: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
 
-   > Guild members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
+   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
 > — from [[Membership]]
 
 3. [[Studio]]
@@ -103,7 +98,7 @@ Managing Partners, ✌🏻One Guild
 
 5. [[UnLimited Partners]]
 
-   > UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the cooperative. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+   > > [!todo] Confirm how One Guild, Inc. relates to the two layers: this note says ULPs own shares in One Guild, Inc., while the held/compounding entity now reads Studio. (Layer definition per John, Aug 24; inserted by his agent.)
 > — from [[UnLimited Partners]]
 
 6. [[Scout Fund]]
@@ -278,7 +273,7 @@ sources:
 # School
 
 now:: $400k ARR
-18 month goal:: $1mm ARR
+18 month goal:: $2mm ARR
 by:: March 31, 2028
 timeline:: [[Timeline]]
 
@@ -287,7 +282,7 @@ It all starts with the physical container, our 28,000 sq. ft. complex on McCarre
 
 In addition to being the home for the guild and the first node in our [[Mystical Network State|network state]], It offers multiple revenue streams that support our other activities with a growing and synergistic business today:
 
-**TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-20,000/day in revenue, offsetting the monthly rent and overhead for the entire school. 
+**TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-25,000/day in revenue, offsetting the monthly rent and overhead for the entire school. 
 
 **Short-term rentals:** We recently hosted a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts. We are closing a deal with a recently acquired startup (>$600m) to relocate their headquarters while their offices are renovated. Short-term rentals like this allow us to maintain flexibility, welcome new and interesting people into the community, and charge competitive rates.
 
@@ -417,18 +412,19 @@ sources:
 
 # Our Thesis
 
+"Until you make the subconscious conscious, it will rule your life and you will call it fate." - CG Jung
+
+One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
+
+One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+
 - [[Presence]]
-	- Conscious technologies: 
-	- Psychedelic integration
-	- Coaching and mentorship
+	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
 - [[Connection]]
-	- Trust-based networks
-	- Social agents
-	- Community living
+	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
+	
 - [[Trust]]
-	- [[Cooperative]] ownership
-	- Trustless technologies
-	- Local AI
+	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
 ^intro
 
 
@@ -458,31 +454,33 @@ milestones:
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
-# Membership
+# Guild Membership
 
 now:: 10 founding members producing $60k ARR currently
-18 month goal:: 150+ members producing > $500k ARR in membership fees
+18 month goal:: 150+ members producing > $1.8M ARR in membership fees
 by:: March 31, 2028
 timeline:: [[Timeline]]
 
-Guild members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. 
+Guild membership, our top-of-the-funnel for talent and future portcos, is diversified across exited founders and seasoned operators, as well as commercially successful musicians and installation artists. 
+
+As a Guild, we take membership seriously. It is the oldest structure for keeping craft alive, and it means three things:
+- a mutual dedication to our mastery of **craft**
+- the in-person **transmission** of knowledge and wisdom
+- the careful **curation** of who belongs 
+
+Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. 
 ^intro
 
-Membership is our top-of-the-funnel for talent in the Guild and is currently diversified across many different offerings, from exited founders to commercially successful musicians and installation artists. As a Guild, we take membership seriously. It is the oldest structure for keeping craft alive, and it means three things:
-- a mutual dedication to our mastery of craft
-- the in-person transmission of knowledge and wisdom
-- the careful curation of who belongs
-  
-We have found that, in each other, Guild members have discovered fellow travelers who encourage them and challenge them to go further in their individual endeavors while collaborating on new shared visions. Today, our small but growing community of guild members has received enormous value from one another trading spare engineering cycles, advisory hours, physical labor, and even industrial design. 
-
-Eventually, we will develop an internal marketplace that allows for the companies or the members of the guild to grant small amounts of equity in the Guild in exchange for helping each other. Our vision is for members to be able to collaborate to utilize excess cycles to help each other in a way that is mutually beneficial for everyone in the community. We are exploring many different ways of enabling this type of commerce, including making use of our community's deep blockchain and Web3 knowledge to stay on the bleeding edge of what is possible while incorporating the lessons of the past.
+Our vision, already successfully being piloted, is for members to collaborate by utilizing excess cycles and resources to support each other without the pain of searching for vetted, accessible talent - while maximizing long term alignment. 
 
 In addition to being interviewed and selected by new managing partners, members pay dues (currently on a sliding scale of $300 to $1,000 per month for founding members, which we will increase over time as things evolve), with benefits including:
-- Coworking inside [[School]]
+- 24/7 Coworking access to [[School]]
+- access to local compute (Greenpoint Compute Collective), and makers spaces/tools
 - members-only programming
 - access to and member rates for other nodes in our [[Mystical Network State|network state]]
 - internal space rentals at below market costs
 - the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[UnLimited Partners|unlimited partner]]
+
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. As we expand geographic nodes in our mystical [[Mystical Network State|network state]], we plan on opening up new capacity such that each location can maintain a cohesive community.
 
 
@@ -659,46 +657,52 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 
-# UnLimited Partners
+# UnLimited Partners (ULPs)
 
-UnLimited Partners are the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the cooperative. An UnLimited Partner owns stock in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+Limited Partners are silent investors who contribute only the most abundant of resources, Capital. It's a legal term of art, and also a state of mind - one that needs deep reformation.
+
+One only accepts UnLimited Partners. The same legal protections as LPs, but with an approach to investing that understands the individual behind the capital - their worldview, experience, network, and energy - is what drive the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the Guild. A ULP owns shares in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
+
+The Guild is the membership layer; the [[Studio]] is the portfolio companies — both internal and the ones we invest in.
+
+> [!todo] Confirm how One Guild, Inc. relates to the two layers: this note says ULPs own shares in One Guild, Inc., while the held/compounding entity now reads Studio. (Layer definition per John, Aug 24; inserted by his agent.)
 ^intro
 
-We built the Guild to be held. We do not intend to sell the Guild or take it public, and our strategy explicitly does not depend on either outcome. The value we create for our members and ULC far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the Guild generates - and most of the proceeds from the companies it creates -into  future studio company, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
 
-We also want to make long-term ownership worth your while without making it permanent.
+We also want to make long-term ownership worth your while without making it compulsory.
 
-The Guild will distribute dividends ongoing, as well as open eligible liquidity windows following a meaningful liquidity event, when it has surplus cash beyond its operating needs and reserves, or when an approved buyer wants to join the ownership group. These windows will not necessarily occur on a fixed annual schedule.
+The [[Studio]] will distribute dividends ongoing, as well as open eligible liquidity windows following a meaningful liquidity event, when it has surplus cash beyond its operating needs and reserves, or when an approved buyer wants to join the ownership group. These windows will not necessarily occur on a fixed annual schedule.
 
-At an eligible liquidity window, an UnLimited Partner has three choices:
+At an eligible liquidity window, a ULP has three choices:
 
-1. Remain fully invested. The partner keeps their entire position and continues participating in the Guild’s growth (see below for incentives to remain fully invested).
-2. Take modest liquidity. The partner may offer up to 25% of their holdings for repurchase while remaining an UnLimited Partner and retaining the benefits of continued participation.
-3. Make a clean exit. A partner who wants more than partial liquidity may offer their entire position for sale. The Guild may satisfy that request through a company repurchase, another UnLimited Partner, or an approved new investor.
+1. Remain fully invested. The ULP keeps their entire position and continues participating in the Guild’s growth (see below for incentives to remain fully invested).
+2. Take modest liquidity. The ULP may offer up to 25% of their holdings for repurchase while remaining a ULP and retaining the benefits of continued participation.
+3. Make a clean exit. A ULP who wants more than partial liquidity may offer their entire position for sale. The [[Studio]] may satisfy that request through a company repurchase, another ULP, or an approved new investor.
 
-This is an intentional choice between staying meaningfully invested and leaving cleanly. We do not want partners slowly hollowing out their ownership while continuing to hold the access and privileges of a full participant. At the same time, the 25% option allows someone to recover capital, manage risk, or realize part of the value they helped create without leaving the family.
+This is an intentional choice between staying meaningfully invested and leaving cleanly. We do not want partners slowly hollowing out their ownership while continuing to hold the access and privileges of a ULP. At the same time, the 25% option allows someone to recover capital, manage risk, or realize part of the value they helped create without leaving our family.
 
 All purchases remain subject to available funds, applicable law, and buyer demand. If a liquidity window is oversubscribed, the available pool will be allocated according to published terms. A request for a complete exit will be treated as all-or-nothing rather than converted into an unintended partial sale.
 
 ## Making it worthwhile to stay
 
-Remaining an UnLimited Partner carries benefits beyond continued ownership of the Guild.
+Remaining a ULP carries benefits beyond continued ownership in the [[Studio]].
 
-When a company spins out of the [[Studio]], UnLimited Partners receive priority access to invest alongside the Guild through a dedicated vehicle. Those investments can return proceeds directly when the underlying company distributes cash or exits.
+When a company spins out, ULPs receive priority access to invest alongside the Guild through a dedicated vehicle. Those investments can return proceeds directly when the underlying company distributes cash or exits.
 
-UnLimited Partners also receive priority allocation in the Guild’s separately structured Growth Funds, which invest behind outside leads and return proceeds through conventional fund distributions.
+ULPs also receive priority allocation in the [[Studio]]’s separately structured Growth Funds, which return proceeds through conventional fund distributions.
 
-Partners who recycle proceeds into future Guild vehicles may receive published loyalty terms, including priority allocation and reduced fees or carry where appropriate. These incentives will be offered through consistent programs available to similarly situated partners, rather than negotiated privately through side letters.
+ULPs who recycle proceeds into future [[Studio]] vehicles may receive published loyalty terms, including priority allocation and reduced fees or carry where appropriate. These incentives will be offered through consistent programs available to similarly situated partners, rather than negotiated privately through side letters.
 
-The result is a relationship with several layers: ownership in the compounding Guild, direct participation in individual studio companies, and access to funds designed to return cash. An UnLimited Partner can take some liquidity when it is available without surrendering that relationship, or make a complete exit when the relationship has run its course.
+The result is a relationship with several layers: ownership in the compounding [[Studio]], direct participation (sidecar opportunities) in individual studio companies, and access to funds designed to return cash. 
 
 ## A future network token
 
-The Guild’s membership, credits, and network of nodes may eventually be represented by a digital token: a shared instrument for access, participation, reputation, or governance across the network.
+The [[Studio]]’s Guild membership, credits, and network of nodes may eventually be represented by a digital token: a shared instrument for access, participation, reputation, or governance across the network.
 
-If the Guild or an affiliated issuer creates such an instrument, UnLimited Partners will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
+If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
 
-The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the Guild creates one, the investors who own the Guild will participate fairly in the value it creates.
+The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
 
 timeline:: [[Timeline]]
 
@@ -941,7 +945,7 @@ part_of:: [[00 Prospectus]]
 title: Numbers
 type: term
 status: review
-updated: 2026-08-21
+updated: 2026-08-24
 aliases: [Ledger]
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -951,16 +955,16 @@ sources:
 
 | figure (verbatim) | note | as of | source | status |
 |---|---|---|---|---|
-| $400k ARR; 18 month goal: $1mm ARR | [[School]] | 2026-08-21 | doc §1 heading | canon — JB, Aug 21 2026 |
+| $400k ARR; 18 month goal: $2mm ARR | [[School]] | 2026-08-24 | John's edit, Aug 24 2026 | revised — JF Aug 24 2026 (goal was $1mm, canon JB Aug 21); James to re-confirm |
 | 28,000 sq. ft. complex on McCarren Park in Greenpoint | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
 | Convent, a 7,000 sqft 9 bedroom townhouse | [[Convent]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
 | School, 21,000 sqft of flexible space | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
 | an additional 3,000 sqft of prime rooftop views of Manhattan | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| $15-20,000/day in revenue | [[School]] — TV/Film & Events | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
+| $15-25,000/day in revenue | [[School]] — TV/Film & Events | 2026-08-24 | John's edit, Aug 24 2026 | revised — JF Aug 24 2026 (was $15-20,000, canon JB Aug 21); James to re-confirm |
 | a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
 | a recently acquired startup (>$600m) | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | unsettled — still closing, JB Aug 21 2026 |
 | a three day intensive next May | [[School]] — Conferences | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| 10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $500k ARR in membership fees | [[Membership]] | 2026-08-21 | doc §2 heading | count 10: canon; $60k ARR: unsettled (cash vs in-kind — James & John to reconcile); goal: canon — JB Aug 21 2026 |
+| 10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $1.8M ARR in membership fees | [[Membership]] | 2026-08-24 | John's edit, Aug 24 2026 | count 10: canon; $60k ARR: unsettled (cash vs in-kind — James & John to reconcile); goal revised $500k → $1.8M — JF Aug 24 2026 (was canon JB Aug 21); James to re-confirm |
 | a sliding scale of $300 to $1,000 per month for founding members | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
 | limiting our growth in memberships to 150 people | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
 | 18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR | [[Studio]] | 2026-08-21 | doc §3 heading | canon — JB, Aug 21 2026 |
