@@ -153,6 +153,8 @@ sources:
 
 # James Barnes
 
+![[etherea-performance.jpg|ETHEREA performance]]
+
 ## Bio (from studiome.ai/about)
 
 Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
