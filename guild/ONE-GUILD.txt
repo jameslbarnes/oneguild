@@ -151,9 +151,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026; bio swapped Aug 25)
-> Every sentence below is quoted verbatim from the sources named. The bio is James’s own text from studiome.ai/about, with “Co-founder · Head of Product.” prepended from the site. One edit, approved by James on Aug 25: the fifth paragraph names ETHEREA (in the words of the [[ETHEREA]] note) and One Guild where studiome.ai still says Say — studiome.ai/about is behind the vault until James updates it. [[Managing Partners]] transcludes the whole **Bio** heading; `^intro` marks its first paragraph for short uses. Headings, links and callouts are Claude’s. Status `review` until James vouches.
-
 # James Barnes
 
 ## Bio (from studiome.ai/about)
@@ -1108,50 +1105,6 @@ located_at:: [[School]]
 
 ---
 
-<!-- note: Managing Partners (people/Managing Partners.md) -->
-
----
-title: Managing Partners
-type: theme
-status: review
-updated: 2026-08-25
-assembled_by: Claude
-aliases: []
-sources:
-  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
----
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
-
-# Managing Partners
-
-## [[John Fagan]]
-
-![[John Fagan#^intro]]
-
-## [[James Barnes]]
-
-> Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
-> 
-> My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
-> 
-> At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
-> 
-> These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
-> 
-> Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] (a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[00 Prospectus|One Guild]], I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
-> 
-> I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
-> — from [[James Barnes]]
-
-## Relations
-
-part_of:: [[00 Prospectus]]
-
-
----
-
 <!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
 
 ---
@@ -1950,3 +1903,47 @@ CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of 
 ## Relations
 
 part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Managing Partners (people/Managing Partners.md) -->
+
+---
+title: Managing Partners
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: []
+sources:
+  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
+
+# Managing Partners
+
+## [[John Fagan]]
+
+![[John Fagan#^intro]]
+
+## [[James Barnes]]
+
+> Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
+> 
+> My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
+> 
+> At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
+> 
+> These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
+> 
+> Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] (a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[00 Prospectus|One Guild]], I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
+> 
+> I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
+> — from [[James Barnes]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
