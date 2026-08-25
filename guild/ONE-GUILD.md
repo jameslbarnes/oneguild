@@ -500,9 +500,9 @@ After studying the stories of many venture studios over the past few decades, we
 
 1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
-2. Studio projects will be picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
+2. Studio projects are picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
 
-3. The Studio will own > 51% of Studio companies as cofounders, and will compensate CEO’s with a substantial mix of guild equity and company equity. Contributing members will be rewarded with equity proportional to their contribution.
+3. The Studio  own 51% of Studio companies as cofounders, and will compensate CEO’s with a substantial mix of guild equity and company equity. Contributing members will be rewarded with equity proportional to their contribution.
 
 4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
    
@@ -1603,47 +1603,6 @@ part_of:: [[Membership]]
 
 ---
 
-<!-- note: Meridial (_review/parked/Meridial.md) -->
-
----
-title: Meridial
-type: company
-status: review
-updated: 2026-08-21
-aliases: []
-when: null
-milestones: []
-assembled_by: Claude
-sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Meridial
-
-## From the site
-
-Neuroscientist at UCL. Co-founder of Meridial: maps of the living brain. *(Tommy Younts’s crew bio — ARIA grantee)*
-
-## From [[Loonshots]]
-
-As an example, the Research Router’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon TinyCloud’s sovereign data infrastructure, will be explored in great depth at our upcoming Presence conference, and finds an ideal customer in Meridial and their adjacent ARIA cohort.
-
-## Relations
-
-part_of:: [[Cooperative]]
-
-## Open
-
-> [!todo] Claude
-> The doc’s placeholder read “can you put something here about meridial” (addressed to John). Still owed in John’s words.
-
-
----
-
 <!-- note: House of Blue Lotus (partners/House of Blue Lotus.md) -->
 
 ---
@@ -1885,35 +1844,3 @@ CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of 
 ## Relations
 
 part_of:: [[Membership]]
-
-
----
-
-<!-- note: Smithers (_review/parked/Smithers.md) -->
-
----
-title: Smithers
-type: company
-status: review
-updated: 2026-08-21
-aliases: []
-when: null
-milestones: []
-assembled_by: Claude
-sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Smithers
-
-## From the site
-
-An agent framework that runs durable loops for days at a time — “take it to scale while they sleep.” It emerged out of the school’s accelerator.
-
-## Relations
-
-part_of:: [[Cooperative]]
