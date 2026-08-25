@@ -57,37 +57,34 @@ Managing Partners, ✌🏻One Guild
 
 ## [[Thesis|Our Thesis]]
 
-> One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+> One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
 > — from [[Thesis]]
 
 ## Our Flywheel
 
 1. [[School]]
 
-   now:: $400k ARR · 18 month goal:: $1mm ARR
-
+   now: $400k annual run rate · 18 month goal:: $1mm anually
    > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
 > — from [[School]]
 
 2. [[Membership]]
 
-   now:: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
+   now: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
 
    > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
 > — from [[Membership]]
 
 3. [[Studio]]
 
-   18 month goal:: EIR’s for 4 majority owned companies totaling > $2mm ARR
-
+   18 month goal: 4 companies totaling > $2mm ARR
    > As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
 > — from [[Studio]]
 
 4. [[Cooperative]]
 
    18 month goal:: 10 companies totaling > $5mm ARR
-
-   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
+   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity.
 > — from [[Cooperative]]
 
 5. [[UnLimited Partners]]
@@ -106,10 +103,7 @@ Managing Partners, ✌🏻One Guild
 
    18 month goal:: 2 new nodes online
 
-   > 18 month goal:: 2 new nodes online
-> by:: March 31, 2028
-> timeline:: [[Timeline]]
-> Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
+   > Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 > — from [[Mystical Network State]]
 
 8. [[Loonshots]]
@@ -266,8 +260,8 @@ sources:
 ---
 # School
 
-now:: $400k ARR
-18 month goal:: $2mm ARR
+now:: $400k run rate
+18 month goal:: $2mm annually
 by:: March 31, 2028
 timeline:: [[Timeline]]
 
@@ -284,10 +278,6 @@ In addition to being the home for the guild and the first node in our [[Mystical
 
 **Dinners:** In [[Convent]]’s first season, we hosted a Michelin-star chef who created magical dinners for audiences ranging from top-tier VCs to critically acclaimed artists and world-renowned DJs. Eating well has become a foundation of our community here, and we hope to become a long-term magnet and revenue source. Our industrial kitchen, magically projection-mapped dining rooms, and close proximity to high-quality ingredients makes us a fantastic location for external dinners and a great foundation for the guild to host some of New York's most interesting people for fantastic meals.
 
-**Parties and cultural programming:** 
-
-
-
 ## Relations
 
 part_of:: [[Mystical Network State]]
@@ -295,17 +285,6 @@ part_of:: [[Mystical Network State]]
 ## Numbers
 
 See [[Numbers]].
-
-## Doc comments
-
-> [!quote] [b]
-> School Address: 29 Nassau
-> One Address: 25 Dobbin
-> Same building - too confusing?
-> i just want to differentiate that theyre related but distinct
-
-> [!quote] [h]
-> link to video or pictures
 
 
 ---
@@ -318,16 +297,15 @@ type: place
 status: review
 updated: 2026-08-23
 assembled_by: Claude
-aliases: [the Convent, The New Old School]
+aliases: [the Convent]
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Convent
+
+Convent is our residential and co-living partner attached to School, with 11 bedrooms available for entrepreneurs and artists in residence, strategic partners, and unlimited partners who are visiting New York City and are in alignment and desire to be a part of what we're doing. 
+
 
 ## From [[Our Story]]
 
@@ -337,13 +315,13 @@ After a few months, 69 Gansevoort was sold, but not before gaining us long-term 
 
 ## From [[School]]
 
-This campus is split between Convent, a 7,000 sqft 9 bedroom townhouse, attached to [[School]], 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
+This campus is split between Convent, a 7,000 sqft 11 bedroom townhouse, attached to [[School]], 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
 
 **Dinners:** In Convent’s first season, we hosted a Michelin-star chef who created magical dinners for audiences ranging from top-tier VCs to critically acclaimed artists and world-renowned DJs.
 
 ## From the site
 
-Founder of The Convent, The Old [[School]], and The Grove — a 501(c)(3) non-profit dedicated to the advancement of local AI tools. *(Alexis Bedarnick’s crew bio)*
+Founder of Convent, [[School]], and The Grove — a 501(c)(3) non-profit dedicated to the advancement of local AI tools. *(Alexis Bedarnick’s crew bio)*
 
 ## Relations
 
@@ -410,11 +388,14 @@ sources:
 
 One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
 
-One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
 ^intro
 
-- [[Presence]]
-	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
+One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+^intro
+[[Presence]]
+The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
+
+Our current portfolio of projects 
 	  
 	  
 - [[Connection]]
@@ -453,7 +434,7 @@ sources:
 # Guild Membership
 
 now:: 10 founding members producing $60k ARR currently
-18 month goal:: 150+ members producing > $1.8M ARR in membership fees
+18 month goal:: 150 members producing > $1.8M ARR in membership fees
 by:: March 31, 2028
 timeline:: [[Timeline]]
 
@@ -477,8 +458,7 @@ In addition to being interviewed and selected by new managing partners, members 
 - internal space rentals at below market costs
 - the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[UnLimited Partners|unlimited partner]]
 
-In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. As we expand geographic nodes in our mystical [[Mystical Network State|network state]], we plan on opening up new capacity such that each location can maintain a cohesive community.
-
+In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
 
 ## Relations
 
@@ -590,7 +570,7 @@ sources:
 
 # Cooperative
 
-For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. We view the cooperative as our most exciting endeavor, where we can test the hypothesis of how excess capacity delivered by AGI can be shared.
+For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. 
 ^intro
 
 We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock, vesting over a period of time in exchange for the Guild’s contributions, and view this position as analogous to another co-founder in the company. Companies will have access to shared engineering, design, and marketing resources, as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. As is common in holding companies that offer shared services, we will create a credit system for shared resources, which will allow us to prioritize and economize based on the needs of each company at each time. From time to time, we will also organize sprints and support of a single cooperative company, where everyone in the guild might spend between one to five days helping them solve core business problems. 
@@ -661,8 +641,6 @@ One only accepts UnLimited Partners. The same legal protections as LPs, but with
 
 The Guild is the membership layer; the [[Studio]] is the portfolio companies — both internal and the ones we invest in.
 
-> [!todo] Confirm how One Guild, Inc. relates to the two layers: this note says ULPs own shares in One Guild, Inc., while the held/compounding entity now reads Studio. (Layer definition per John, Aug 24; inserted by his agent.)
-
 We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
 ^intro
 
@@ -707,17 +685,6 @@ timeline:: [[Timeline]]
 depends_on:: [[Cap Table]]
 
 
-## Doc comments
-
-> [!quote] [c]
-> remove "guild liquidity" from ULP section, seems like were using patrons for liquidity. Aldo make capitalization UnLimited Partners
-
-## Open
-
-> [!todo]
-> The raise (unsettled, Aug 21 2026). Written version, from the live site and plan Terms page (Aug 16): $22M at increasing multiples post-money; first close $11M targeted within three months; remainder in tranches over the following 6–12 months; earlier investors get better valuation, final pricing mechanics in counsel review; ULPs only; future raises primarily debt plus a targeted sidecar. Three other versions are still in circulation ($4–7M first close; ~$7M in three months; $1M next increment), and Patrick’s MFN promise conflicts with tiered multiples. On the timeline as unsettled until James and John reconcile ("One Raise, One Story").
-
-
 ---
 
 <!-- note: Scout Fund (engines/Scout Fund.md) -->
@@ -741,7 +708,6 @@ milestones: []
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
-
 # Scout Fund
 
 launch:: Launches year 2
@@ -751,7 +717,7 @@ timeline:: [[Timeline]]
 A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
 ^intro
 
-While we will have no firm geographic requirements, the scout fund evaluation process will bias towards founders living in Brooklyn, New York City, and the rest of the world, in that order.  Understanding false negatives and false positives, we’ll be able to calibrate the agent to each member, understanding where they are believable, and tune the model to synthesize our community’s best insights to make better decisions while helping members improve in evaluating opportunities. Over time, as AI agents grow increasingly capable of synthesizing multi-dimensional information to evaluate investment decisions , we believe that training through this low-risk experimentation will prepare us to use this technology with higher stakes. We view this as a stake in the ground on day one for our commitment to collective stewardship of capital.
+While we will have no firm geographic requirements, the scout fund evaluation process will bias towards founders living in Brooklyn, New York City, and the rest of the world, in that order.  Understanding false negatives and false positives, we’ll be able to calibrate the agent to each member, understanding where they are believable, and tune the model to synthesize our community’s best insights to make better decisions while helping members improve in evaluating opportunities. Over time, as AI agents grow increasingly capable of synthesizing multi-dimensional information to evaluate investment decisions , we believe that training through this low-risk experimentation will prepare us to use this technology with higher stakes. We view this as a stake in the ground on day one for our commitment to collective stewardship of capital, leading to a later raise for a growth fund in year 3.
 
 
 ## Relations
@@ -797,12 +763,8 @@ milestones: []
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
-
 # Mystical Network State
 
-18 month goal:: 2 new nodes online
-by:: March 31, 2028
-timeline:: [[Timeline]]
 Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
 ^intro
 
@@ -911,10 +873,7 @@ Artists and entrepreneurs-in-residence rotate through [[Convent]] at 50% discoun
 
 ## 4. TERM SHEET
 
-Founders who came up through One's network are already giving us better terms than the market sets. [[Carter Cleveland]], founder of [[SECO|Seco]], and previously of Artsy, and [[Sam Gbafa]], founder of [[TinyCloud]], formerly of OpenAI, have given the One 5% equity in exchange for the [[Studio]]’s accelerator support, while also allowing One to invest at their previous round valuation, a tangible and meaningful discount to what new money is paying.
-
-> [!note] James (Aug 23, 2026)
-> "i'm not sure if the 5% is agreed tho - idk if we've talked numbers with them at all" — the 5% and the prior-round right need to be confirmed (or negotiated) with Sam and Carter before this section is shown to anyone.
+Founders who came up through One's network are already giving us better terms than the market sets. [[Carter Cleveland]], founder of [[SECO|Seco]], and previously of Artsy, and [[Sam Gbafa]], founder of [[TinyCloud]], formerly of OpenAI, have given One  equity in exchange for the [[Studio]]’s accelerator support, while also allowing One to invest at their previous round valuation, a tangible and meaningful discount to what new money is paying.
 
 ## 5. COMPOUNDING
 
@@ -1095,7 +1054,7 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 
 1. **Mobile application:** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which usecases have enough demand to drive bespoke applications.  
    
-2. **Visual Agent SDK:**  
+2. **Visual Agent SDK:**  Bootstrapping with [[Inception]], the psychedelic integration app planned by [[Hohm]], we will 
 
 
 
@@ -1604,7 +1563,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Carter Cleveland]]"
 ---
-
 # SECO
 
 SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
@@ -1715,7 +1673,7 @@ CEO, House of Blue Lotus. Co-founder of Spirituality Week and former CEO of The 
 
 ## From [[Cap Table]]
 
-| Pool | CEO and team grants across studio companies, contributing members, hires — including 10% reserved for the charter non-profits ([[Convent|The New Old School]], House of Blue Lotus) | 30% |
+| Pool | CEO and team grants across studio companies, contributing members, hires — including 10% reserved for the charter non-profits ([[School]], House of Blue Lotus) | 30% |
 
 ## Relations
 
@@ -1831,7 +1789,7 @@ At any given time, John and James will lead between 1-2 studio projects each, st
 
 ## From the site (as “Sound Temple”)
 
-A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[Convent|The New Old School]]. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
+A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[School]]. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
 
 ## Relations
 
