@@ -543,6 +543,11 @@ In addition to being interviewed and selected by new managing partners, members 
 
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
 
+## Team
+
+> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
+> **Head of Membership, ONE** — hire Q1 2027, funded by dues + [[School]] revenue. Owns selection, programming, the 150 cap, and the member marketplace; the [[Studio]]'s talent pipeline runs through this role. Placement recorded in the [[Studio]] team table and [[Use of Funds]].
+
 ## Relations
 
 located_at:: [[School]]
@@ -606,17 +611,27 @@ In parallel, we will hire a CEO and founding engineer for [[Router]], another pr
 
 ## Team
 
-|                                       | Q4 2026 | Q1 2027 | Q2 2027     | Q3 2027 |
-| ------------------------------------- | ------- | ------- | ----------- | ------- |
-| Founding Engineer, [[ETHEREA]]        |         |         |             |         |
-| Founding GTM, [[ETHEREA]]             |         |         |             |         |
-| Founding designer, [[ETHEREA]]        |         |         |             |         |
-| Founding GTM, [[Inception]], [[Hohm]] |         |         |             |         |
-| Founding GTM, [[Templar]], [[Hohm]]   |         |         |             |         |
-| CMO, ONE                              |         |         | To be hired |         |
-| COO, ONE                              |         |         |             |         |
-| CTO, ONE ([[Sam Gbafa]], Fractional)  |         |         |             |         |
-| Head of Engineering, ONE              |         |         |             |         |
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Quarter placements and the six new rows (marked •) are Claude's proposal from the org-chart comparison; James to confirm. Rationale: After School's CEO and Router's CEO are the first two "killer replacements," bringing the partner load to 1–2 projects each per principle 1. CFO/GC are required to operate the [[UnLimited Partners]] liquidity terms. [[Sam Gbafa]] serves as fractional CTO until the Head of Engineering is hired.
+
+|                                        | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 |
+| -------------------------------------- | ------- | ------- | ------- | ------- |
+| • CEO, [[After School]]                | hire    |         |         |         |
+| • CEO, [[Router]]                      | hire    |         |         |         |
+| • Founding Engineer, [[Router]]        | hire    |         |         |         |
+| Founding Engineer, [[ETHEREA]]         | hire    |         |         |         |
+| Founding GTM, [[ETHEREA]]              | hire    |         |         |         |
+| CTO, ONE ([[Sam Gbafa]], Fractional)   | active  |         |         |         |
+| • CFO, ONE (Fractional)                | hire    |         |         |         |
+| • General Counsel, ONE (Fractional)    | hire    |         |         |         |
+| Founding designer, [[ETHEREA]]         |         | hire    |         |         |
+| Founding GTM, [[Inception]], [[Hohm]]  |         | hire    |         |         |
+| • Head of Membership, ONE              |         | hire    |         |         |
+| Head of Engineering, ONE               |         | hire    |         |         |
+| Founding GTM, [[Templar]], [[Hohm]]    |         |         | hire    |         |
+| CMO, ONE                               |         |         | To be hired |     |
+| COO, ONE                               |         |         | hire    |         |
+| Node leads ×2 (see [[Mystical Network State]]) | |     |         | hire    |
 
 The ETHEREA founding engineer will focus on the app and the conference product.
 
@@ -871,6 +886,11 @@ The network already touches six physical properties, in various stages of build 
 
 We have informal access and deep connections with: [[Carter Cleveland]]’s (Guild member and founder of [[SECO|Seco]]) project upstate is underway and already hosting an Edge City popup; Apapacha, an eco-land preserve and development in Zipolite, Mexico; The Thyme is an 85-acre wonderland for creativity, explorations in nature, and human connection in the Berkshires, affiliated nodes. Yoko Village is an eco-village in Santa Teresa, co-founded by a member of the Guild. The 18-month goal is formalizing these partnerships, and getting two more nodes online.
 
+
+## Team
+
+> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
+> **Node leads ×2** — hired with each node as its deal papers (target Q3 2027), funded by that node's economics rather than the central raise. Placement recorded in the [[Studio]] team table and [[Use of Funds]].
 
 ## Relations
 
@@ -1518,6 +1538,96 @@ precedes:: [[School]]
 
 ---
 
+<!-- note: Use of Funds (terms/Use of Funds.md) -->
+
+---
+title: Use of Funds
+type: term
+status: unsettled
+updated: 2026-08-25
+assembled_by: Claude
+aliases: [Hiring Plan, Headcount]
+sources:
+  - "Org-chart comparison and hiring plan, conversation with James, Aug 22–25 2026"
+  - "[[Studio]] team table; [[Numbers]] ledger; [[Cap Table]]"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Every dollar figure below in [brackets] is Claude's estimate, provided as a starting point for review — none is canon. Verbatim figures from the [[Numbers]] ledger are cited as such. The raise figures ($22M post-money, $11M first close) are **unsettled** per the ledger. Horizon runs on the Oct 1 2026 clock through Mar 31 2028 (18 months).
+
+# Use of Funds
+
+The first eighteen months of UnLimited Partner capital buys three things: the team that runs the flywheel, the Guild's positions in its first companies, and reserves to follow on. [[School]] revenue (canon: $400k ARR) carries the building and its operator.
+
+## 1. Team (headcount)
+
+| Role | Entity | Start | Basis | Est. annual (loaded) | Est. through Mar 2028 | Funded by |
+|---|---|---|---|---|---|---|
+| CEO | [[After School]] | Q4 2026 | FTE | [$180k] | [$270k] | [[School]] revenue |
+| CEO | [[Router]] | Q4 2026 | FTE | [$200k] | [$300k] | ARIA grant ($850k, canon) + raise |
+| Founding Engineer | [[Router]] | Q4 2026 | FTE | [$220k] | [$330k] | ARIA grant + raise |
+| Founding Engineer | [[ETHEREA]] | Q4 2026 | FTE | [$220k] | [$330k] | raise |
+| Founding GTM | [[ETHEREA]] | Q4 2026 | FTE | [$180k] | [$270k] | raise |
+| CTO ([[Sam Gbafa]]) | ONE | active | fractional | [$100k] | [$150k] | raise |
+| CFO | ONE | Q4 2026 | fractional | [$80k] | [$120k] | raise |
+| General Counsel | ONE | Q4 2026 | fractional | [$60k] | [$90k] | raise |
+| Founding Designer | [[ETHEREA]] | Q1 2027 | FTE | [$180k] | [$225k] | raise |
+| Founding GTM | [[Inception]] ([[Hohm]]) | Q1 2027 | FTE | [$180k] | [$225k] | raise |
+| Head of Membership | ONE | Q1 2027 | FTE | [$160k] | [$200k] | dues + [[School]] |
+| Head of Engineering | ONE | Q1 2027 | FTE | [$250k] | [$312k] | raise |
+| Founding GTM | [[Templar]] ([[Hohm]]) | Q2 2027 | FTE | [$180k] | [$180k] | raise |
+| CMO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
+| COO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
+| Node leads ×2 | [[Mystical Network State]] | Q3 2027 | FTE | [$120k each] | [$180k] | node economics |
+
+**Headcount by Mar 2028: [16 roles — 13 FTE, 3 fractional].**
+**Estimated people cost through Mar 2028: [~$3.7M]**, of which [~$2.9M] falls on the raise (the remainder is covered by School revenue, dues, the ARIA grant, and node economics).
+
+## 2. Investments
+
+Co-op checks per canon: "Check sizes will typically range from $500,000 to $1 million" at "either last round or we will determine if you've never raised, somewhere between $5-15mm" ([[Numbers]]). Studio pre-seeds have no canon range yet — [brackets] below.
+
+| Company | Vehicle | Est. check | Status |
+|---|---|---|---|
+| [[ETHEREA]] | [[Studio]] pre-seed | [$500k–1M] | unsettled |
+| [[Hohm]] ([[Templar]] / [[Inception]]) | [[Studio]] pre-seed | [$500k–1M] | unsettled |
+| [[SECO]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Carter unsettled |
+| [[TinyCloud]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Sam unsettled |
+| [[Router]] | grant-backed; [[Studio]] top-up | [$0–250k] beyond ARIA $850k | unsettled |
+| [[After School]] | [[Studio]] formation | [nominal — School revenue funds it] | unsettled |
+| *Reserve: next studio project* | [[Studio]] | [$500k–1M] | room to grow |
+| *Reserve: next 2–3 co-op companies* | [[Cooperative]] | [$1–2M] | room to grow |
+
+**Estimated investments through Mar 2028: [$4–6M]** ([$2–4M] named + [$1.5–3M] reserves).
+
+## 3. Total against the first close
+
+| Bucket | Est. 18-month need |
+|---|---|
+| People (raise-funded share) | [~$2.9M] |
+| Investments + reserves | [$4–6M] |
+| Operations, spaces, programming buffer | [$1–1.5M] |
+| **Total** | **[~$8–10.4M]** |
+
+The unsettled first close ("$11M targeted within three months," [[Numbers]]) covers the full 18-month plan with margin; the balance of the $22M raise funds follow-ons, the [[Scout Fund]] (launches year 2, canon), and the second node.
+
+## Relations
+
+depends_on:: [[Cap Table]]
+depends_on:: [[Studio]]
+part_of:: [[UnLimited Partners]]
+
+## Open
+
+> [!todo] James / John
+> - Confirm or replace every [bracketed] salary and check estimate.
+> - Studio pre-seed range for ETHEREA and Hohm — no canon number exists.
+> - Whether Router needs Guild capital beyond the ARIA grant.
+> - Raise figures ($22M / $11M) are unsettled in the ledger — this note inherits that status.
+
+
+---
+
 <!-- note: Inception (companies/Inception.md) -->
 
 ---
@@ -1596,6 +1706,52 @@ founded_by:: [[Sam Gbafa]]
 
 ---
 
+<!-- note: After School (companies/After School.md) -->
+
+---
+title: After School
+type: company
+status: unsettled
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [the events business]
+sources:
+  - "John Fagan, doc comment [i] on Studio, Aug 23 2026"
+  - "James Barnes, in conversation, Aug 23 2026"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Decision recorded; everything below the quotes is open. The two lines quoted are John's and James's own words.
+
+# After [[School]]
+
+**John (doc comment [i]):** "should we add an events company called "After [[School]]"? maybe thats where we throw parties, rent the space, and throw the conference out of?"
+
+**James (Aug 23):** "yes i think there should clearly be an events business."
+
+## Team
+
+> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
+> **CEO, After School** — hire Q4 2026, funded by [[School]] revenue. This is the operator role for [[School]]'s revenue lines and the first "killer replacement" under [[Studio]] principle 1, freeing a partner chair. Whether this answers the open cap-table question ("an EIR hire, or the operator role at School?") is still James's and John's call.
+
+## Relations
+
+part_of:: [[Studio]]
+located_at:: [[School]]
+
+## Open
+
+> [!todo] Claude
+> Decided: an events business exists. Everything else is not:
+> - **Name** — "After [[School]]" is John's suggestion, not settled.
+> - **Scope** — which of [[School]]'s lines move in: parties & cultural programming? short-term rentals? TV/Film? conferences incl. the [[Present Future Summit]]? dinners?
+> - **Numbers** — [[School]]'s "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, [[School]]'s figures and the [[Numbers]] ledger split and must be restated.
+> - **Cap table** — new studio company per the template (One 51 / lead ~25–35 / pool ~15; incubating partner 2–4). Who leads it — an EIR hire, or does this become the operator role at [[School]]?
+> - **Whether it also owns the agentic rental automation** James removed from [[School]]'s copy on Aug 21.
+
+
+---
+
 <!-- note: Templar (places/Templar.md) -->
 
 ---
@@ -1638,47 +1794,6 @@ A spaceship for human well-being — an experimental platform for reaching your 
 part_of:: [[Hohm]]
 located_at:: [[School]]
 depends_on:: [[OneButton]]
-
-
----
-
-<!-- note: After School (companies/After School.md) -->
-
----
-title: After School
-type: company
-status: unsettled
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [the events business]
-sources:
-  - "John Fagan, doc comment [i] on Studio, Aug 23 2026"
-  - "James Barnes, in conversation, Aug 23 2026"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Decision recorded; everything below the quotes is open. The two lines quoted are John's and James's own words.
-
-# After [[School]]
-
-**John (doc comment [i]):** "should we add an events company called "After [[School]]"? maybe thats where we throw parties, rent the space, and throw the conference out of?"
-
-**James (Aug 23):** "yes i think there should clearly be an events business."
-
-## Relations
-
-part_of:: [[Studio]]
-located_at:: [[School]]
-
-## Open
-
-> [!todo] Claude
-> Decided: an events business exists. Everything else is not:
-> - **Name** — "After [[School]]" is John's suggestion, not settled.
-> - **Scope** — which of [[School]]'s lines move in: parties & cultural programming? short-term rentals? TV/Film? conferences incl. the [[Present Future Summit]]? dinners?
-> - **Numbers** — [[School]]'s "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, [[School]]'s figures and the [[Numbers]] ledger split and must be restated.
-> - **Cap table** — new studio company per the template (One 51 / lead ~25–35 / pool ~15; incubating partner 2–4). Who leads it — an EIR hire, or does this become the operator role at [[School]]?
-> - **Whether it also owns the agentic rental automation** James removed from [[School]]'s copy on Aug 21.
 
 
 ---
