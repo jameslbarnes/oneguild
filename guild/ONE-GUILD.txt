@@ -141,18 +141,41 @@ located_at:: [[School]]
 title: James Barnes
 type: person
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 assembled_by: Claude
 aliases: [James]
 sources:
+  - "studiome.ai (About, Work, Press) — James’s own site, his words"
+  - "~/book/vault — outputs/2026-08-10-profile.md (verified-quote profile), wiki/dates/eras.md, wikipedia-afc-draft.md"
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+> [!note] Assembled by Claude (Aug 23, 2026; bio swapped Aug 25)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note except the bracketed proposal in the todo callout. The bio is James’s own text from studiome.ai/about, with “Co-founder · Head of Product.” prepended from the site; [[Managing Partners]] transcludes the whole **Bio** heading; `^intro` marks its first paragraph for short uses. Headings, links and callouts are Claude’s. Status `review` until James vouches.
 
 # James Barnes
+
+> [!todo] Stale on studiome.ai — James to update
+> The fifth paragraph still names Say as the current work. Proposed replacement, bracketed because it is newly written: “Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] [(a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[One Guild]],] I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.” Fix it on studiome.ai/about first, then drop the brackets here.
+
+## Bio (from studiome.ai/about)
+
+Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
+^intro
+
+My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
+
+At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
+
+These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
+
+Through Autobiographer (an AI biographer that helped thousands preserve their life stories), ETHEREA (a real-time AI art system), and my current work on autonomous storytelling agents with Say, I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
+
+I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
+## Bio (from the oneguild.nyc site, older)
+
+Co-founder · Head of Product. Founder and CEO of [[ETHEREA]]. Six years inside Facebook building its political advertising tools; first to flag the data misuse that became the Cambridge Analytica story; built the 2018 election War Room. Now he builds AI experiences that make humans feel more curious, present, and connected.
 
 ## From the site
 
@@ -998,44 +1021,46 @@ part_of:: [[UnLimited Partners]]
 
 ---
 
-<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+<!-- note: Managing Partners (people/Managing Partners.md) -->
 
 ---
-title: Sam Gbafa
-type: person
+title: Managing Partners
+type: theme
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 assembled_by: Claude
-aliases: [Sam]
+aliases: []
 sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
 
-# Sam Gbafa
+# Managing Partners
 
-Head of Engineering
+## [[John Fagan]]
 
-## From the site
+![[John Fagan#^intro]]
 
-Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+## [[James Barnes]]
 
-## From [[TinyCloud]]
-
-[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
-
-At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
-
-## From [[Cap Table]]
-
-| Sam Gbafa | Head of engineering (fractional) | 5% |
+> Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
+> 
+> My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
+> 
+> At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
+> 
+> These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
+> 
+> Through Autobiographer (an AI biographer that helped thousands preserve their life stories), ETHEREA (a real-time AI art system), and my current work on autonomous storytelling agents with Say, I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
+> 
+> I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
+> — from [[James Barnes]]
 
 ## Relations
 
-part_of:: [[Membership]]
+part_of:: [[00 Prospectus]]
 
 
 ---
@@ -1121,6 +1146,48 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 part_of:: [[Studio]]
 founded_by:: [[James Barnes]]
 located_at:: [[School]]
+
+
+---
+
+<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+
+---
+title: Sam Gbafa
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sam]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Sam Gbafa
+
+Head of Engineering
+
+## From the site
+
+Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+
+## From [[TinyCloud]]
+
+[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+
+## From [[Cap Table]]
+
+| Sam Gbafa | Head of engineering (fractional) | 5% |
+
+## Relations
+
+part_of:: [[Membership]]
 
 
 ---
