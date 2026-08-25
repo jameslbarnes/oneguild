@@ -78,7 +78,7 @@ Managing Partners, ✌🏻One Guild
 3. [[Studio]]
 
    18 month goal: 4 companies totaling > $2mm ARR
-   > As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
+   > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
 > — from [[Studio]]
 
 4. [[Cooperative]]
@@ -304,7 +304,7 @@ sources:
 ---
 # Convent
 
-Convent, a 7,000 square foot historical brick townhouse and former functioning convent which borders McCarren Park on the border of Williamsburg and Greenpoint, is our residential and co-living partner. Attached to School, its 11 bedrooms are available for below-market rates for Guild members and their immediate networks.
+Convent, a 7,000 square foot historical brick townhouse and former functioning convent which borders McCarren Park on the border of Williamsburg and Greenpoint, is our residential and co-living partner. Attached to [[School]], its 11 bedrooms are available for below-market rates for Guild members and their immediate networks.
 ## From [[Our Story]]
 
 A chance encounter with someone retrieving vibroacoustic beds we had been lent for a journey led us to discover Convent, a 110-year-old former convent on McCarren Park and attached parochial school on the border of Greenpoint and Williamsburg, which quickly became our home and under our stewardship.
@@ -388,7 +388,7 @@ One operates across the spectrum of our lives, beginning all the way upstream th
 
 ^intro
 
-One's focus on increasing Presence, Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+One's focus on increasing [[Presence]], Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
 ^intro
 [[Presence]]
 The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
@@ -485,7 +485,7 @@ See [[Numbers]].
 title: Studio
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: []
 milestones: []
 sources:
@@ -493,36 +493,46 @@ sources:
 ---
 # Studio
 
-As we have recruited an increasingly talented cohort of founding members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will be born from within the guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51% ownership.
+As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
 ^intro
 
-After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Spieser at Sutter Hill Ventures, and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
+After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Spieser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
 
 1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 2. Studio projects are picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
 
-3. The Studio  own 51% of Studio companies as cofounders, and will compensate CEO’s with a substantial mix of guild equity and company equity. Contributing members will be rewarded with equity proportional to their contribution.
+3. The Studio owns 51%+ of Studio companies as cofounders, and compensates CEO’s with a substantial mix of salary, company equity, and . Contributing members will be rewarded with equity proportional to their contribution.
 
 4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
    
 5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
 
- Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap [[ETHEREA]]'s visual agent SDK and [[TinyCloud]]'s managed database service.  In parallel, we will hire a CEO and founding engineer for [[Router]], another project for which [[TinyCloud]] is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
+We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
 
-## Team needs
+![[Pasted image 20260825135818.png]]
 
+## Our first major focus
 
-|                                  | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 |
-| -------------------------------- | ------- | ------- | ------- | ------- |
-| Founding Engineer, [[ETHEREA]]       |         |         |         |         |
-| Founding GTM, [[ETHEREA]]            |         |         |         |         |
-| Founding designer, [[ETHEREA]]       |         |         |         |         |
-| Founding GTM, [[Hohm]] ([[Inception]])   |         |         |         |         |
-| CMO, ONE                         |         |         |         |         |
-| COO, ONE                         |         |         |         |         |
-| CTO, ONE ([[Sam Gbafa]], Fractional) |         |         |         |         |
-| Head of Engineering, ONE ()      |         |         |         |         |
+Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap [[ETHEREA]]'s visual agent SDK and [[TinyCloud]]'s managed database service.
+
+Building on this momentum, [[ETHEREA]] will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. [[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is [[Hohm]]’s scalable solution for the mass market of psychedelic wellness. Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up [[ETHEREA]] visualization to developers to build their own visual agents.
+
+In parallel, we will hire a CEO and founding engineer for [[Router]], another project for which [[TinyCloud]] is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
+
+## Team
+
+|                                       | Q4 2026 | Q1 2027 | Q2 2027     | Q3 2027 |
+| ------------------------------------- | ------- | ------- | ----------- | ------- |
+| Founding Engineer, [[ETHEREA]]        |         |         |             |         |
+| Founding GTM, [[ETHEREA]]             |         |         |             |         |
+| Founding designer, [[ETHEREA]]        |         |         |             |         |
+| Founding GTM, [[Inception]], [[Hohm]] |         |         |             |         |
+| Founding GTM, [[Templar]], [[Hohm]]   |         |         |             |         |
+| CMO, ONE                              |         |         | To be hired |         |
+| COO, ONE                              |         |         |             |         |
+| CTO, ONE ([[Sam Gbafa]], Fractional)  |         |         |             |         |
+| Head of Engineering, ONE              |         |         |             |         |
 
 timeline:: [[Timeline]]
 
@@ -577,7 +587,7 @@ We target 10% ownership of companies in the cooperative, divided in half between
 
 The mutual exchange of equity, in addition to the discrete allocation described above in the [[Membership|membership section]], will enable fluidity between companies and for founders in the co-op to be able to hedge their own possibility of an exit with the overall success of our portfolio. In a world where founders increasingly see substantial exits marred by unfavorable terms with investors, we believe that this early-stage support with confidence in shared success among peers, paired with a later-stage growth fund with participation from many partners across the ecosystem, will create a different paradigm for mission-aligned founders looking for long-term sustainability.
 
-Check sizes will typically range from $500,000 to $1 million, and valuation will come in at the greater of $10 million or the last round's valuation, with the remaining percentage covered by founder common stock vesting over four years in exchange for shared services. We will begin with two initial deals with mission-aligned companies founded by people we already trust, and will intentionally grow slowly towards a first milestone of ten companies in the co-op by the end of 2028.
+Check sizes will typically range from $500,000 to $1 million, with valuation determined by either the most recent round o. We will begin with two initial deals with mission-aligned companies founded by people we already trust, and will intentionally grow slowly towards a first milestone of ten companies in the co-op by the end of 2028.
 
 Current Companies
 
@@ -1052,9 +1062,9 @@ ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Fo
 
 In the two years since ETHEREA's birth, we have continued to find demand for use cases ranging from stroke recovery research at Johns Hopkins University, to psychedelic reintegration with [[Hohm]], sales teams interested in earning more attention from prospects, travel agents interested in teleporting their clients to far flung locations, and even one of the world's top mentalists. Nearly every person who encounters ETHEREA asks how they can use it, and we are excited to offer two compelling solutions that are intended to scale alongside our events business:
 
-1. **Mobile application:** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which usecases have enough demand to drive bespoke applications.  
+1. **Mobile application (now):** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which use cases have enough demand to drive bespoke applications.  
    
-2. **Visual Agent SDK:**  Bootstrapping with [[Inception]], the psychedelic integration app planned by [[Hohm]], we will 
+2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many more higher bandwidth with realtime visualization.
 
 
 
@@ -1129,7 +1139,7 @@ This is a high margin product, providing strong cash flow at low volume. [[Matt 
 
 [[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is Hohm’s scalable solution for the mass market of psychedelic wellness.
 
-Built in partnership with the organizations already doing this work (MAPS, [[Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)|MINDS]], Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. In preliminary trials, journeyers who integrated with Etherea reported a response 47 percent stronger results than those who did not. 
+Built in partnership with the organizations already doing this work (MAPS, [[Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)|MINDS]], Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. Together with our partners, we will design clinical trials to prove the effectiveness of visualization in post-journey integartion.
 
 Next steps: The use of investment proceeds will primarily be allocated towards building our first [[Templar]], shipping and piloting [[Inception]], and running a clinical trial with “[[Roots to Thrive]]”, the ketamine clinic associated with [[Paul Stamets]] and his partner [[Pam Kryskow]].
 
@@ -1180,9 +1190,7 @@ owner: "[[James Barnes]]"
 
 # Router
 
-Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
-
-In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science. 
+Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
 
 Next Steps:
 
@@ -1190,9 +1198,8 @@ Next Steps:
 2. Begin pilot with Scaling Trust cohort and validate router usefulness
 3. Validate economics of collective bargaining with frontier lab data buyers
    
-pitch site | working paper  | scaling trust
+[pitch site](https://jameslbarnes.github.io/research-router/site/) | [working paper](https://docs.google.com/document/d/1MBTCpckZAKQ3DsBQLEvaLq77mIwONp1G4jWgy5hf_xA/edit?usp=sharing)  | [prototype](http://router.teleport.computer) | [scaling trust](https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust)
 
-timeline:: [[Timeline]]
 
 ## Relations
 
@@ -1507,6 +1514,52 @@ founded_by:: [[Sam Gbafa]]
 
 ---
 
+<!-- note: Templar (places/Templar.md) -->
+
+---
+title: Templar
+type: place
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sound Temple, Templar room]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Templar
+
+## From [[Hohm]]
+
+Templar, [[Hohm]]’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting.
+
+This is a high margin product, providing strong cash flow at low volume.
+
+[[Matt Emmi]], the founder of our key supplier [[OneButton]], is a member of the guild, and our partnership includes design, purchase and installation of at cost.
+
+The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting [[Inception]], and running a clinical trial with “Roots to Thrive”, the ketamine clinic associated with Paul Stamets and his partner Pam Kryskow.
+
+## From [[Studio]]
+
+At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+
+## From the site (as “Sound Temple”)
+
+A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[School]]. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
+
+## Relations
+
+part_of:: [[Hohm]]
+located_at:: [[School]]
+depends_on:: [[OneButton]]
+
+
+---
+
 <!-- note: After School (companies/After School.md) -->
 
 ---
@@ -1709,52 +1762,6 @@ Baritone trained in voice improvisation by Bobby McFerrin; turned all four chair
 ## Relations
 
 part_of:: [[Membership]]
-
-
----
-
-<!-- note: Templar (places/Templar.md) -->
-
----
-title: Templar
-type: place
-status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [Sound Temple, Templar room]
-sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Templar
-
-## From [[Hohm]]
-
-Templar, [[Hohm]]’s ultra high-fidelity sound room built around vibroacoustic floors, is engineered bespoke for the most immersive and transformative trip setting.
-
-This is a high margin product, providing strong cash flow at low volume.
-
-[[Matt Emmi]], the founder of our key supplier [[OneButton]], is a member of the guild, and our partnership includes design, purchase and installation of at cost.
-
-The use of investment proceeds will primarily be allocated towards building our first Templar, shipping and piloting [[Inception]], and running a clinical trial with “Roots to Thrive”, the ketamine clinic associated with Paul Stamets and his partner Pam Kryskow.
-
-## From [[Studio]]
-
-At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
-
-## From the site (as “Sound Temple”)
-
-A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[School]]. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
-
-## Relations
-
-part_of:: [[Hohm]]
-located_at:: [[School]]
-depends_on:: [[OneButton]]
 
 
 ---
