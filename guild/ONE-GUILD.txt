@@ -169,14 +169,6 @@ These experiences at the intersection of technology, politics, and human behavio
 Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] (a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[00 Prospectus|One Guild]], I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
 
 I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
-## Bio (from the oneguild.nyc site, older)
-
-Co-founder · Head of Product. Founder and CEO of [[ETHEREA]]. Six years inside Facebook building its political advertising tools; first to flag the data misuse that became the Cambridge Analytica story; built the 2018 election War Room. Now he builds AI experiences that make humans feel more curious, present, and connected.
-
-## From the site
-
-At the guild level: [[John Fagan]], CEO and Head of Growth; James Barnes, Head of Product; [[Sam Gbafa]], Head of Engineering. Each company keeps its own leadership; the guild team is shared capacity any of them can draw on.
-
 ## From [[Our Story]]
 
 In the years after, the twists and turns of entrepreneurship led James to invent [[ETHEREA]], a new speech visualization technology after raising $3 million and launch an AI biographer with Katie Couric, and John to discover an increasingly Rick Rubin-esque ability to identify and develop talent while creating the world's most advanced ketamine therapy and sound protocol in [[Hohm]].
@@ -1107,48 +1099,6 @@ located_at:: [[School]]
 
 ---
 
-<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
-
----
-title: Sam Gbafa
-type: person
-status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [Sam]
-sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
----
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
-# Sam Gbafa
-
-Head of Engineering
-
-## From the site
-
-Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
-
-## From [[TinyCloud]]
-
-[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
-
-At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
-
-## From [[Cap Table]]
-
-| Sam Gbafa | Head of engineering (fractional) | 5% |
-
-## Relations
-
-part_of:: [[Membership]]
-
-
----
-
 <!-- note: Hohm (companies/Hohm.md) -->
 
 ---
@@ -1256,6 +1206,48 @@ Next Steps:
 part_of:: [[Studio]]
 founded_by:: [[James Barnes]]
 depends_on:: [[TinyCloud]]
+
+
+---
+
+<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+
+---
+title: Sam Gbafa
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sam]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+> [!note] Assembled by Claude (Aug 23, 2026)
+> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
+
+# Sam Gbafa
+
+Head of Engineering
+
+## From the site
+
+Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+
+## From [[TinyCloud]]
+
+[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+
+## From [[Cap Table]]
+
+| Sam Gbafa | Head of engineering (fractional) | 5% |
+
+## Relations
+
+part_of:: [[Membership]]
 
 
 ---
