@@ -152,12 +152,9 @@ sources:
 ---
 
 > [!note] Assembled by Claude (Aug 23, 2026; bio swapped Aug 25)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note except the bracketed proposal in the todo callout. The bio is James’s own text from studiome.ai/about, with “Co-founder · Head of Product.” prepended from the site; [[Managing Partners]] transcludes the whole **Bio** heading; `^intro` marks its first paragraph for short uses. Headings, links and callouts are Claude’s. Status `review` until James vouches.
+> Every sentence below is quoted verbatim from the sources named. The bio is James’s own text from studiome.ai/about, with “Co-founder · Head of Product.” prepended from the site. One edit, approved by James on Aug 25: the fifth paragraph names ETHEREA (in the words of the [[ETHEREA]] note) and One Guild where studiome.ai still says Say — studiome.ai/about is behind the vault until James updates it. [[Managing Partners]] transcludes the whole **Bio** heading; `^intro` marks its first paragraph for short uses. Headings, links and callouts are Claude’s. Status `review` until James vouches.
 
 # James Barnes
-
-> [!todo] Stale on studiome.ai — James to update
-> The fifth paragraph still names Say as the current work. Proposed replacement, bracketed because it is newly written: “Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] [(a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[One Guild]],] I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.” Fix it on studiome.ai/about first, then drop the brackets here.
 
 ## Bio (from studiome.ai/about)
 
@@ -170,7 +167,7 @@ At Facebook from 2013 to 2019, I helped build the company's political advertisin
 
 These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
 
-Through Autobiographer (an AI biographer that helped thousands preserve their life stories), ETHEREA (a real-time AI art system), and my current work on autonomous storytelling agents with Say, I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
+Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] (a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[00 Prospectus|One Guild]], I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
 
 I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
 ## Bio (from the oneguild.nyc site, older)
@@ -617,7 +614,7 @@ sources:
 For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. 
 ^intro
 
-We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock, vesting over a period of time in exchange for the Guild’s contributions, and view this position as analogous to another co-founder in the company. Companies will have access to shared engineering, design, and marketing resources, as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. As is common in holding companies that offer shared services, we will create a credit system for shared resources, which will allow us to prioritize and economize based on the needs of each company at each time. From time to time, we will also organize sprints and support of a single cooperative company, where everyone in the guild might spend between one to five days helping them solve core business problems. 
+We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock, vesting over a period of time in exchange for the Guild’s contributions, and view this position as analogous to another co-founder in the company. Companies will have access to shared engineering, design, and marketing resources from [[Studio]], as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. As is common in holding companies that offer shared services, we will create a credit system for shared resources, which will allow us to prioritize and economize based on the needs of each company at each time. From time to time, we will also organize sprints and support of a single cooperative company, where everyone in the guild might spend between one to five days helping them solve core business problems. 
 
 The mutual exchange of equity, in addition to the discrete allocation described above in the [[Membership|membership section]], will enable fluidity between companies and for founders in the co-op to be able to hedge their own possibility of an exit with the overall success of our portfolio. In a world where founders increasingly see substantial exits marred by unfavorable terms with investors, we believe that this early-stage support with confidence in shared success among peers, paired with a later-stage growth fund with participation from many partners across the ecosystem, will create a different paradigm for mission-aligned founders looking for long-term sustainability.
 
@@ -719,6 +716,11 @@ The [[Studio]]’s Guild membership, credits, and network of nodes may eventuall
 If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
 
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
+
+## Doc comments
+
+> [!quote] James, Aug 25 2026 (on "reduced fees or carry")
+> in the future when we have a growth fund that can be true
 
 ## Relations
 
@@ -1021,50 +1023,6 @@ part_of:: [[UnLimited Partners]]
 
 ---
 
-<!-- note: Managing Partners (people/Managing Partners.md) -->
-
----
-title: Managing Partners
-type: theme
-status: review
-updated: 2026-08-25
-assembled_by: Claude
-aliases: []
-sources:
-  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
----
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
-
-# Managing Partners
-
-## [[John Fagan]]
-
-![[John Fagan#^intro]]
-
-## [[James Barnes]]
-
-> Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
-> 
-> My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
-> 
-> At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
-> 
-> These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
-> 
-> Through Autobiographer (an AI biographer that helped thousands preserve their life stories), ETHEREA (a real-time AI art system), and my current work on autonomous storytelling agents with Say, I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
-> 
-> I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
-> — from [[James Barnes]]
-
-## Relations
-
-part_of:: [[00 Prospectus]]
-
-
----
-
 <!-- note: ETHEREA (companies/ETHEREA.md) -->
 
 ---
@@ -1146,6 +1104,50 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 part_of:: [[Studio]]
 founded_by:: [[James Barnes]]
 located_at:: [[School]]
+
+
+---
+
+<!-- note: Managing Partners (people/Managing Partners.md) -->
+
+---
+title: Managing Partners
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: []
+sources:
+  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
+
+# Managing Partners
+
+## [[John Fagan]]
+
+![[John Fagan#^intro]]
+
+## [[James Barnes]]
+
+> Co-founder · Head of Product. I am obsessed with creating AI experiences that make humans feel more curious, present, and connected, motivated by an unusually public career where I contributed, at the highest levels, to some of technology's most damaging effects.
+> 
+> My journey in technology has been uniquely public and transformative. In 2012, as a young political consultant, I created the world's first personalized political ad, "The Ad About You." This early experiment in data-driven personalization would foreshadow both the tremendous potential and profound challenges of our digital age.
+> 
+> At Facebook from 2013 to 2019, I helped build the company's political advertising tools, generating hundreds of millions in revenue. During the 2016 election, I served as Facebook's embed on the Trump campaign, contributing directly to the weaponization of social media. I also became the first employee to identify and report the data misuse patterns that would later surface as the Cambridge Analytica scandal. After testifying in multiple depositions, I pivoted to lead election integrity efforts, building the "War Room" that helped secure the 2018 midterm elections, and co-founding a SuperPAC that fought Trump using the very tools that had elected him.
+> 
+> These experiences at the intersection of technology, politics, and human behavior taught me that with great technological power comes great responsibility. Today, I'm dedicated to building AI systems that amplify our humanity rather than exploit it.
+> 
+> Through Autobiographer (an AI biographer that helped thousands preserve their life stories) and [[ETHEREA]] (a visualizer that turns live speech into beautiful video in realtime, which I founded and run), and now [[00 Prospectus|One Guild]], I'm exploring how artificial intelligence can make our experiences more vivid, more meaningful, and more authentically human.
+> 
+> I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
+> — from [[James Barnes]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
 
 
 ---
