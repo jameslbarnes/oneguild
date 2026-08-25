@@ -62,6 +62,8 @@ Managing Partners, ✌🏻One Guild
 
 ## Our Flywheel
 
+![[flywheel.svg]]
+
 1. [[School]]
 
    now:: $400k annual run rate · 18 month goal:: $1.5mm annually
