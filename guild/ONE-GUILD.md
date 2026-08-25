@@ -11,7 +11,7 @@ Generated from one/vault. One section per note, in map-of-content order. `[[Name
 title: One Guild | Prospectus | Fall 2026
 type: theme
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 owner: "[[James Barnes]], [[John Fagan]]"
 aliases: [Prospectus, MOC, Index]
 sources:
@@ -60,7 +60,7 @@ Managing Partners, ✌🏻One Guild
 > One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
 > — from [[Thesis]]
 
-## Our Flywheel
+## [[Our Flywheel]]
 
 ![[flywheel.svg]]
 
@@ -141,7 +141,7 @@ located_at:: [[School]]
 title: James Barnes
 type: person
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 assembled_by: Claude
 aliases: [James]
 sources:
@@ -153,6 +153,11 @@ sources:
 > Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # James Barnes
+
+## Bio (from the site)
+
+Co-founder · Head of Product. Founder and CEO of [[ETHEREA]]. Six years inside Facebook building its political advertising tools; first to flag the data misuse that became the Cambridge Analytica story; built the 2018 election War Room. Now he builds AI experiences that make humans feel more curious, present, and connected.
+^intro
 
 ## From the site
 
@@ -191,7 +196,7 @@ part_of:: [[Membership]]
 title: John Fagan
 type: person
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 assembled_by: Claude
 aliases: [John]
 sources:
@@ -203,6 +208,11 @@ sources:
 > Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # John Fagan
+
+## Bio (from the site)
+
+Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+^intro
 
 ## From the site
 
@@ -411,6 +421,73 @@ Our current portfolio of projects
 
 ---
 
+<!-- note: Our Flywheel (engines/Our Flywheel.md) -->
+
+---
+title: Our Flywheel
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: [Flywheel]
+sources:
+  - "00 Prospectus, 'Our Flywheel' section (diagram and order); each engine's own note (intro paragraphs, transcluded)"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Flywheel heading in the site nav opens a page (James, Aug 25: "You can't click on flywheel anywhere yet"). Nothing here was written for this note: the diagram is the one under Our Flywheel in [[00 Prospectus]], and every paragraph is transcluded from the engine's own note. Status `review` until James or John vouch.
+
+# Our Flywheel
+
+![[flywheel.svg]]
+
+1. [[School]]
+
+   > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 11 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
+> — from [[School]]
+
+2. [[Membership]]
+
+   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
+> — from [[Membership]]
+
+3. [[Studio]]
+
+   > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
+> — from [[Studio]]
+
+4. [[Cooperative]]
+
+   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity.
+> — from [[Cooperative]]
+
+5. [[UnLimited Partners]]
+
+   > We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+> — from [[UnLimited Partners]]
+
+6. [[Scout Fund]]
+
+   > A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
+> — from [[Scout Fund]]
+
+7. [[Mystical Network State]]
+
+   > Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
+> — from [[Mystical Network State]]
+
+8. [[Loonshots]]
+
+   > The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
+> — from [[Loonshots]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
+
+
+---
+
 <!-- note: Membership (engines/Membership.md) -->
 
 ---
@@ -496,6 +573,7 @@ aliases: []
 milestones: []
 sources:
   - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
+  - "Jeff Burke, Sutter Hill Ventures: The Silent Builders (Substack) — https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders"
 ---
 # Studio
 
@@ -516,7 +594,7 @@ After studying the stories of many venture studios over the past few decades, we
 
 We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
 
-![[Pasted image 20260825135818.png]]
+![[shv-ten-principles.png|The Ten Observed Principles of SHV (Jeff Burke, Substack)]]
 
 ## Our first major focus
 
@@ -540,7 +618,7 @@ In parallel, we will hire a CEO and founding engineer for [[Router]], another pr
 | CTO, ONE ([[Sam Gbafa]], Fractional)  |         |         |             |         |
 | Head of Engineering, ONE              |         |         |             |         |
 
-timeline:: [[Timeline]]
+The ETHEREA founding engineer will focus on the app and the conference product.
 
 ## Relations
 
@@ -568,7 +646,7 @@ See [[Numbers]].
 title: Cooperative
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: [co-op]
 metrics:
   goal_18mo: "10 companies totaling > $5mm ARR"
@@ -601,8 +679,6 @@ Current Companies
 - [[SECO]]
 
 
-timeline:: [[Timeline]]
-
 ## Relations
 
 
@@ -619,6 +695,9 @@ See [[Numbers]].
 > why?
 
 ## Open
+
+> [!todo] James (Aug 25, 2026 — website-cleanup call; disfluencies removed, nothing added)
+> "The hiring stuff, I think, is something to be finished — in Cooperative. If our goal is indeed 10 companies in 18 months — I think that's what we said at some point; that's ambitious for sure — what's the process that's going to result in us getting to them? Or is that the goal? We can change that too."
 
 > [!todo]
 > Valuation term (re doc comment [i] "why?"): the $10 million floor is superseded. James, Aug 21 2026: "either last round or we will determine if you've never raised, somewhere between $5-15mm". The sentence "valuation will come in at the greater of $10 million or the last round's valuation" awaits its replacement wording.
@@ -693,8 +772,6 @@ The [[Studio]]’s Guild membership, credits, and network of nodes may eventuall
 If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
 
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
-
-timeline:: [[Timeline]]
 
 ## Relations
 
@@ -973,6 +1050,95 @@ sources:
 
 ---
 
+<!-- note: ETHEREA (companies/ETHEREA.md) -->
+
+---
+title: ETHEREA
+type: company
+status: review
+updated: 2026-08-25
+aliases: []
+metrics:
+  now: "~$100k revenue YTD"
+  target: "$1mm in 2027"
+when:
+  start: 2027-01-01
+  end: 2027-12-31
+  label: "targeting $1mm in 2027"
+  precision: year
+milestones:
+  - label: "our monthly salon at Nouriel Roubini’s in mid September"
+    date: 2026-09-15
+    precision: approx
+  - label: "AI for Individual Rights Summit in San Francisco in November"
+    date: 2026-11-15
+    precision: month
+    note: "confirmed; exact dates TBD — JB, Aug 21 2026"
+  - label: "launching in the app store in the late fall"
+    date: 2026-12-15
+    precision: month
+    note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
+media_source: "Media section: ETHEREA site (etherea-ai repo) — landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+owner: "[[James Barnes]]"
+---
+# ETHEREA
+
+| Timeline   | Milestone                                                                                 | Revenue                       |
+| ---------- | ----------------------------------------------------------------------------------------- | ----------------------------- |
+| Now        | Strong PMF signals for live event visualization                                           | ~$100k                        |
+| Soon       | Become breakout conference visualization technology on some of the world's largest stages | $1mm in 2027 \| $15mm by 2030 |
+| Eventually | Category-defining visualizer with visual agent SDK                                        | $100mm ARR by 2033            |
+
+Visualization is the heart of storytelling.
+
+Since learning to paint in caves, humans have obsessively invented tools to share what is in our mind’s eyes. More expressive tools help us to better communicate, coordinate, and coexist. When we see what someone else sees, we learn what moves them. By sharing our perspectives with others, we help them see us.  
+
+Audiovisual content is especially effective at communicating ideas because it can be noticed independently by sight and hearing, which multiply when combined in often unexpected ways. Today, artificial intelligence is creating new bandwidth for verbal communication by collapsing the gap between vocalization and visualization. 
+
+ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+^intro
+
+ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. Building on this momentum, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January.
+
+In the two years since ETHEREA's birth, we have continued to find demand for use cases ranging from stroke recovery research at Johns Hopkins University, to psychedelic reintegration with [[Hohm]], sales teams interested in earning more attention from prospects, travel agents interested in teleporting their clients to far flung locations, and even one of the world's top mentalists. Nearly every person who encounters ETHEREA asks how they can use it, and we are excited to offer two compelling solutions that are intended to scale alongside our events business:
+
+1. **Mobile application (now):** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which use cases have enough demand to drive bespoke applications.  
+   
+2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many more higher bandwidth with realtime visualization.
+
+
+
+
+
+## Media
+
+![[hero.mp4]]
+![Etherea Radio Live | Chillits (2 tracks) | Chrome bodies dance psychedelic patterns](https://www.youtube.com/watch?v=wrUMUh3bcRA)
+![A tour through Tokyo with ETHEREA](https://www.youtube.com/watch?v=1XMIYZJc4XA)
+![[gallery-1.jpg|30 Years of Silicon Alley]]
+![[gallery-2.jpg|ETHEREA live show]]
+![[gallery-3.jpg|ETHEREA live show]]
+![[gallery-4.jpg|ETHEREA live show]]
+![[gallery-5.jpg|ETHEREA live show]]
+![[gallery-6.jpg|ETHEREA live show]]
+![[gallery-7.jpg|ETHEREA live show]]
+![[gallery-8.jpg|ETHEREA live show]]
+
+## Relations
+
+part_of:: [[Studio]]
+founded_by:: [[James Barnes]]
+located_at:: [[School]]
+
+## Numbers
+
+See [[Numbers]].
+
+
+---
+
 <!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
 
 ---
@@ -1015,103 +1181,13 @@ part_of:: [[Membership]]
 
 ---
 
-<!-- note: ETHEREA (companies/ETHEREA.md) -->
-
----
-title: ETHEREA
-type: company
-status: review
-updated: 2026-08-21
-aliases: []
-metrics:
-  now: "~$100k revenue YTD"
-  target: "$1mm in 2027"
-when:
-  start: 2027-01-01
-  end: 2027-12-31
-  label: "targeting $1mm in 2027"
-  precision: year
-milestones:
-  - label: "our monthly salon at Nouriel Roubini’s in mid September"
-    date: 2026-09-15
-    precision: approx
-  - label: "AI for Individual Rights Summit in San Francisco in November"
-    date: 2026-11-15
-    precision: month
-    note: "confirmed; exact dates TBD — JB, Aug 21 2026"
-  - label: "launching in the app store in the late fall"
-    date: 2026-12-15
-    precision: month
-    note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
-media_source: "Media section: ETHEREA site (etherea-ai repo) — landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
-sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-owner: "[[James Barnes]]"
----
-# ETHEREA
-
-| Timeline   | Milestone                                                                                 | Revenue                       |
-| ---------- | ----------------------------------------------------------------------------------------- | ----------------------------- |
-| Now        | Strong PMF signals for live event visualization                                           | ~$100k                        |
-| Soon       | Become breakout conference visualization technology on some of the world's largest stages | $1mm in 2027 \| $15mm by 2030 |
-| Eventually | Category-defining visualizer with visual agent SDK                                        | $100mm ARR by 2033            |
-
-Visualization is the heart of storytelling.
-
-Since learning to paint in caves, humans have obsessively invented tools to share what is in our mind’s eyes. More expressive tools help us to better communicate, coordinate, and coexist. When we see what someone else sees, we learn what moves them. By sharing our perspectives with others, we help them see us.  
-
-Audiovisual content is especially effective at communicating ideas because it can be noticed independently by sight and hearing, which multiply when combined in often unexpected ways. Today, artificial intelligence is creating new bandwidth for verbal communication by collapsing the gap between vocalization and visualization. 
-
-ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
-
-ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. Building on this momentum, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January.
-
-In the two years since ETHEREA's birth, we have continued to find demand for use cases ranging from stroke recovery research at Johns Hopkins University, to psychedelic reintegration with [[Hohm]], sales teams interested in earning more attention from prospects, travel agents interested in teleporting their clients to far flung locations, and even one of the world's top mentalists. Nearly every person who encounters ETHEREA asks how they can use it, and we are excited to offer two compelling solutions that are intended to scale alongside our events business:
-
-1. **Mobile application (now):** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which use cases have enough demand to drive bespoke applications.  
-   
-2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many more higher bandwidth with realtime visualization.
-
-
-
-
-
-## Media
-
-![[hero.mp4]]
-![Etherea Radio Live | Chillits (2 tracks) | Chrome bodies dance psychedelic patterns](https://www.youtube.com/watch?v=wrUMUh3bcRA)
-![A tour through Tokyo with ETHEREA](https://www.youtube.com/watch?v=1XMIYZJc4XA)
-![[gallery-1.jpg|30 Years of Silicon Alley]]
-![[gallery-2.jpg|ETHEREA live show]]
-![[gallery-3.jpg|ETHEREA live show]]
-![[gallery-4.jpg|ETHEREA live show]]
-![[gallery-5.jpg|ETHEREA live show]]
-![[gallery-6.jpg|ETHEREA live show]]
-![[gallery-7.jpg|ETHEREA live show]]
-![[gallery-8.jpg|ETHEREA live show]]
-
-timeline:: [[Timeline]]
-
-## Relations
-
-part_of:: [[Studio]]
-founded_by:: [[James Barnes]]
-located_at:: [[School]]
-
-## Numbers
-
-See [[Numbers]].
-
-
----
-
 <!-- note: Hohm (companies/Hohm.md) -->
 
 ---
 title: Hohm
 type: company
 status: review
-updated: 2026-08-22
+updated: 2026-08-25
 aliases: [Templar, Hohm / Templar]
 when: null
 milestones: []
@@ -1125,9 +1201,9 @@ owner: "[[John Fagan]]"
 The Consciousness Accelerator 
 
 Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future. Our civilization is in need of an Archaic Revival, including the reintroduction of ritual and communal aspects of psychedelics. 
+^intro
 
 The intentional use of these medicines has been a technology granted to humans across cultures and ages. The growing renaissance in the U.S. needs a loving, dedicated focus on the elements grounding their use: (mind)set, setting, and integration. 
-^intro
 
 ## Set
 
@@ -1173,7 +1249,7 @@ depends_on:: [[ETHEREA]]
 title: Router
 type: company
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: [Router]
 when:
   start: 2025-08-01
@@ -1197,6 +1273,7 @@ owner: "[[James Barnes]]"
 # Router
 
 Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
+^intro
 
 Next Steps:
 
@@ -1483,7 +1560,7 @@ depends_on:: [[ETHEREA]]
 title: TinyCloud
 type: company
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: [Tiny Cloud]
 when: null
 milestones:
@@ -1501,6 +1578,7 @@ owner: "[[Sam Gbafa]]"
 tinycloud.xyz 
 
 TinyCloud is a user owned data store which inverts the past relationship between data and software. Each user or organization has a sovereign data environment made up of cryptographically controlled spaces. Applications, collaborators, and agents receive narrowly scoped authority to operate on specific resources for specific purposes. The owner can grant, limit, delegate, and revoke that authority—without ever transferring ownership of the underlying data. In practice, it’s a drop-in backend like Supabase that gives developers compliant, simple, robust customer data management with sovereignty built in.
+^intro
 
 TinyCloud’s powerful infrastructure is vital to many of the Guild's initiatives, providing a database layer for any user-facing projects, storage and provenance for the [[Router]], and the identity service for the [[Mystical Network State]]. Tiny Cloud participated in the recent Shape Rotator Accelerator, where it received the top midterm award grant. The team has also been recently collaborating with Flashbots on their Coordination OS project, where they enable loosely affiliated teams to selectively share information with one another. At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO [[Sam Gbafa]] shared the stage with Vitalik Buterin,  giving a compelling talk
 
@@ -1509,8 +1587,6 @@ TinyCloud CEO [[Sam Gbafa]] will serve as the Guild’s fractional head of engin
 ## From X
 
 ![](https://x.com/TinyCloudLabs/status/1992679015342059592)
-
-timeline:: [[Timeline]]
 
 ## Relations
 
@@ -1857,3 +1933,94 @@ CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of 
 ## Relations
 
 part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Managing Partners (people/Managing Partners.md) -->
+
+---
+title: Managing Partners
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: []
+sources:
+  - "people/John Fagan and people/James Barnes (site bios, transcluded)"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
+
+# Managing Partners
+
+## [[John Fagan]]
+
+> Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+> — from [[John Fagan]]
+
+## [[James Barnes]]
+
+> Co-founder · Head of Product. Founder and CEO of [[ETHEREA]]. Six years inside Facebook building its political advertising tools; first to flag the data misuse that became the Cambridge Analytica story; built the 2018 election War Room. Now he builds AI experiences that make humans feel more curious, present, and connected.
+> — from [[James Barnes]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
+
+
+---
+
+<!-- note: Our Companies (companies/Our Companies.md) -->
+
+---
+title: Our Companies
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: []
+sources:
+  - "Each company's own note (intro paragraphs, transcluded); grouping from the notes' part_of relations"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Companies heading in the site nav opens a page with a description of each company (James, Aug 25: "put descriptions of who each of these things are"). Every paragraph is transcluded from the company's own note; nothing was written for this note. Status `review` until James or John vouch.
+
+# Our Companies
+
+## [[Studio]] companies
+
+1. [[ETHEREA]]
+
+   > ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+> — from [[ETHEREA]]
+
+2. [[Hohm]]
+
+   > Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future. Our civilization is in need of an Archaic Revival, including the reintroduction of ritual and communal aspects of psychedelics.
+> — from [[Hohm]]
+
+3. [[Router]]
+
+   > Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
+> — from [[Router]]
+
+4. [[After School]] *(Claude: the events business — decided, still unsettled in name and scope; see the note.)*
+
+## [[Cooperative]] companies
+
+1. [[TinyCloud]]
+
+   > TinyCloud is a user owned data store which inverts the past relationship between data and software. Each user or organization has a sovereign data environment made up of cryptographically controlled spaces. Applications, collaborators, and agents receive narrowly scoped authority to operate on specific resources for specific purposes. The owner can grant, limit, delegate, and revoke that authority—without ever transferring ownership of the underlying data. In practice, it’s a drop-in backend like Supabase that gives developers compliant, simple, robust customer data management with sovereignty built in.
+> — from [[TinyCloud]]
+
+2. [[SECO]]
+
+   > SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
+> — from [[SECO]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
