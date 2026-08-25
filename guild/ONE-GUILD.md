@@ -124,7 +124,7 @@ Managing Partners, ✌🏻One Guild
 
 ## [[Cap Table]]
 
-## [[Numbers]]
+## [[Use of Funds]]
 
 ## Relations
 
@@ -296,10 +296,6 @@ In addition to being the home for the Guild and the first node in our [[Mystical
 ## Relations
 
 part_of:: [[Mystical Network State]]
-
-## Numbers
-
-See [[Numbers]].
 
 
 ---
@@ -552,9 +548,6 @@ In our first 18 months, we are intentionally limiting our growth in memberships 
 
 located_at:: [[School]]
 
-## Numbers
-
-See [[Numbers]].
 
 ## Doc comments
 
@@ -640,9 +633,6 @@ The ETHEREA founding engineer will focus on the app and the conference product.
 depends_on:: [[Cap Table]]
 located_at:: [[School]]
 
-## Numbers
-
-See [[Numbers]].
 
 ## Doc comments
 
@@ -697,9 +687,6 @@ Current Companies
 ## Relations
 
 
-## Numbers
-
-See [[Numbers]].
 
 ## Doc comments
 
@@ -831,9 +818,6 @@ While we will have no firm geographic requirements, the scout fund evaluation pr
 ## Relations
 
 
-## Numbers
-
-See [[Numbers]].
 
 ## Doc comments
 
@@ -893,11 +877,6 @@ We have informal access and deep connections with: [[Carter Cleveland]]’s (Gui
 > **Node leads ×2** — hired with each node as its deal papers (target Q3 2027), funded by that node's economics rather than the central raise. Placement recorded in the [[Studio]] team table and [[Use of Funds]].
 
 ## Relations
-
-
-## Numbers
-
-See [[Numbers]].
 
 
 ---
@@ -1007,65 +986,92 @@ part_of:: [[00 Prospectus]]
 
 ---
 
-<!-- note: Numbers (ledger/Numbers.md) -->
+<!-- note: Use of Funds (terms/Use of Funds.md) -->
 
 ---
-title: Numbers
+title: Use of Funds
 type: term
-status: review
-updated: 2026-08-24
-aliases: [Ledger]
+status: unsettled
+updated: 2026-08-25
+assembled_by: Claude
+aliases: [Hiring Plan, Headcount]
 sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+  - "Org-chart comparison and hiring plan, conversation with James, Aug 22–25 2026"
+  - "[[Studio]] team table; Numbers ledger ledger; [[Cap Table]]"
 ---
 
-# Numbers
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Every dollar figure below in [brackets] is Claude's estimate, provided as a starting point for review — none is canon. Verbatim figures from the Numbers ledger ledger are cited as such. The raise figures ($22M post-money, $11M first close) are **unsettled** per the ledger. Horizon runs on the Oct 1 2026 clock through Mar 31 2028 (18 months).
 
-| figure (verbatim) | note | as of | source | status |
-|---|---|---|---|---|
-| $400k ARR; 18 month goal: $2mm ARR | [[School]] | 2026-08-24 | John's edit, Aug 24 2026 | revised — JF Aug 24 2026 (goal was $1mm, canon JB Aug 21); James to re-confirm |
-| 28,000 sq. ft. complex on McCarren Park in Greenpoint | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| Convent, a 7,000 sqft 9 bedroom townhouse | [[Convent]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| School, 21,000 sqft of flexible space | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| an additional 3,000 sqft of prime rooftop views of Manhattan | [[School]] | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| $15-25,000/day in revenue | [[School]] — TV/Film & Events | 2026-08-24 | John's edit, Aug 24 2026 | revised — JF Aug 24 2026 (was $15-20,000, canon JB Aug 21); James to re-confirm |
-| a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| a recently acquired startup (>$600m) | [[School]] — Short-term rentals | 2026-08-21 | doc §1 | unsettled — still closing, JB Aug 21 2026 |
-| a three day intensive next May | [[School]] — Conferences | 2026-08-21 | doc §1 | canon — JB, Aug 21 2026 |
-| 10 founding members producing $60k ARR currently, 18 month goal: 150+ members producing > $1.8M ARR in membership fees | [[Membership]] | 2026-08-24 | John's edit, Aug 24 2026 | count 10: canon; $60k ARR: unsettled (cash vs in-kind — James & John to reconcile); goal revised $500k → $1.8M — JF Aug 24 2026 (was canon JB Aug 21); James to re-confirm |
-| a sliding scale of $300 to $1,000 per month for founding members | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
-| limiting our growth in memberships to 150 people | [[Membership]] | 2026-08-21 | doc §2 | canon — JB, Aug 21 2026 |
-| 18 month goal: EIR’s for 4 majority owned companies totaling > $2mm ARR | [[Studio]] | 2026-08-21 | doc §3 heading | canon — JB, Aug 21 2026 |
-| which will assume 51% ownership | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| lead between 1-2 studio projects each | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| The Studio will own > 51% of Studio companies | [[Studio]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| ~$100k revenue YTD, targeting $1mm in 2027 | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| raising $3 million | [[Our Story]] (raised for Autobiographer) | 2026-08-21 | doc Our story, corrected | canon — JB, Aug 21 2026 (was "$4 million") |
-| a six-figure events and installations business this year | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| a recent three-story permanent installation | [[ETHEREA]] | 2026-08-21 | doc §3 | canon — JB, Aug 21 2026 |
-| 18 month goal: 10 companies totaling > $5mm ARR | [[Cooperative]] | 2026-08-21 | doc §4 heading | canon — JB, Aug 21 2026 (halving to 5 / $2.5mm was considered, then kept) |
-| We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
-| Check sizes will typically range from $500,000 to $1 million | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
-| the greater of $10 million or the last round's valuation | [[Cooperative]] | 2026-08-21 | doc §4 | SUPERSEDED — James, Aug 21 2026: "either last round or we will determine if you've never raised, somewhere between $5-15mm"; prose still says $10m pending replacement sentence |
-| founder common stock vesting over four years | [[Cooperative]] | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
-| between one to five days | [[Cooperative]] — sprints | 2026-08-21 | doc §4 | canon — JB, Aug 21 2026 |
-| up to 25% of their holdings for repurchase | [[UnLimited Partners]] | 2026-08-21 | doc §5 | canon — JB, Aug 21 2026 |
-| Launches year 2 | [[Scout Fund]] | 2026-08-21 | doc §6 heading | canon — October 2027, JB Aug 21 2026 |
-| up to $50,000 in capital | [[Scout Fund]] | 2026-08-21 | doc §6 | canon as $50k PER DEAL, not per member — JB Aug 21 2026; sentence to be reworded (doc comment [e]) |
-| 18 month goal: 2 new nodes online | [[Mystical Network State]] | 2026-08-21 | doc §7 heading | canon as meaning "two papered deals with reciprocal value" — JB Aug 21 2026 |
-| six physical properties | [[Mystical Network State]] | 2026-08-21 | doc §7 | canon — JB, Aug 21 2026 |
-| an 85-acre wonderland | [[Mystical Network State]] — The Thyme | 2026-08-21 | doc §7 | canon — JB, Aug 21 2026 |
-| a 110-year-old former convent | [[Convent]] (via [[Our Story]]) | 2026-08-21 | doc Our story | canon — JB, Aug 21 2026 |
-| forty new friends from Brooklyn for a month in Essouria, Morocco | [[Our Story]] | 2026-08-21 | doc Our story | canon — JB, Aug 21 2026 |
-| $22M at increasing multiples post-money | [[UnLimited Partners]] — raise target | 2026-08-21 | site “The First Raise” / plan Terms, Aug 16 | unsettled — four versions in circulation; JB put the written one on the timeline Aug 21 2026 |
-| $11M targeted within three months | [[UnLimited Partners]] — first close | 2026-08-21 | site / plan Terms, Aug 16 | unsettled — drawn Dec. 31, 2026 on the Oct. 1 clock |
-| awarded an $850k grant in May of 2026 | [[Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
-| the $15b conference production market | [[ETHEREA]] | 2026-08-23 | James, Aug 23 2026; basis: US event production/AV spend ≈ $10–20B (Encore ~$1.2–1.5B + Freeman ~$1.4B atop a long tail; 10–20% of the ~$466B US events market) — see _review/ETHEREA — conference market sizing | canon — JB, Aug 23 2026 (ETHEREA serviceable slice ≈ $200M) |
-| a response 47 percent stronger results than those who did not | [[Hohm]] / [[Inception]] — preliminary trials | 2026-08-23 | doc, Hohm §Integration (John) | unsettled — doc comments [j]/[k] Aug 23: replace pending clinical trials |
-| Five-year master lease with a five-year tenant option | [[Our Edges]] §1 — held by School, the nonprofit | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
-| Total combined annual savings at $438,000 vs market rent, totalling $2.35m across 5 years | [[Our Edges]] §1 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author); note 438k×5=$2.19m — basis for $2.35m (escalation?) to be stated |
-| Artists and entrepreneurs-in-residence rotate through Convent at 50% discount | [[Our Edges]] §3 | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
-| 5% equity in exchange for the Studio’s accelerator support (+ invest at previous round valuation) — Carter Cleveland (SECO), Sam Gbafa (TinyCloud) | [[Our Edges]] §4 | 2026-08-23 | James, Aug 23 2026 | UNSETTLED — JB Aug 23: "i'm not sure if the 5% is agreed tho - idk if we've talked numbers with them at all"; confirm with Sam and Carter before use |
+# Use of Funds
+
+The first eighteen months of UnLimited Partner capital buys three things: the team that runs the flywheel, the Guild's positions in its first companies, and reserves to follow on. [[School]] revenue (canon: $400k ARR) carries the building and its operator.
+
+## 1. Team (headcount)
+
+| Role | Entity | Start | Basis | Est. annual (loaded) | Est. through Mar 2028 | Funded by |
+|---|---|---|---|---|---|---|
+| CEO | [[After School]] | Q4 2026 | FTE | [$180k] | [$270k] | [[School]] revenue |
+| CEO | [[Router]] | Q4 2026 | FTE | [$200k] | [$300k] | ARIA grant ($850k, canon) + raise |
+| Founding Engineer | [[Router]] | Q4 2026 | FTE | [$220k] | [$330k] | ARIA grant + raise |
+| Founding Engineer | [[ETHEREA]] | Q4 2026 | FTE | [$220k] | [$330k] | raise |
+| Founding GTM | [[ETHEREA]] | Q4 2026 | FTE | [$180k] | [$270k] | raise |
+| CTO ([[Sam Gbafa]]) | ONE | active | fractional | [$100k] | [$150k] | raise |
+| CFO | ONE | Q4 2026 | fractional | [$80k] | [$120k] | raise |
+| General Counsel | ONE | Q4 2026 | fractional | [$60k] | [$90k] | raise |
+| Founding Designer | [[ETHEREA]] | Q1 2027 | FTE | [$180k] | [$225k] | raise |
+| Founding GTM | [[Inception]] ([[Hohm]]) | Q1 2027 | FTE | [$180k] | [$225k] | raise |
+| Head of Membership | ONE | Q1 2027 | FTE | [$160k] | [$200k] | dues + [[School]] |
+| Head of Engineering | ONE | Q1 2027 | FTE | [$250k] | [$312k] | raise |
+| Founding GTM | [[Templar]] ([[Hohm]]) | Q2 2027 | FTE | [$180k] | [$180k] | raise |
+| CMO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
+| COO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
+| Node leads ×2 | [[Mystical Network State]] | Q3 2027 | FTE | [$120k each] | [$180k] | node economics |
+
+**Headcount by Mar 2028: [16 roles — 13 FTE, 3 fractional].**
+**Estimated people cost through Mar 2028: [~$3.7M]**, of which [~$2.9M] falls on the raise (the remainder is covered by School revenue, dues, the ARIA grant, and node economics).
+
+## 2. Investments
+
+Co-op checks per canon: "Check sizes will typically range from $500,000 to $1 million" at "either last round or we will determine if you've never raised, somewhere between $5-15mm" (Numbers ledger). Studio pre-seeds have no canon range yet — [brackets] below.
+
+| Company | Vehicle | Est. check | Status |
+|---|---|---|---|
+| [[ETHEREA]] | [[Studio]] pre-seed | [$500k–1M] | unsettled |
+| [[Hohm]] ([[Templar]] / [[Inception]]) | [[Studio]] pre-seed | [$500k–1M] | unsettled |
+| [[SECO]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Carter unsettled |
+| [[TinyCloud]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Sam unsettled |
+| [[Router]] | grant-backed; [[Studio]] top-up | [$0–250k] beyond ARIA $850k | unsettled |
+| [[After School]] | [[Studio]] formation | [nominal — School revenue funds it] | unsettled |
+| *Reserve: next studio project* | [[Studio]] | [$500k–1M] | room to grow |
+| *Reserve: next 2–3 co-op companies* | [[Cooperative]] | [$1–2M] | room to grow |
+
+**Estimated investments through Mar 2028: [$4–6M]** ([$2–4M] named + [$1.5–3M] reserves).
+
+## 3. Total against the first close
+
+| Bucket | Est. 18-month need |
+|---|---|
+| People (raise-funded share) | [~$2.9M] |
+| Investments + reserves | [$4–6M] |
+| Operations, spaces, programming buffer | [$1–1.5M] |
+| **Total** | **[~$8–10.4M]** |
+
+The unsettled first close ("$11M targeted within three months," Numbers ledger) covers the full 18-month plan with margin; the balance of the $22M raise funds follow-ons, the [[Scout Fund]] (launches year 2, canon), and the second node.
+
+## Relations
+
+depends_on:: [[Cap Table]]
+depends_on:: [[Studio]]
+part_of:: [[UnLimited Partners]]
+
+## Open
+
+> [!todo] James / John
+> - Confirm or replace every [bracketed] salary and check estimate.
+> - Studio pre-seed range for ETHEREA and Hohm — no canon number exists.
+> - Whether Router needs Guild capital beyond the ARIA grant.
+> - Raise figures ($22M / $11M) are unsettled in the ledger — this note inherits that status.
 
 
 ---
@@ -1151,10 +1157,6 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 part_of:: [[Studio]]
 founded_by:: [[James Barnes]]
 located_at:: [[School]]
-
-## Numbers
-
-See [[Numbers]].
 
 
 ---
@@ -1538,96 +1540,6 @@ precedes:: [[School]]
 
 ---
 
-<!-- note: Use of Funds (terms/Use of Funds.md) -->
-
----
-title: Use of Funds
-type: term
-status: unsettled
-updated: 2026-08-25
-assembled_by: Claude
-aliases: [Hiring Plan, Headcount]
-sources:
-  - "Org-chart comparison and hiring plan, conversation with James, Aug 22–25 2026"
-  - "[[Studio]] team table; [[Numbers]] ledger; [[Cap Table]]"
----
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Every dollar figure below in [brackets] is Claude's estimate, provided as a starting point for review — none is canon. Verbatim figures from the [[Numbers]] ledger are cited as such. The raise figures ($22M post-money, $11M first close) are **unsettled** per the ledger. Horizon runs on the Oct 1 2026 clock through Mar 31 2028 (18 months).
-
-# Use of Funds
-
-The first eighteen months of UnLimited Partner capital buys three things: the team that runs the flywheel, the Guild's positions in its first companies, and reserves to follow on. [[School]] revenue (canon: $400k ARR) carries the building and its operator.
-
-## 1. Team (headcount)
-
-| Role | Entity | Start | Basis | Est. annual (loaded) | Est. through Mar 2028 | Funded by |
-|---|---|---|---|---|---|---|
-| CEO | [[After School]] | Q4 2026 | FTE | [$180k] | [$270k] | [[School]] revenue |
-| CEO | [[Router]] | Q4 2026 | FTE | [$200k] | [$300k] | ARIA grant ($850k, canon) + raise |
-| Founding Engineer | [[Router]] | Q4 2026 | FTE | [$220k] | [$330k] | ARIA grant + raise |
-| Founding Engineer | [[ETHEREA]] | Q4 2026 | FTE | [$220k] | [$330k] | raise |
-| Founding GTM | [[ETHEREA]] | Q4 2026 | FTE | [$180k] | [$270k] | raise |
-| CTO ([[Sam Gbafa]]) | ONE | active | fractional | [$100k] | [$150k] | raise |
-| CFO | ONE | Q4 2026 | fractional | [$80k] | [$120k] | raise |
-| General Counsel | ONE | Q4 2026 | fractional | [$60k] | [$90k] | raise |
-| Founding Designer | [[ETHEREA]] | Q1 2027 | FTE | [$180k] | [$225k] | raise |
-| Founding GTM | [[Inception]] ([[Hohm]]) | Q1 2027 | FTE | [$180k] | [$225k] | raise |
-| Head of Membership | ONE | Q1 2027 | FTE | [$160k] | [$200k] | dues + [[School]] |
-| Head of Engineering | ONE | Q1 2027 | FTE | [$250k] | [$312k] | raise |
-| Founding GTM | [[Templar]] ([[Hohm]]) | Q2 2027 | FTE | [$180k] | [$180k] | raise |
-| CMO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
-| COO | ONE | Q2 2027 | FTE | [$250k] | [$250k] | raise |
-| Node leads ×2 | [[Mystical Network State]] | Q3 2027 | FTE | [$120k each] | [$180k] | node economics |
-
-**Headcount by Mar 2028: [16 roles — 13 FTE, 3 fractional].**
-**Estimated people cost through Mar 2028: [~$3.7M]**, of which [~$2.9M] falls on the raise (the remainder is covered by School revenue, dues, the ARIA grant, and node economics).
-
-## 2. Investments
-
-Co-op checks per canon: "Check sizes will typically range from $500,000 to $1 million" at "either last round or we will determine if you've never raised, somewhere between $5-15mm" ([[Numbers]]). Studio pre-seeds have no canon range yet — [brackets] below.
-
-| Company | Vehicle | Est. check | Status |
-|---|---|---|---|
-| [[ETHEREA]] | [[Studio]] pre-seed | [$500k–1M] | unsettled |
-| [[Hohm]] ([[Templar]] / [[Inception]]) | [[Studio]] pre-seed | [$500k–1M] | unsettled |
-| [[SECO]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Carter unsettled |
-| [[TinyCloud]] | [[Cooperative]] check | $500k–1M (canon range) | terms with Sam unsettled |
-| [[Router]] | grant-backed; [[Studio]] top-up | [$0–250k] beyond ARIA $850k | unsettled |
-| [[After School]] | [[Studio]] formation | [nominal — School revenue funds it] | unsettled |
-| *Reserve: next studio project* | [[Studio]] | [$500k–1M] | room to grow |
-| *Reserve: next 2–3 co-op companies* | [[Cooperative]] | [$1–2M] | room to grow |
-
-**Estimated investments through Mar 2028: [$4–6M]** ([$2–4M] named + [$1.5–3M] reserves).
-
-## 3. Total against the first close
-
-| Bucket | Est. 18-month need |
-|---|---|
-| People (raise-funded share) | [~$2.9M] |
-| Investments + reserves | [$4–6M] |
-| Operations, spaces, programming buffer | [$1–1.5M] |
-| **Total** | **[~$8–10.4M]** |
-
-The unsettled first close ("$11M targeted within three months," [[Numbers]]) covers the full 18-month plan with margin; the balance of the $22M raise funds follow-ons, the [[Scout Fund]] (launches year 2, canon), and the second node.
-
-## Relations
-
-depends_on:: [[Cap Table]]
-depends_on:: [[Studio]]
-part_of:: [[UnLimited Partners]]
-
-## Open
-
-> [!todo] James / John
-> - Confirm or replace every [bracketed] salary and check estimate.
-> - Studio pre-seed range for ETHEREA and Hohm — no canon number exists.
-> - Whether Router needs Guild capital beyond the ARIA grant.
-> - Raise figures ($22M / $11M) are unsettled in the ledger — this note inherits that status.
-
-
----
-
 <!-- note: Inception (companies/Inception.md) -->
 
 ---
@@ -1659,7 +1571,7 @@ depends_on:: [[ETHEREA]]
 ## Open
 
 > [!todo] Claude
-> The "47 percent stronger results" sentence is flagged in the doc ([j]/[k], Aug 23): to be replaced pending clinical trials. Marked unsettled in [[Numbers]].
+> The "47 percent stronger results" sentence is flagged in the doc ([j]/[k], Aug 23): to be replaced pending clinical trials. Marked unsettled in Numbers ledger.
 
 
 ---
@@ -1745,7 +1657,7 @@ located_at:: [[School]]
 > Decided: an events business exists. Everything else is not:
 > - **Name** — "After [[School]]" is John's suggestion, not settled.
 > - **Scope** — which of [[School]]'s lines move in: parties & cultural programming? short-term rentals? TV/Film? conferences incl. the [[Present Future Summit]]? dinners?
-> - **Numbers** — [[School]]'s "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, [[School]]'s figures and the [[Numbers]] ledger split and must be restated.
+> - **Numbers** — [[School]]'s "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, [[School]]'s figures and the Numbers ledger ledger split and must be restated.
 > - **Cap table** — new studio company per the template (One 51 / lead ~25–35 / pool ~15; incubating partner 2–4). Who leads it — an EIR hire, or does this become the operator role at [[School]]?
 > - **Whether it also owns the agentic rental automation** James removed from [[School]]'s copy on Aug 21.
 
