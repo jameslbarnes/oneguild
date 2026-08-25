@@ -64,21 +64,21 @@ Managing Partners, ✌🏻One Guild
 
 1. [[School]]
 
-   now: $400k annual run rate · 18 month goal:: $1.5mm annually
+   now:: $400k annual run rate · 18 month goal:: $1.5mm annually
 
    > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 11 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
 > — from [[School]]
 
 2. [[Membership]]
 
-   now: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
+   now:: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
 
    > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
 > — from [[Membership]]
 
 3. [[Studio]]
 
-   18 month goal: 4 companies totaling > $2mm ARR
+   18 month goal:: 4 companies totaling > $2mm ARR
 
    > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
 > — from [[Studio]]
