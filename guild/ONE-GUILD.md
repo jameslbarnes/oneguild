@@ -393,12 +393,13 @@ One operates across the spectrum of our lives, beginning all the way upstream th
 
 One's focus on increasing [[Presence]], Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
 ^intro
-[[Presence]]
-The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
+
 
 Our current portfolio of projects 
 	  
 	  
+- [[Presence]]
+	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
 - [[Connection]]
 	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
 	
