@@ -64,8 +64,8 @@ Managing Partners, ✌🏻One Guild
 
 1. [[School]]
 
-   now: $400k annual run rate · 18 month goal:: $1mm anually
-   > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
+   now: $400k annual run rate · 18 month goal:: $1.5mm annually
+   > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 11 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
 > — from [[School]]
 
 2. [[Membership]]
@@ -161,13 +161,13 @@ In the years after, the twists and turns of entrepreneurship led James to invent
 
 [[ETHEREA]], founded by managing partner James Barnes, is a visualizer that turns live speech into beautiful video in realtime.
 
-## From [[Research Router]]
+## From [[Router]]
 
-[[Research Router]], cofounded by managing partnerJames Barnes and computer security pioneer Dr.
+[[Router]], cofounded by managing partnerJames Barnes and computer security pioneer Dr.
 
 ## From [[Studio]]
 
-At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Research Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 ## From [[Cap Table]]
 
@@ -213,7 +213,7 @@ In the years after, the twists and turns of entrepreneurship led James to invent
 
 ## From [[Studio]]
 
-At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Research Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 ## From [[Cap Table]]
 
@@ -261,14 +261,14 @@ sources:
 # School
 
 now:: $400k run rate
-18 month goal:: $2mm annually
+18 month goal:: $1.5mm annually
 by:: March 31, 2028
 timeline:: [[Timeline]]
 
-It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 9 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan. 
+It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 11 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan. 
 ^intro
 
-In addition to being the home for the guild and the first node in our [[Mystical Network State|network state]], It offers multiple revenue streams that support our other activities with a growing and synergistic business today:
+In addition to being the home for the Guild and the first node in our [[Mystical Network State|network state]], It offers multiple revenue streams that support our other activities with a growing and synergistic business today:
 
 **TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-25,000/day in revenue, offsetting the monthly rent and overhead for the entire school. 
 
@@ -304,9 +304,7 @@ sources:
 ---
 # Convent
 
-Convent is our residential and co-living partner attached to School, with 11 bedrooms available for entrepreneurs and artists in residence, strategic partners, and unlimited partners who are visiting New York City and are in alignment and desire to be a part of what we're doing. 
-
-
+Convent, a 7,000 square foot historical brick townhouse and former functioning convent which borders McCarren Park on the border of Williamsburg and Greenpoint, is our residential and co-living partner. Attached to School, its 11 bedrooms are available for below-market rates for Guild members and their immediate networks.
 ## From [[Our Story]]
 
 A chance encounter with someone retrieving vibroacoustic beds we had been lent for a journey led us to discover Convent, a 110-year-old former convent on McCarren Park and attached parochial school on the border of Greenpoint and Williamsburg, which quickly became our home and under our stewardship.
@@ -441,6 +439,7 @@ timeline:: [[Timeline]]
 Guild membership, our top-of-the-funnel for talent and future portcos, is diversified across exited founders and seasoned operators, as well as commercially successful musicians and installation artists. 
 
 As a Guild, we take membership seriously. It is the oldest structure for keeping craft alive, and it means three things:
+
 - a mutual dedication to our mastery of **craft**
 - the in-person **transmission** of knowledge and wisdom
 - the careful **curation** of who belongs 
@@ -451,6 +450,7 @@ Members are selected based on their alignment to our values, singular performanc
 Our vision, already successfully being piloted, is for members to collaborate by utilizing excess cycles and resources to support each other without the pain of searching for vetted, accessible talent - while maximizing long term alignment. 
 
 In addition to being interviewed and selected by new managing partners, members pay dues (currently on a sliding scale of $300 to $1,000 per month for founding members, which we will increase over time as things evolve), with benefits including:
+
 - 24/7 Coworking access to [[School]]
 - access to local compute (Greenpoint Compute Collective), and makers spaces/tools
 - members-only programming
@@ -498,7 +498,7 @@ As we have recruited an increasingly talented cohort of founding members, we hav
 
 After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Spieser at Sutter Hill Ventures, and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
 
-1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Research Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 2. Studio projects will be picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
 
@@ -508,7 +508,7 @@ After studying the stories of many venture studios over the past few decades, we
    
 5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
 
- Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap [[ETHEREA]]'s visual agent SDK and [[TinyCloud]]'s managed database service.  In parallel, we will hire a CEO and founding engineer for [[Research Router]], another project for which [[TinyCloud]] is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
+ Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap [[ETHEREA]]'s visual agent SDK and [[TinyCloud]]'s managed database service.  In parallel, we will hire a CEO and founding engineer for [[Router]], another project for which [[TinyCloud]] is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
 
 ## Team needs
 
@@ -812,7 +812,7 @@ sources:
 The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
 ^intro
 
-A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Research Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming [[Present Future Summit|Present Future Summit]], and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
+A Loonshot, inspired by Safi Bachall’s bestselling book, is defined as two or more guild companies working together on a societally important problem that neither could solve alone. As an example, the [[Router]]’s highly ambitious goal of networking the world’s scientists with collective bargaining power over their data depends upon [[TinyCloud]]’s sovereign data infrastructure, will be explored in great depth at our upcoming [[Present Future Summit|Present Future Summit]], and finds an ideal customer in [[Meridial]] and their adjacent ARIA cohort.
 
 Here are a few other Loonshots that we’re currently exploring:
 
@@ -946,7 +946,7 @@ sources:
 | forty new friends from Brooklyn for a month in Essouria, Morocco | [[Our Story]] | 2026-08-21 | doc Our story | canon — JB, Aug 21 2026 |
 | $22M at increasing multiples post-money | [[UnLimited Partners]] — raise target | 2026-08-21 | site “The First Raise” / plan Terms, Aug 16 | unsettled — four versions in circulation; JB put the written one on the timeline Aug 21 2026 |
 | $11M targeted within three months | [[UnLimited Partners]] — first close | 2026-08-21 | site / plan Terms, Aug 16 | unsettled — drawn Dec. 31, 2026 on the Oct. 1 clock |
-| awarded an $850k grant in May of 2026 | [[Research Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
+| awarded an $850k grant in May of 2026 | [[Router]] — ARIA Scaling Trust | 2026-08-21 | James, interview Aug 21 2026 | canon — JB, Aug 21 2026 (prose still says "recently awarded a grant", no amount) |
 | the $15b conference production market | [[ETHEREA]] | 2026-08-23 | James, Aug 23 2026; basis: US event production/AV spend ≈ $10–20B (Encore ~$1.2–1.5B + Freeman ~$1.4B atop a long tail; 10–20% of the ~$466B US events market) — see _review/ETHEREA — conference market sizing | canon — JB, Aug 23 2026 (ETHEREA serviceable slice ≈ $200M) |
 | a response 47 percent stronger results than those who did not | [[Hohm]] / [[Inception]] — preliminary trials | 2026-08-23 | doc, Hohm §Integration (John) | unsettled — doc comments [j]/[k] Aug 23: replace pending clinical trials |
 | Five-year master lease with a five-year tenant option | [[Our Edges]] §1 — held by School, the nonprofit | 2026-08-23 | James, Aug 23 2026 | canon — JB (author) |
@@ -1151,21 +1151,21 @@ depends_on:: [[ETHEREA]]
 
 ---
 
-<!-- note: Research Router (companies/Research Router.md) -->
+<!-- note: Router (companies/Router.md) -->
 
 ---
-title: Research Router
+title: Router
 type: company
 status: review
 updated: 2026-08-21
-aliases: []
+aliases: [Router]
 when:
   start: 2025-08-01
   end: 2028-03-31
   precision: approx
   note: "James, Aug 21 2026: \"i've been working on this for a year now\" → started ~Aug 2025; runs through the horizon"
 milestones:
-  - label: "recruit a leader for Research Router this year"
+  - label: "recruit a leader for Router this year"
     date: 2026-12-31
     precision: year
     note: "James, Aug 21 2026: \"we are trying to recruit a leader for research router this year\""
@@ -1178,9 +1178,9 @@ sources:
 owner: "[[James Barnes]]"
 ---
 
-# Research Router
+# Router
 
-Research Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
+Router, cofounded by managing partner[[James Barnes]] and computer security pioneer Dr. Andrew Miller, is a contributor-owned cooperative for scientific data powered by an agentic harness that enables scientists to share ideas, progress, and problems in real time . Born out of James’ part-time consulting with Flashbots X, the skunkworks arm of Flashbots, it was recently awarded a grant by the Advanced Research and Invention Agency of the British Government as a part of their Scaling Trust program.
 
 In a world where frontier labs threaten to centralize scientific discovery, networking society’s smartest minds and giving them leverage over how they are included in the latest models is an important hedge to protect independent science. 
 
@@ -1489,7 +1489,7 @@ tinycloud.xyz
 
 TinyCloud is a user owned data store which inverts the past relationship between data and software. Each user or organization has a sovereign data environment made up of cryptographically controlled spaces. Applications, collaborators, and agents receive narrowly scoped authority to operate on specific resources for specific purposes. The owner can grant, limit, delegate, and revoke that authority—without ever transferring ownership of the underlying data. In practice, it’s a drop-in backend like Supabase that gives developers compliant, simple, robust customer data management with sovereignty built in.
 
-TinyCloud’s powerful infrastructure is vital to many of the Guild's initiatives, providing a database layer for any user-facing projects, storage and provenance for the [[Research Router]], and the identity service for the [[Mystical Network State]]. Tiny Cloud participated in the recent Shape Rotator Accelerator, where it received the top midterm award grant. The team has also been recently collaborating with Flashbots on their Coordination OS project, where they enable loosely affiliated teams to selectively share information with one another. At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO [[Sam Gbafa]] shared the stage with Vitalik Buterin,  giving a compelling talk
+TinyCloud’s powerful infrastructure is vital to many of the Guild's initiatives, providing a database layer for any user-facing projects, storage and provenance for the [[Router]], and the identity service for the [[Mystical Network State]]. Tiny Cloud participated in the recent Shape Rotator Accelerator, where it received the top midterm award grant. The team has also been recently collaborating with Flashbots on their Coordination OS project, where they enable loosely affiliated teams to selectively share information with one another. At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO [[Sam Gbafa]] shared the stage with Vitalik Buterin,  giving a compelling talk
 
 TinyCloud CEO [[Sam Gbafa]] will serve as the Guild’s fractional head of engineering.
 
@@ -1785,7 +1785,7 @@ The use of investment proceeds will primarily be allocated towards building our 
 
 ## From [[Studio]]
 
-At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Research Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 ## From the site (as “Sound Temple”)
 
