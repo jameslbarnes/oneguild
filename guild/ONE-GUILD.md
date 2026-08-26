@@ -202,7 +202,7 @@ part_of:: [[Membership]]
 title: John Fagan
 type: person
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 assembled_by: Claude
 aliases: [John]
 sources:
@@ -214,6 +214,11 @@ sources:
 > Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # John Fagan
+
+## Bio (from the site)
+
+Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+^intro
 
 ## From the site
 
@@ -401,18 +406,83 @@ One operates across the spectrum of our lives, beginning all the way upstream th
 ^intro
 
 One's focus on increasing [[Presence]], Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
-^intro
-[[Presence]]
-The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
 
-Our current portfolio of projects 
+^intro	  
 	  
-	  
+- [[Presence]]
+	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
 - [[Connection]]
 	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
 	
 - [[Trust]]
 	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
+
+
+---
+
+<!-- note: Our Flywheel (engines/Our Flywheel.md) -->
+
+---
+title: Our Flywheel
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: [Flywheel]
+sources:
+  - "00 Prospectus, 'Our Flywheel' section (diagram and order); each engine's own note (intro paragraphs, transcluded)"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Flywheel heading in the site nav opens a page (James, Aug 25: "You can't click on flywheel anywhere yet"). Nothing here was written for this note: the diagram is the one under Our Flywheel in [[00 Prospectus]], and every paragraph is transcluded from the engine's own note. Status `review` until James or John vouch.
+
+# Our Flywheel
+
+![[flywheel.svg]]
+
+1. [[School]]
+
+   > It all starts with the physical container, our 28,000 sq. ft. complex on McCarren Park in Greenpoint that we are transforming into the nexus for the Brooklyn Renaissance. This campus is split between [[Convent]], a 7,000 sqft 11 bedroom townhouse, attached to School, 21,000 sqft of flexible space for making magic - both buildings collectively providing an additional 3,000 sqft of prime rooftop views of Manhattan.
+> — from [[School]]
+
+2. [[Membership]]
+
+   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
+> — from [[Membership]]
+
+3. [[Studio]]
+
+   > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
+> — from [[Studio]]
+
+4. [[Cooperative]]
+
+   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity.
+> — from [[Cooperative]]
+
+5. [[UnLimited Partners]]
+
+   > We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+> — from [[UnLimited Partners]]
+
+6. [[Scout Fund]]
+
+   > A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
+> — from [[Scout Fund]]
+
+7. [[Mystical Network State]]
+
+   > Our promise and potential is rooted not just in our people and ideas, but in the physical spaces we steward that allow our membership to work, learn, and grow alongside community.
+> — from [[Mystical Network State]]
+
+8. [[Loonshots]]
+
+   > The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
+> — from [[Loonshots]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
 
 
 ---
@@ -646,19 +716,19 @@ Current Companies
 title: UnLimited Partners
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: [UnLimited Partners, ULP, ULPs]
 when:
   start: 2026-10-01
   end: 2027-09-30
   label: "$22M at increasing multiples post-money"
   precision: approx
-  note: "UNSETTLED — written version (site + plan, Aug 16 2026); four raise versions still in circulation, reconciliation with John pending"
+  note: "canon — JB, Aug 25 2026: total target is $22mm; increasing multiples kept"
 milestones:
   - label: "$11M targeted within three months"
     date: 2026-12-31
     precision: month
-    note: "UNSETTLED — first close; three months from the Oct. 1, 2026 clock — JB, Aug 21 2026"
+    note: "canon — JB, Aug 25 2026: first close is $11mm by the end of the year"
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
@@ -709,6 +779,9 @@ If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will 
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
 
 ## Doc comments
+
+> [!quote] James, Aug 25 2026 (the raise)
+> total target is $22mm, first close is $11mm by the end of the year. We will keep increasing multiples
 
 > [!quote] James, Aug 25 2026 (on "reduced fees or carry")
 > in the future when we have a growth fund that can be true
@@ -876,7 +949,7 @@ depends_on:: [[Cooperative]]
 title: Our Edges
 type: theme
 status: review
-updated: 2026-08-23
+updated: 2026-08-25
 aliases: [Arbitrage, Synergies, and Competitive Edges, Edges]
 sources:
   - "James Barnes, written Aug 23 2026 (provided in conversation, placed verbatim)"
@@ -891,7 +964,7 @@ One is a venture studio, with a cultural engine that drives influence and top of
 
 ## 1. LEASE
 
-One is the anchor tenant of a 28,000-square-foot, three-story former parochial school and convent in Williamsburg/Greenpoint. Five-year master lease with a five-year tenant option, held by [[School]], the nonprofit and our long-term aligned partner. One pays pass-through costs only on below market rent, with no markup, with an option on additional space at the same pass-through rate, priority booking of common space, and tenant improvement credited against rent. We also run our conferences, showcases, and member events in the building at cost. Total combined annual savings at $438,000 vs market rent, totalling $2.35m across 5 years
+One is the anchor tenant of a 28,000-square-foot, three-story former parochial school and convent in Williamsburg/Greenpoint. Five-year master lease with a five-year tenant option, held by [[School]], the nonprofit and our long-term aligned partner. One pays pass-through costs only on below market rent, with no markup, with an option on additional space at the same pass-through rate, priority booking of common space, and tenant improvement credited against rent. We also run our conferences, showcases, and member events in the building at cost. Total combined annual savings at $438,000 vs market rent, totalling $2.19m across 5 years
 
 ## 2. TALENT POOL
 
@@ -916,9 +989,7 @@ part_of:: [[00 Prospectus]]
 ## Open
 
 > [!todo] Claude
-> Two internal tensions, flagged not fixed:
-> - **§4 is UNSETTLED:** James isn't sure the 5% was ever discussed with Sam or Carter. "Have given the One 5% equity" cannot be printed or spoken to investors until it's confirmed with them. The conversation covers: the number, instrument, vesting, the prior-round investment right, and how it relates to the [[Cooperative]]'s 10% target.
-> - **§1 arithmetic:** $438,000 × 5 = $2.19m, not $2.35m — presumably escalation; worth one line of basis somewhere before diligence.
+> One internal tension, flagged not fixed:
 > - **"[[School]], the nonprofit":** here "[[School]]" names the 501(c)(3) landlord; elsewhere [[School]] is the engine/building. Doc comment [b] (29 Nassau vs 25 Dobbin, "related but distinct") is the same knot.
 
 
@@ -1070,8 +1141,9 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 
 1. **Mobile application (now):** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which use cases have enough demand to drive bespoke applications.  
    
-2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many more higher bandwidth with realtime visualization.
+2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many others higher bandwidth with realtime visualization.
 
+One important thing to call out about this strategy is that it's deliberately focusing on a wedge for a product where there are nearly infinite wedges.
 
 
 
@@ -1105,7 +1177,7 @@ located_at:: [[School]]
 title: Hohm
 type: company
 status: review
-updated: 2026-08-22
+updated: 2026-08-25
 aliases: [Templar, Hohm / Templar]
 when: null
 milestones: []
@@ -1119,9 +1191,9 @@ owner: "[[John Fagan]]"
 The Consciousness Accelerator 
 
 Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future. Our civilization is in need of an Archaic Revival, including the reintroduction of ritual and communal aspects of psychedelics. 
+^intro
 
 The intentional use of these medicines has been a technology granted to humans across cultures and ages. The growing renaissance in the U.S. needs a loving, dedicated focus on the elements grounding their use: (mind)set, setting, and integration. 
-^intro
 
 ## Set
 
@@ -1167,7 +1239,7 @@ depends_on:: [[ETHEREA]]
 title: Router
 type: company
 status: review
-updated: 2026-08-21
+updated: 2026-08-25
 aliases: [Router]
 when:
   start: 2025-08-01
@@ -1191,6 +1263,7 @@ owner: "[[James Barnes]]"
 # Router
 
 Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
+^intro
 
 Next Steps:
 
@@ -1921,7 +1994,8 @@ sources:
 
 ## [[John Fagan]]
 
-![[John Fagan#^intro]]
+> Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+> — from [[John Fagan]]
 
 ## [[James Barnes]]
 
@@ -1937,6 +2011,62 @@ sources:
 > 
 > I believe we're at an unprecedented moment where we can build virtually anything we can imagine. The question isn't what we can build, but what we should build. My work focuses on creating technology that brings us closer to ourselves and each other.
 > — from [[James Barnes]]
+
+## Relations
+
+part_of:: [[00 Prospectus]]
+
+
+---
+
+<!-- note: Our Companies (companies/Our Companies.md) -->
+
+---
+title: Our Companies
+type: theme
+status: review
+updated: 2026-08-25
+assembled_by: Claude
+aliases: []
+sources:
+  - "Each company's own note (intro paragraphs, transcluded); grouping from the notes' part_of relations"
+---
+
+> [!note] Assembled by Claude (Aug 25, 2026)
+> Made so the Companies heading in the site nav opens a page with a description of each company (James, Aug 25: "put descriptions of who each of these things are"). Every paragraph is transcluded from the company's own note; nothing was written for this note. Status `review` until James or John vouch.
+
+# Our Companies
+
+## [[Studio]] companies
+
+1. [[ETHEREA]]
+
+   > ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+> — from [[ETHEREA]]
+
+2. [[Hohm]]
+
+   > Hohm operates all the way upstream - at the level of subconscious awareness, rewiring our collective programmatic layer to prepare for an increasingly volatile future. Our civilization is in need of an Archaic Revival, including the reintroduction of ritual and communal aspects of psychedelics.
+> — from [[Hohm]]
+
+3. [[Router]]
+
+   > Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
+> — from [[Router]]
+
+4. [[After School]] *(Claude: the events business — decided, still unsettled in name and scope; see the note.)*
+
+## [[Cooperative]] companies
+
+1. [[TinyCloud]]
+
+   > TinyCloud is a user owned data store which inverts the past relationship between data and software. Each user or organization has a sovereign data environment made up of cryptographically controlled spaces. Applications, collaborators, and agents receive narrowly scoped authority to operate on specific resources for specific purposes. The owner can grant, limit, delegate, and revoke that authority—without ever transferring ownership of the underlying data. In practice, it’s a drop-in backend like Supabase that gives developers compliant, simple, robust customer data management with sovereignty built in.
+> — from [[TinyCloud]]
+
+2. [[SECO]]
+
+   > SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
+> — from [[SECO]]
 
 ## Relations
 
