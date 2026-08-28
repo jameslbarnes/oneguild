@@ -1455,34 +1455,6 @@ founded_by:: [[Sam Gbafa]]
 
 ---
 
-<!-- note: After School (companies/After School.md) -->
-
----
-title: After School
-type: company
-status: unsettled
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [the events business]
-sources:
-  - "John Fagan, doc comment [i] on Studio, Aug 23 2026"
-  - "James Barnes, in conversation, Aug 23 2026"
----
-
-# After [[School]]
-
-**John (doc comment [i]):** "should we add an events company called "After [[School]]"? maybe thats where we throw parties, rent the space, and throw the conference out of?"
-
-**James (Aug 23):** "yes i think there should clearly be an events business."
-
-## Relations
-
-part_of:: [[Studio]]
-located_at:: [[School]]
-
-
----
-
 <!-- note: Templar (places/Templar.md) -->
 
 ---
@@ -1834,8 +1806,6 @@ sources:
 
    > Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
 > — from [[Router]]
-
-4. [[After School]]
 
 ## [[Cooperative]] companies
 
