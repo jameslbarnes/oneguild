@@ -180,10 +180,6 @@ In the years after, the twists and turns of entrepreneurship led James to invent
 
 At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
-## From [[Cap Table]]
-
-| James Barnes | Managing partner, head of product | 28.75% |
-
 ## Relations
 
 part_of:: [[Membership]]
@@ -227,10 +223,6 @@ In the years after, the twists and turns of entrepreneurship led James to invent
 ## From [[Studio]]
 
 At any given time, John and James will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
-
-## From [[Cap Table]]
-
-| John Fagan | Managing partner, CEO, head of growth | 33.75% |
 
 ## Relations
 
@@ -1105,10 +1097,6 @@ Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he bui
 
 At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
 
-## From [[Cap Table]]
-
-| Sam Gbafa | Head of engineering (fractional) | 5% |
-
 ## Relations
 
 part_of:: [[Membership]]
@@ -1496,10 +1484,6 @@ Our partnership with House of Blue Lotus, the Guild’s spiritual center, provid
 ## From the site
 
 CEO, House of Blue Lotus. Co-founder of Spirituality Week and former CEO of The Open Center; leads a charitable partner named in One’s charter. *([[Ross Guttler]]’s crew bio — Spiritual Advisor)*
-
-## From [[Cap Table]]
-
-| Pool | CEO and team grants across studio companies, contributing members, hires — including 10% reserved for the charter non-profits ([[School]], House of Blue Lotus) | 30% |
 
 ## Relations
 
