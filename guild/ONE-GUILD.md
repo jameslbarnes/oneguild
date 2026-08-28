@@ -116,15 +116,10 @@ Managing Partners, ✌🏻One Guild
    > The structures we have described above give us all enormous leverage to coordinate together in service of larger goals, and we plan on using this leverage to accomplish increasingly ambitious cross-functional projects that leverage all of the unique strengths and capabilities of everyone involved in the Guild. We call these Loonshots.
 > — from [[Loonshots]]
 
-
 ## [[Our Edges]]
 
 > One is a venture studio, with a cultural engine that drives influence and top of funnel. It is also a grounded bet on a cost structure, sourcing pipeline, and set of terms that no other startup, studio, or fund can match. We have structural economic and financial edges that significantly reduce risk and increase upside.
 > — from [[Our Edges]]
-
-## [[Cap Table]]
-
-## [[Use of Funds]]
 
 ## Relations
 
@@ -209,9 +204,6 @@ sources:
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # John Fagan
 
@@ -377,11 +369,6 @@ We have been iterating elements of ONE since our magical month in Morocco, and n
 
 precedes:: [[School]]
 
-## Open
-
-> [!todo]
-> "after raising $3 million" is wrong: the $3mm raise was for Autobiographer (the AI biographer with Katie Couric), not [[ETHEREA]]. Sentence awaits James’s rewording. — Aug 21 2026
-
 
 ---
 
@@ -432,9 +419,6 @@ aliases: [Flywheel]
 sources:
   - "00 Prospectus, 'Our Flywheel' section (diagram and order); each engine's own note (intro paragraphs, transcluded)"
 ---
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Made so the Flywheel heading in the site nav opens a page (James, Aug 25: "You can't click on flywheel anywhere yet"). Nothing here was written for this note: the diagram is the one under Our Flywheel in [[00 Prospectus]], and every paragraph is transcluded from the engine's own note. Status `review` until James or John vouch.
 
 # Our Flywheel
 
@@ -542,23 +526,9 @@ In addition to being interviewed and selected by new managing partners, members 
 
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
 
-## Team
-
-> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
-> **Head of Membership, ONE** — hire Q1 2027, funded by dues + [[School]] revenue. Owns selection, programming, the 150 cap, and the member marketplace; the [[Studio]]'s talent pipeline runs through this role. Placement recorded in the [[Studio]] team table and [[Use of Funds]].
-
 ## Relations
 
 located_at:: [[School]]
-
-
-## Doc comments
-
-> [!quote] [a]
-> i dont think its necessarily one community per node at all, we should cut that
-
-> [!quote] [d]
-> membership should now be at like 10 (including you, me, alexis, ross, dmarz, mike A, Amanda) some of us are giving our dues in kind but can book it as revenue
 
 
 ---
@@ -607,9 +577,6 @@ In parallel, we will hire a CEO and founding engineer for [[Router]], another pr
 
 ## Team
 
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Quarter placements and the six new rows (marked •) are Claude's proposal from the org-chart comparison; James to confirm. Rationale: After School's CEO and Router's CEO are the first two "killer replacements," bringing the partner load to 1–2 projects each per principle 1. CFO/GC are required to operate the [[UnLimited Partners]] liquidity terms. [[Sam Gbafa]] serves as fractional CTO until the Head of Engineering is hired.
-
 |                                        | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 |
 | -------------------------------------- | ------- | ------- | ------- | ------- |
 | • CEO, [[After School]]                | hire    |         |         |         |
@@ -635,15 +602,6 @@ The ETHEREA founding engineer will focus on the app and the conference product.
 
 depends_on:: [[Cap Table]]
 located_at:: [[School]]
-
-
-## Doc comments
-
-> [!quote] [g]
-> studio needs rewriting
-
-> [!quote] [i] (new, Aug 23)
-> should we add an events company called "[[After School]]"? maybe thats where we throw parties, rent the space, and throw the conference out of?
 
 
 ---
@@ -685,27 +643,6 @@ Current Companies
 
 - [[TinyCloud]]
 - [[SECO]]
-
-
-## Relations
-
-
-
-## Doc comments
-
-> [!quote] [f]
-> Coop: checks: 500-1m; 10 CO's
-
-> [!quote] [i]
-> why?
-
-## Open
-
-> [!todo] James (Aug 25, 2026 — website-cleanup call; disfluencies removed, nothing added)
-> "The hiring stuff, I think, is something to be finished — in Cooperative. If our goal is indeed 10 companies in 18 months — I think that's what we said at some point; that's ambitious for sure — what's the process that's going to result in us getting to them? Or is that the goal? We can change that too."
-
-> [!todo]
-> Valuation term (re doc comment [i] "why?"): the $10 million floor is superseded. James, Aug 21 2026: "either last round or we will determine if you've never raised, somewhere between $5-15mm". The sentence "valuation will come in at the greater of $10 million or the last round's valuation" awaits its replacement wording.
 
 
 ---
@@ -778,14 +715,6 @@ If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will 
 
 The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
 
-## Doc comments
-
-> [!quote] James, Aug 25 2026 (the raise)
-> total target is $22mm, first close is $11mm by the end of the year. We will keep increasing multiples
-
-> [!quote] James, Aug 25 2026 (on "reduced fees or carry")
-> in the future when we have a growth fund that can be true
-
 ## Relations
 
 depends_on:: [[Cap Table]]
@@ -826,24 +755,6 @@ A growing membership of the world's brightest minds and boldest hearts provides 
 While we will have no firm geographic requirements, the scout fund evaluation process will bias towards founders living in Brooklyn, New York City, and the rest of the world, in that order.  Understanding false negatives and false positives, we’ll be able to calibrate the agent to each member, understanding where they are believable, and tune the model to synthesize our community’s best insights to make better decisions while helping members improve in evaluating opportunities. Over time, as AI agents grow increasingly capable of synthesizing multi-dimensional information to evaluate investment decisions , we believe that training through this low-risk experimentation will prepare us to use this technology with higher stakes. We view this as a stake in the ground on day one for our commitment to collective stewardship of capital, leading to a later raise for a growth fund in year 3.
 
 
-## Relations
-
-
-
-## Doc comments
-
-> [!quote] [e]
-> scout fund needs rewiring, 50k per member isnt correct and sounds confusing.
-
-> [!quote] [j]
-> lets include top of funnel idea of Say interviewing every person who comes to [[School]] for how they can support and benefit from guild, and then they recommend 1 person that is ideal for our mission, and them both being eligible for prizes to support them and their work
-
-## Open
-
-> [!todo]
-> Re doc comment [e]: the scout check is $50,000 per deal, not per member (James, Aug 21 2026). The sentence "source up to $50,000 in capital" awaits rewording.
-
-
 ---
 
 <!-- note: Mystical Network State (engines/Mystical Network State.md) -->
@@ -880,14 +791,6 @@ One’s partnership with landed communities and nodes already in existence is th
 The network already touches six physical properties, in various stages of build or affiliation. [[School|The School]], in Brooklyn, is live. 
 
 We have informal access and deep connections with: [[Carter Cleveland]]’s (Guild member and founder of [[SECO|Seco]]) project upstate is underway and already hosting an Edge City popup; Apapacha, an eco-land preserve and development in Zipolite, Mexico; The Thyme is an 85-acre wonderland for creativity, explorations in nature, and human connection in the Berkshires, affiliated nodes. Yoko Village is an eco-village in Santa Teresa, co-founded by a member of the Guild. The 18-month goal is formalizing these partnerships, and getting two more nodes online.
-
-
-## Team
-
-> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
-> **Node leads ×2** — hired with each node as its deal papers (target Q3 2027), funded by that node's economics rather than the central raise. Placement recorded in the [[Studio]] team table and [[Use of Funds]].
-
-## Relations
 
 
 ---
@@ -933,7 +836,6 @@ Here are a few other Loonshots that we’re currently exploring:
 
 - A frontier model for inquiry
 - A brain visualizer
-
 
 ## Relations
 
@@ -986,12 +888,6 @@ Capacity, deal flow, talent, internal tools, and network all move freely between
 
 part_of:: [[00 Prospectus]]
 
-## Open
-
-> [!todo] Claude
-> One internal tension, flagged not fixed:
-> - **"[[School]], the nonprofit":** here "[[School]]" names the 501(c)(3) landlord; elsewhere [[School]] is the engine/building. Doc comment [b] (29 Nassau vs 25 Dobbin, "related but distinct") is the same knot.
-
 
 ---
 
@@ -1008,9 +904,6 @@ sources:
   - "Org-chart comparison and hiring plan, conversation with James, Aug 22–25 2026"
   - "[[Studio]] team table; Numbers ledger ledger; [[Cap Table]]"
 ---
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Every dollar figure below in [brackets] is Claude's estimate, provided as a starting point for review — none is canon. Verbatim figures from the Numbers ledger ledger are cited as such. The raise figures ($22M post-money, $11M first close) are **unsettled** per the ledger. Horizon runs on the Oct 1 2026 clock through Mar 31 2028 (18 months).
 
 # Use of Funds
 
@@ -1074,14 +967,6 @@ depends_on:: [[Cap Table]]
 depends_on:: [[Studio]]
 part_of:: [[UnLimited Partners]]
 
-## Open
-
-> [!todo] James / John
-> - Confirm or replace every [bracketed] salary and check estimate.
-> - Studio pre-seed range for ETHEREA and Hohm — no canon number exists.
-> - Whether Router needs Guild capital beyond the ARIA grant.
-> - Raise figures ($22M / $11M) are unsettled in the ledger — this note inherits that status.
-
 
 ---
 
@@ -1144,9 +1029,6 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many others higher bandwidth with realtime visualization.
 
 One important thing to call out about this strategy is that it's deliberately focusing on a wedge for a product where there are nearly infinite wedges.
-
-
-
 
 ## Media
 
@@ -1222,14 +1104,6 @@ founded_by:: [[John Fagan]]
 located_at:: [[School]]
 depends_on:: [[ETHEREA]]
 
-## Doc comments
-
-> [!quote] [j] (on the 47 percent sentence)
-> need to replace this with something better - we need to do clinical trials on how this technology helps integration
-
-> [!quote] [k]
-> yes, agreed. Do we put anything there now?
-
 
 ---
 
@@ -1273,7 +1147,6 @@ Next Steps:
    
 [pitch site](https://jameslbarnes.github.io/research-router/site/) | [working paper](https://docs.google.com/document/d/1MBTCpckZAKQ3DsBQLEvaLq77mIwONp1G4jWgy5hf_xA/edit?usp=sharing)  | [prototype](http://router.teleport.computer) | [scaling trust](https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust)
 
-
 ## Relations
 
 part_of:: [[Studio]]
@@ -1296,9 +1169,6 @@ sources:
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # Sam Gbafa
 
@@ -1382,9 +1252,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Ethereum Foundation
 
 ## From [[School]]
@@ -1394,11 +1261,6 @@ To catalyze this, we will host the inaugural [[Present Future Summit]] with the 
 ## Relations
 
 depends_on:: [[Present Future Summit]]
-
-## Open
-
-> [!todo] Claude
-> No description in James’s or John’s words yet.
 
 
 ---
@@ -1416,9 +1278,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Daydream
 
 ## From [[School]]
@@ -1428,11 +1287,6 @@ To catalyze this, we will host the inaugural [[Present Future Summit]] with the 
 ## Relations
 
 depends_on:: [[Present Future Summit]]
-
-## Open
-
-> [!todo] Claude
-> No description in James’s or John’s words yet.
 
 
 ---
@@ -1450,9 +1304,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # The Lot Radio
 
 ## From [[School]]
@@ -1462,11 +1313,6 @@ To catalyze this, we will host the inaugural [[Present Future Summit]] with the 
 ## Relations
 
 depends_on:: [[Present Future Summit]]
-
-## Open
-
-> [!todo] Claude
-> No description in James’s or John’s words yet.
 
 
 ---
@@ -1485,9 +1331,6 @@ sources:
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)
 
 ## From [[Hohm]]
@@ -1496,16 +1339,11 @@ Built in partnership with the organizations already doing this work (MAPS, MINDS
 
 ## From the site
 
-Listed under Partners as “Multidisciplinary Institute for Novel Discoveries and Science”. *(Claude: the site’s expansion of the acronym differs from this note’s title — James/John to settle.)*
+Listed under Partners as “Multidisciplinary Institute for Novel Discoveries and Science”.
 
 ## Relations
 
 depends_on:: [[Hohm]]
-
-## Open
-
-> [!todo] Claude
-> No description exists in James’s or John’s words yet.
 
 
 ---
@@ -1522,9 +1360,6 @@ aliases: [CAMP, the Calling All Magical People festival]
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # Calling All Magical People
 
@@ -1563,9 +1398,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Inception
 
 ## From [[Hohm]] (Integration)
@@ -1577,11 +1409,6 @@ Built in partnership with the organizations already doing this work (MAPS, [[Mul
 
 part_of:: [[Hohm]]
 depends_on:: [[ETHEREA]]
-
-## Open
-
-> [!todo] Claude
-> The "47 percent stronger results" sentence is flagged in the doc ([j]/[k], Aug 23): to be replaced pending clinical trials. Marked unsettled in Numbers ledger.
 
 
 ---
@@ -1642,34 +1469,16 @@ sources:
   - "James Barnes, in conversation, Aug 23 2026"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Decision recorded; everything below the quotes is open. The two lines quoted are John's and James's own words.
-
 # After [[School]]
 
 **John (doc comment [i]):** "should we add an events company called "After [[School]]"? maybe thats where we throw parties, rent the space, and throw the conference out of?"
 
 **James (Aug 23):** "yes i think there should clearly be an events business."
 
-## Team
-
-> [!note] Assembled by Claude (Aug 25, 2026) — proposed, James to confirm
-> **CEO, After School** — hire Q4 2026, funded by [[School]] revenue. This is the operator role for [[School]]'s revenue lines and the first "killer replacement" under [[Studio]] principle 1, freeing a partner chair. Whether this answers the open cap-table question ("an EIR hire, or the operator role at School?") is still James's and John's call.
-
 ## Relations
 
 part_of:: [[Studio]]
 located_at:: [[School]]
-
-## Open
-
-> [!todo] Claude
-> Decided: an events business exists. Everything else is not:
-> - **Name** — "After [[School]]" is John's suggestion, not settled.
-> - **Scope** — which of [[School]]'s lines move in: parties & cultural programming? short-term rentals? TV/Film? conferences incl. the [[Present Future Summit]]? dinners?
-> - **Numbers** — [[School]]'s "$400k ARR; 18 month goal: $1mm ARR" is canon; if events revenue moves into this company, [[School]]'s figures and the Numbers ledger ledger split and must be restated.
-> - **Cap table** — new studio company per the template (One 51 / lead ~25–35 / pool ~15; incubating partner 2–4). Who leads it — an EIR hire, or does this become the operator role at [[School]]?
-> - **Whether it also owns the agentic rental automation** James removed from [[School]]'s copy on Aug 21.
 
 
 ---
@@ -1687,9 +1496,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # Templar
 
@@ -1709,7 +1515,7 @@ At any given time, John and James will lead between 1-2 studio projects each, st
 
 ## From the site (as “Sound Temple”)
 
-A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[School]]. *(Claude: the site calls the room Sound Temple; the doc calls it Templar — naming for John to settle.)*
+A spaceship for human well-being — an experimental platform for reaching your highest potential through sound, light, and vibration. Live today at [[School]].
 
 ## Relations
 
@@ -1739,7 +1545,6 @@ owner: "[[Carter Cleveland]]"
 
 SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
 ^intro
-
 
 ## Relations
 
@@ -1789,9 +1594,6 @@ sources:
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # House of Blue Lotus
 
 ## From [[Hohm]]
@@ -1827,9 +1629,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Snow Raven
 
 Ceremonialist in Residence
@@ -1863,9 +1662,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Mendeleyev
 
 Chief Artist in Residence
@@ -1898,9 +1694,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # Matt Emmi
 
 ## From [[Hohm]]
@@ -1927,9 +1720,6 @@ sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
-
 # OneButton
 
 ## From [[Hohm]]
@@ -1955,9 +1745,6 @@ aliases: [Ross]
 sources:
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
-
-> [!note] Assembled by Claude (Aug 23, 2026)
-> Every sentence below is quoted verbatim from the sources named — nothing was written for this note. Headings, links and this callout are Claude’s. Status `review` until James or John vouch.
 
 # Ross Guttler
 
@@ -1986,9 +1773,6 @@ aliases: []
 sources:
   - "people/John Fagan and people/James Barnes (site bios, transcluded)"
 ---
-
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Made so the Partners heading in the site nav opens a page with the two managing partners' bios (James, Aug 25: "just two — partners, with me and you — and then have our bios there"; Ross, Snow Raven and the rest are delayed for now). Every paragraph is transcluded from the person's own note. Status `review` until James or John vouch.
 
 # Managing Partners
 
@@ -2032,9 +1816,6 @@ sources:
   - "Each company's own note (intro paragraphs, transcluded); grouping from the notes' part_of relations"
 ---
 
-> [!note] Assembled by Claude (Aug 25, 2026)
-> Made so the Companies heading in the site nav opens a page with a description of each company (James, Aug 25: "put descriptions of who each of these things are"). Every paragraph is transcluded from the company's own note; nothing was written for this note. Status `review` until James or John vouch.
-
 # Our Companies
 
 ## [[Studio]] companies
@@ -2054,7 +1835,7 @@ sources:
    > Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
 > — from [[Router]]
 
-4. [[After School]] *(Claude: the events business — decided, still unsettled in name and scope; see the note.)*
+4. [[After School]]
 
 ## [[Cooperative]] companies
 
