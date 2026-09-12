@@ -11,11 +11,13 @@ Generated from one/vault. One section per note, in map-of-content order. `[[Name
 title: One Guild | Prospectus | Fall 2026
 type: theme
 status: review
-updated: 2026-08-25
+updated: 2026-09-11
 owner: "[[James Barnes]], [[John Fagan]]"
 aliases: [Prospectus, MOC, Index]
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (operating-model section and revised embedded summaries; founders letter retained)"
 ---
 # One Guild | Prospectus | Fall 2026
 
@@ -60,6 +62,17 @@ Managing Partners, ✌🏻One Guild
 > One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
 > — from [[Thesis]]
 
+## [[How One Works]]
+
+> One pairs an evergreen investment fund with **One PBC**, our operating and holding company. The fund invests in One PBC and directly in selected companies. One PBC provides shared work and tooling, owns operating businesses and selected company stakes, and reserves **30% of its fully diluted equity for employees, members, and participating portfolio companies**. Together, these arrangements support patient company building and shared ownership in what we create.
+> — from [[How One Works]]
+
+![[one-model.png|How One works: the evergreen fund, One PBC, members and portfolio companies]]
+
+[Open the full-size diagram (PDF)](assets/00%20Prospectus/one-model.pdf) · [View the full-size image](assets/00%20Prospectus/one-model.png)
+
+The diagram uses “portco” for a portfolio company. Fee and carry rates and the allocation of formation equity are illustrative where marked.
+
 ## [[Our Flywheel]]
 
 ![[flywheel.svg]]
@@ -75,33 +88,31 @@ Managing Partners, ✌🏻One Guild
 
    now:: 10 founding members producing $60k ARR currently · 18 month goal:: 150+ members producing > $500k ARR in membership fees
 
-   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
+   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. Members can earn One PBC equity through agreed contributions, drawing from the same 30% pool shared by employees and participating portfolio companies.
 > — from [[Membership]]
 
 3. [[Studio]]
 
    18 month goal:: 4 companies totaling > $2mm ARR
 
-   > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
+   > The Studio is One PBC's company-building operation: a permanent home for a shared team, reusable technology, and businesses developed within the Guild. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
 > — from [[Studio]]
 
 4. [[Cooperative]]
 
    18 month goal:: 10 companies totaling > $5mm ARR
 
-   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity.
+   > The Cooperative is the network of independent companies that combine investment from the evergreen fund with work and tooling from One PBC. Participating companies can receive One PBC equity from its shared 30% pool, giving them an interest in the wider enterprise while remaining independent businesses with their own financing and governance terms.
 > — from [[Cooperative]]
 
 5. [[UnLimited Partners]]
 
-   > We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+   > UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Under this model, they subscribe for interests in the evergreen fund. The fund owns its investment in One PBC and its direct portfolio-company positions, giving LPs exposure to both the operating enterprise and selected companies through their fund interests.
 > — from [[UnLimited Partners]]
 
-6. [[Scout Fund]]
+6. [[Scout Fund|Member-sourced investments]]
 
-   launch:: Launches year 2
-
-   > A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
+   > Member-sourced investments are investments the evergreen fund makes through introductions from the network. Members introduce founders and opportunities based on their experience and relationships, and can receive an agreed allocation from the GP's carried interest for sourced investments. The fund retains authority over investment decisions and follow-on commitments.
 > — from [[Scout Fund]]
 
 7. [[Mystical Network State]]
@@ -399,14 +410,80 @@ One's focus on increasing [[Presence]], Connection and Trust is designed to incr
 
 ---
 
+<!-- note: How One Works (terms/How One Works.md) -->
+
+---
+title: How One Works
+type: term
+status: review
+updated: 2026-09-11
+owner: "[[James Barnes]], [[John Fagan]]"
+aliases: []
+assembled_by: Codex
+sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
+---
+# How One Works
+
+One pairs an evergreen investment fund with **One PBC**, our operating and holding company. The fund invests in One PBC and directly in selected companies. One PBC provides shared work and tooling, owns operating businesses and selected company stakes, and reserves **30% of its fully diluted equity for employees, members, and participating portfolio companies**. Together, these arrangements support patient company building and shared ownership in what we create.
+^intro
+
+![[one-model.png|The evergreen fund, One PBC, members and portfolio companies: capital, work and ownership]]
+
+[Open the full-size diagram (PDF)](assets/00%20Prospectus/one-model.pdf) · [View the full-size image](assets/00%20Prospectus/one-model.png)
+
+The diagram uses “portco” for a portfolio company. Fee and carry rates and the allocation of formation equity are illustrative where marked.
+
+## Patient capital and an operating home
+
+We want [[James Barnes|James]] and [[John Fagan|John]] to stay deeply involved in a few important companies for years, while making room for founders and ideas introduced by [[Membership|members]]. The evergreen fund has no scheduled wind-down date. It can distribute proceeds from liquidity events while retaining capital for continued investment, according to its governing documents. Routine investor redemptions are not part of the model; distributions and opportunities to sell an interest are not guaranteed.
+
+One PBC employs the shared team, develops reusable technology, and owns operating businesses and selected portfolio-company stakes. The [[Studio]] supports both businesses developed within One and companies co-created with independent founders. Internal products can become wholly or majority owned operating subsidiaries; other companies can have minority ownership arrangements.
+
+One's shared agent platform begins inside One PBC. A successful internal product can later become a separate operating business. Companies pay for agreed services and licenses, while their company-specific product IP remains theirs under the applicable agreements.
+
+## Work can move across the network
+
+Members and portfolio-company employees can undertake fractional assignments for other companies through One. Each engagement specifies the work, time commitment, compensation, and ownership or licensing of what is created. A team member can work at One, take an assignment, or join a company directly under agreed arrangements.
+
+## Ownership follows the contribution
+
+| What moves | Recipient | Basis |
+|---|---|---|
+| Portfolio-company equity | Evergreen fund | Purchased with investment capital |
+| Portfolio-company equity | Evergreen fund and One PBC | Earned for agreed company-building work; the future-work portion vests as One delivers |
+| One PBC equity pool awards | Employees, members and participating portfolio companies | Agreed contributions and partnership packages |
+| GP carried-interest allocations | Sourcing members | Agreed participation for sourced investments |
+
+The fund's purchased securities are separate from service vesting. Earned equity can recognize completed work or contributed IP upfront, with the future-work portion vesting against agreed services or milestones. The diagram illustrates a 70% fund / 30% One PBC allocation of formation equity; transaction-specific terms determine the actual allocation.
+
+One PBC's **single 30% equity pool** is shared across employees, members, and participating companies. CEOs can nominate contributors, including people on their teams. One approves award amounts, instruments, and vesting terms. Any member can earn One PBC equity for agreed contributions; membership alone does not create an award. Company-held awards and individual awards both draw from this same reserve.
+
+The reserve is measured on a fully diluted basis at adoption. Its allocation among the three groups remains open. Subsequent financing and any approved increase in the reserve can change the original ownership percentages. This pool is distinct from the illustrative allocation of portfolio-company formation equity.
+
+## What investors participate in
+
+[[UnLimited Partners]] subscribe for fund interests. Through the fund, they participate in its direct investments and its ownership of One PBC. Fund interests, One PBC equity, portfolio-company equity, and GP carry have different rights and should be identified separately.
+
+Management fees support the fund-management function. Investment in One PBC provides its capitalization. Service and license fees compensate One for delivery. The financing and service agreements will specify cost allocation, fee offsets, distributions, and treatment of affiliated transactions.
+
+## Relations
+
+depends_on:: [[UnLimited Partners]]
+depends_on:: [[Studio]]
+depends_on:: [[Cooperative]]
+
+
+---
+
 <!-- note: Our Flywheel (engines/Our Flywheel.md) -->
 
 ---
 title: Our Flywheel
 type: theme
 status: review
-updated: 2026-08-25
-assembled_by: Claude
+updated: 2026-09-11
+assembled_by: "Claude (original assembly); Codex (current investment and operating model)"
 aliases: [Flywheel]
 sources:
   - "00 Prospectus, 'Our Flywheel' section (diagram and order); each engine's own note (intro paragraphs, transcluded)"
@@ -423,27 +500,27 @@ sources:
 
 2. [[Membership]]
 
-   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money.
+   > Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. Members can earn One PBC equity through agreed contributions, drawing from the same 30% pool shared by employees and participating portfolio companies.
 > — from [[Membership]]
 
 3. [[Studio]]
 
-   > As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
+   > The Studio is One PBC's company-building operation: a permanent home for a shared team, reusable technology, and businesses developed within the Guild. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
 > — from [[Studio]]
 
 4. [[Cooperative]]
 
-   > For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity.
+   > The Cooperative is the network of independent companies that combine investment from the evergreen fund with work and tooling from One PBC. Participating companies can receive One PBC equity from its shared 30% pool, giving them an interest in the wider enterprise while remaining independent businesses with their own financing and governance terms.
 > — from [[Cooperative]]
 
 5. [[UnLimited Partners]]
 
-   > We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+   > UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Under this model, they subscribe for interests in the evergreen fund. The fund owns its investment in One PBC and its direct portfolio-company positions, giving LPs exposure to both the operating enterprise and selected companies through their fund interests.
 > — from [[UnLimited Partners]]
 
-6. [[Scout Fund]]
+6. [[Scout Fund|Member-sourced investments]]
 
-   > A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
+   > Member-sourced investments are investments the evergreen fund makes through introductions from the network. Members introduce founders and opportunities based on their experience and relationships, and can receive an agreed allocation from the GP's carried interest for sourced investments. The fund retains authority over investment decisions and follow-on commitments.
 > — from [[Scout Fund]]
 
 7. [[Mystical Network State]]
@@ -469,7 +546,7 @@ part_of:: [[00 Prospectus]]
 title: Membership
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-09-11
 aliases: []
 metrics:
   now: "10 founding members producing $60k ARR currently"
@@ -485,7 +562,9 @@ milestones:
     date: 2027-08-31
     precision: year
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (work, ownership and sourcing revision)"
 ---
 # Guild Membership
 
@@ -502,7 +581,7 @@ As a Guild, we take membership seriously. It is the oldest structure for keeping
 - the in-person **transmission** of knowledge and wisdom
 - the careful **curation** of who belongs 
 
-Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. 
+Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. Members can earn One PBC equity through agreed contributions, drawing from the same 30% pool shared by employees and participating portfolio companies.
 ^intro
 
 Our vision, already successfully being piloted, is for members to collaborate by utilizing excess cycles and resources to support each other without the pain of searching for vetted, accessible talent - while maximizing long term alignment. 
@@ -514,9 +593,17 @@ In addition to being interviewed and selected by new managing partners, members 
 - members-only programming
 - access to and member rates for other nodes in our [[Mystical Network State|network state]]
 - internal space rentals at below market costs
-- the ability to refer and invest in projects through both the [[Scout Fund|Scout fund]] and as an [[UnLimited Partners|unlimited partner]]
+- the ability to introduce projects through the [[Scout Fund|member-sourcing program]] and invest as an [[UnLimited Partners|unlimited partner]]
 
 In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
+
+## Work, ownership, and sourcing
+
+Members can earn One PBC equity by contributing to its businesses, shared infrastructure, and company-building work. CEOs can nominate contributors, including people on their teams; One approves each award's amount and terms. Membership by itself does not create an equity entitlement.
+
+Any member or portfolio-company employee can undertake fractional assignments at other companies through One. Each assignment sets out the work, compensation, time commitment, and ownership or licensing of what is created. A work engagement and an equity award are separately agreed.
+
+Members can also introduce founders and investments through the [[Scout Fund|member-sourcing program]]. The evergreen fund retains investment authority. Where agreed, a sourcing member receives an allocation from the GP's carried interest. That participation is separate from One PBC equity and from the fund interests held by [[UnLimited Partners]].
 
 ## Relations
 
@@ -531,25 +618,27 @@ located_at:: [[School]]
 title: Studio
 type: engine
 status: review
-updated: 2026-08-25
+updated: 2026-09-11
 aliases: []
 milestones: []
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
   - "Jeff Burke, Sutter Hill Ventures: The Silent Builders (Substack) — https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders"
+assembled_by: "Codex (operating structure; company focus and existing team proposals retained)"
 ---
 # Studio
 
-As we have recruited an increasingly talented cohort of founding Guild members, we have seen their interactions consistently produce magic. It has become clear to us that many meaningful projects will continue to be born from within the Guild, and are creating the studio as a path to commercialization for the generative creativity that is bubbling out of our walls every day. We have also chosen to build our own pre-existing businesses from within the halls of the Guild, which will assume 51%+ ownership.
+The Studio is One PBC's company-building operation: a permanent home for a shared team, reusable technology, and businesses developed within the Guild. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
 ^intro
 
-After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Spieser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
+After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Speiser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
 
 1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
 
 2. Studio projects are picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
 
-3. The Studio owns 51%+ of Studio companies as cofounders, and compensates CEO’s with a substantial mix of salary, company equity, and . Contributing members will be rewarded with equity proportional to their contribution.
+3. Ownership reflects the founders, capital, IP, and continuing work involved in each company. A substantial role in forming a company can earn a minority stake; One does not require majority ownership of every company it helps create. One PBC and the evergreen fund can receive earned portfolio-company equity, with the future-work portion vesting as One delivers its commitments.
 
 4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
    
@@ -558,6 +647,14 @@ After studying the stories of many venture studios over the past few decades, we
 We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
 
 ![[shv-ten-principles.png|The Ten Observed Principles of SHV (Jeff Burke, Substack)]]
+
+## Shared work, tooling, and ownership
+
+One PBC provides engineering, design, and operating capacity to companies under agreed service and license arrangements. Its shared agent platform begins within One; successful internal products can later become separate operating businesses. Companies retain company-specific product IP under their agreements and can contribute improvements to shared infrastructure.
+
+Members and portfolio-company employees can take fractional assignments through One, and assigned team members can later join a company directly. Responsibilities, compensation, transitions, and IP rights are agreed for each engagement.
+
+One reserves a single 30% equity pool for employees, members, and participating portfolio companies. Individual contributor awards and company partnership awards draw on that same reserve. [[How One Works]] sets out the distinct capital, work, and ownership flows.
 
 ## Our first major focus
 
@@ -581,14 +678,14 @@ In parallel, we will hire a CEO and founding engineer for [[Router]], another pr
 | • General Counsel, ONE (Fractional)    | hire    |         |         |         |
 | Founding designer, [[ETHEREA]]         |         | hire    |         |         |
 | Founding GTM, [[Inception]], [[Hohm]]  |         | hire    |         |         |
-| • Head of Membership, ONE              |         | hire    |         |         |
+| • Head of [[Membership]], ONE              |         | hire    |         |         |
 | Head of Engineering, ONE               |         | hire    |         |         |
 | Founding GTM, [[Templar]], [[Hohm]]    |         |         | hire    |         |
 | CMO, ONE                               |         |         | To be hired |     |
 | COO, ONE                               |         |         | hire    |         |
 | Node leads ×2 (see [[Mystical Network State]]) | |     |         | hire    |
 
-The ETHEREA founding engineer will focus on the app and the conference product.
+The [[ETHEREA]] founding engineer will focus on the app and the conference product.
 
 ## Relations
 
@@ -604,12 +701,12 @@ located_at:: [[School]]
 title: Cooperative
 type: engine
 status: review
-updated: 2026-08-25
+updated: 2026-09-11
 aliases: [co-op]
 metrics:
   goal_18mo: "10 companies totaling > $5mm ARR"
   check_size: "$500,000 to $1 million"
-  target_ownership: "10%"
+  target_ownership: "Transaction-specific; purchased and earned equity agreed separately"
 when:
   start: 2026-10-01
   end: 2028-03-31
@@ -617,19 +714,35 @@ when:
   precision: horizon
 milestones: []
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (investment, services and reciprocal equity terms)"
 ---
 
 # Cooperative
 
-For members who have already founded their own companies and are interested in aligning their long-term interests with the Guild, the cooperative pairs investment and mutual exchange of equity to create a tight-knit community of companies who share resources, strategies, and team capacity. 
+The Cooperative is the network of independent companies that combine investment from the evergreen fund with work and tooling from One PBC. Participating companies can receive One PBC equity from its shared 30% pool, giving them an interest in the wider enterprise while remaining independent businesses with their own financing and governance terms.
 ^intro
 
-We target 10% ownership of companies in the cooperative, divided in half between investment and Founder Common stock, vesting over a period of time in exchange for the Guild’s contributions, and view this position as analogous to another co-founder in the company. Companies will have access to shared engineering, design, and marketing resources from [[Studio]], as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. As is common in holding companies that offer shared services, we will create a credit system for shared resources, which will allow us to prioritize and economize based on the needs of each company at each time. From time to time, we will also organize sprints and support of a single cooperative company, where everyone in the guild might spend between one to five days helping them solve core business problems. 
+## Investment, earned equity, and partnership awards
 
-The mutual exchange of equity, in addition to the discrete allocation described above in the [[Membership|membership section]], will enable fluidity between companies and for founders in the co-op to be able to hedge their own possibility of an exit with the overall success of our portfolio. In a world where founders increasingly see substantial exits marred by unfavorable terms with investors, we believe that this early-stage support with confidence in shared success among peers, paired with a later-stage growth fund with participation from many partners across the ecosystem, will create a different paradigm for mission-aligned founders looking for long-term sustainability.
+Each package identifies three equity flows:
 
-Check sizes will typically range from $500,000 to $1 million, with valuation determined by either the most recent round o. We will begin with two initial deals with mission-aligned companies founded by people we already trust, and will intentionally grow slowly towards a first milestone of ten companies in the co-op by the end of 2028.
+1. The fund purchases portfolio-company securities when it invests cash.
+2. The company can grant additional portfolio-company equity to the fund and One PBC for agreed formation work, services, or IP. Completed contributions can receive upfront credit; the future-work portion vests against agreed services or milestones.
+3. One PBC can grant the company an award from One's shared 30% equity pool as part of the partnership. The securities, values, recipients, and vesting conditions are agreed separately.
+
+The overall company stake and the allocation of earned equity between the fund and One PBC are transaction-specific. The working diagram illustrates a 70% fund / 30% One PBC allocation of formation equity. That illustration is separate from One PBC's own 30% pool and is not a universal portfolio-company ownership requirement.
+
+Company-held One PBC equity belongs to the company. Individual awards give founders or employees their own interests in One. Both can be appropriate, with each award sized against its contribution and charged to the same pool. Awards are subject to One's approval and the applicable eligibility and transaction terms.
+
+## Shared work and tooling
+
+Companies have access to shared engineering, design, and marketing resources from [[Studio]], as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. Companies pay for agreed services and licenses. A credit system for shared resources can help prioritize capacity across company needs. From time to time, coordinated sprints can bring several members or teams together around a company's core problems.
+
+Members and portfolio-company employees can do fractional work for other companies through One. Each engagement establishes the contribution, time commitment, compensation, and IP rights. CEOs can nominate individual contributors for One PBC awards.
+
+The earlier planning range for Cooperative checks is $500,000 to $1 million; investment size and valuation are agreed for each transaction. Smaller member-sourced investments are described in [[Scout Fund|Member-sourced investments]]. These are investment categories within the evergreen fund, with the fund retaining investment authority.
 
 Current Companies
 
@@ -645,67 +758,41 @@ Current Companies
 title: UnLimited Partners
 type: engine
 status: review
-updated: 2026-08-25
+updated: 2026-09-11
 aliases: [UnLimited Partners, ULP, ULPs]
-when:
-  start: 2026-10-01
-  end: 2027-09-30
-  label: "$22M at increasing multiples post-money"
-  precision: approx
-  note: "canon — JB, Aug 25 2026: total target is $22mm; increasing multiples kept"
-milestones:
-  - label: "$11M targeted within three months"
-    date: 2026-12-31
-    precision: month
-    note: "canon — JB, Aug 25 2026: first close is $11mm by the end of the year"
+milestones: []
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (evergreen fund ownership and liquidity model)"
 ---
 
 # UnLimited Partners (ULPs)
 
-Limited Partners are silent investors who contribute only the most abundant of resources, Capital. It's a legal term of art, and also a state of mind - one that needs deep reformation.
-
-One only accepts UnLimited Partners. The same legal protections as LPs, but with an approach to investing that understands the individual behind the capital - their worldview, experience, network, and energy - is what drive the economic engine who give One Guild the patient capital to build out of [[School]], launch companies through the [[Studio]], and grow the Guild. A ULP owns shares in One Guild, Inc., alongside the managing partners and the people who earn ownership by helping build it.
-
-The Guild is the membership layer; the [[Studio]] is the portfolio companies — both internal and the ones we invest in.
-
-We built the [[Studio]] to be held for the long arc, and do not intend to sell the [[Studio]] or take it public (though we may spin off [[Studio]] companies). Our strategy explicitly does not depend on either outcome. The value we create for our members and ULPs far exceeds the tangible ROI, and beyond certain scale the dilution of these benefits outstrips the marginal liquidity.  We expect to reinvest most of the cash the [[Studio]] generates - and most of the proceeds from the companies it creates - into  future studio endeavors, the next node, and the shared institutions that make the network more valuable. Capital that remains in the family continues compounding for everyone who remains part of it.
+UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Under this model, they subscribe for interests in the evergreen fund. The fund owns its investment in One PBC and its direct portfolio-company positions, giving LPs exposure to both the operating enterprise and selected companies through their fund interests.
 ^intro
 
-We also want to make long-term ownership worth your while without making it compulsory.
+## Patient capital with participation in liquidity
 
-The [[Studio]] will distribute dividends ongoing, as well as open eligible liquidity windows following a meaningful liquidity event, when it has surplus cash beyond its operating needs and reserves, or when an approved buyer wants to join the ownership group. These windows will not necessarily occur on a fixed annual schedule.
+The fund has no scheduled liquidation date. It can support selected companies over long periods and invest as opportunities emerge through [[Membership]] and the [[Scout Fund|member-sourcing program]]. An investment in the fund does not itself give an investor direct title to One PBC shares or the fund's underlying assets.
 
-At an eligible liquidity window, a ULP has three choices:
+Under its distribution and reinvestment policy, the fund can distribute proceeds from liquidity events while retaining capital for continued investment. Investors can receive distributions and remain invested in their remaining fund interests. The governing documents will define new subscriptions, transfers, and any opportunities for additional liquidity. Routine investor redemptions are not part of the model; distributions and opportunities to sell an interest are not guaranteed.
 
-1. Remain fully invested. The ULP keeps their entire position and continues participating in the Guild’s growth (see below for incentives to remain fully invested).
-2. Take modest liquidity. The ULP may offer up to 25% of their holdings for repurchase while remaining a ULP and retaining the benefits of continued participation.
-3. Make a clean exit. A ULP who wants more than partial liquidity may offer their entire position for sale. The [[Studio]] may satisfy that request through a company repurchase, another ULP, or an approved new investor.
+## Incentives to remain invested
 
-This is an intentional choice between staying meaningfully invested and leaving cleanly. We do not want partners slowly hollowing out their ownership while continuing to hold the access and privileges of a ULP. At the same time, the 25% option allows someone to recover capital, manage risk, or realize part of the value they helped create without leaving our family.
+We intend to offer consistent incentives for investors who voluntarily retain or reinvest eligible capital. Their form and calculation remain to be agreed. Retained capital continues to bear investment risk, and investment returns and co-investment allocations are not guaranteed.
 
-All purchases remain subject to available funds, applicable law, and buyer demand. If a liquidity window is oversubscribed, the available pool will be allocated according to published terms. A request for a complete exit will be treated as all-or-nothing rather than converted into an unintended partial sale.
+Sourcing members may receive an agreed allocation from the GP's carried interest. LP investment returns, GP carry, and awards from One PBC's equity pool are separate economic interests.
 
-## Making it worthwhile to stay
+## Ownership, fees, and expenses
 
-Remaining a ULP carries benefits beyond continued ownership in the [[Studio]].
+One PBC reserves 30% of its fully diluted equity at adoption for a single pool shared by employees, members, and participating portfolio companies. The fund's exposure to One depends on its actual ownership, the reserve, later issuances, and One's operating performance.
 
-When a company spins out, ULPs receive priority access to invest alongside the Guild through a dedicated vehicle. Those investments can return proceeds directly when the underlying company distributes cash or exits.
+The working diagram illustrates an approximately 2% annual management fee and 20% GP carry. The fee base, carry waterfall, distributions, and any reinvestment incentives remain to be set in the fund documents. These figures describe different economics: management fees support the management function, and carry is the GP's participation under the agreed profit-sharing terms.
 
-ULPs also receive priority allocation in the [[Studio]]’s separately structured Growth Funds, which return proceeds through conventional fund distributions.
+One PBC separately receives investment capital and earns service and license revenue. Financing and service agreements will specify which entity bears each cost, how shared costs are allocated, and whether affiliated fees or other compensation offset fund fees. Affiliated services, equity allocations, and reciprocal ownership will be disclosed and managed under the agreed policies.
 
-ULPs who recycle proceeds into future [[Studio]] vehicles may receive published loyalty terms, including priority allocation and reduced fees or carry where appropriate. These incentives will be offered through consistent programs available to similarly situated partners, rather than negotiated privately through side letters.
-
-The result is a relationship with several layers: ownership in the compounding [[Studio]], direct participation (sidecar opportunities) in individual studio companies, and access to funds designed to return cash. 
-
-## A future network token
-
-The [[Studio]]’s Guild membership, credits, and network of nodes may eventually be represented by a digital token: a shared instrument for access, participation, reputation, or governance across the network.
-
-If the [[Studio]] or an affiliated issuer creates such an instrument, ULPs will receive pro-rata rights to the investor allocation based on their fully diluted ownership of One Guild at the time of issuance. Those rights follow the shares: a partner who has taken partial liquidity participates according to their remaining ownership, while a partner who has exited completely no longer retains a claim through shares they no longer own.
-
-The exact issuer, allocation, lockups, transfer restrictions, and regulatory terms will be established in the definitive financing documents. We are not promising a token on a particular timeline. We are promising that if the [[Studio]] creates one, the investors who own the [[Studio]] will participate fairly in the value it creates.
+See [[How One Works]] for the ownership and operating diagram. The fund documents will specify the financing terms.
 
 ## Relations
 
@@ -717,34 +804,28 @@ depends_on:: [[Cap Table]]
 <!-- note: Scout Fund (engines/Scout Fund.md) -->
 
 ---
-title: Scout Fund
+title: Member-sourced investments
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-09-11
 aliases: [Scout fund]
-metrics:
-  launch: "Launches year 2"
-  check: "up to $50,000"
-when:
-  start: 2027-10-01
-  end: 2028-03-31
-  label: "Launches year 2"
-  precision: month
-  note: "October 2027 — JB, Aug 21 2026"
 milestones: []
 sources:
+  - "James Barnes, September 2026 working model: evergreen fund + One PBC; current model controls conflicting earlier drafts"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (member sourcing within the evergreen fund)"
 ---
-# Scout Fund
 
-launch:: Launches year 2
-by:: October 2027
-timeline:: [[Timeline]]
+# Member-sourced investments
 
-A growing membership of the world's brightest minds and boldest hearts provides unprecedented access to deal flow across mission-aligned companies that are defining the future. We believe that many of these companies will be born in Brooklyn and will offer all of our members the opportunity to source up to $50,000 in capital to founders they believe in (or even themselves) who submit to evaluation by an in-depth in-person AI interview at  [[School]] followed by a rigorous agentic evaluation process. In the same way that other scout funds have been an effective way for growth funds to find deal flow, we believe that our trust-based network scaffolded by our innovative evaluation process can beat the market in finding promising early-stage deals.
+Member-sourced investments are investments the evergreen fund makes through introductions from the network. Members introduce founders and opportunities based on their experience and relationships, and can receive an agreed allocation from the GP's carried interest for sourced investments. The fund retains authority over investment decisions and follow-on commitments.
 ^intro
 
-While we will have no firm geographic requirements, the scout fund evaluation process will bias towards founders living in Brooklyn, New York City, and the rest of the world, in that order.  Understanding false negatives and false positives, we’ll be able to calibrate the agent to each member, understanding where they are believable, and tune the model to synthesize our community’s best insights to make better decisions while helping members improve in evaluating opportunities. Over time, as AI agents grow increasingly capable of synthesizing multi-dimensional information to evaluate investment decisions , we believe that training through this low-risk experimentation will prepare us to use this technology with higher stakes. We view this as a stake in the ground on day one for our commitment to collective stewardship of capital, leading to a later raise for a growth fund in year 3.
+The program gives the network a way to make small bets alongside the few companies James and John help build deeply. One's research and agent tools organize evidence and support evaluation. Investment authority remains with the fund's decision-makers.
+
+A sourcing member's carry allocation is separate from awards of One PBC equity for work or other contributions. There is no automatic capital budget or investment allocation for each member. Check sizes, carry allocations, and investment terms are agreed for the relevant opportunity.
+
+The program operates within the evergreen fund. A separate scout or growth vehicle would require its own decision and terms; it is not assumed by this model.
 
 
 ---
@@ -1461,37 +1542,6 @@ part_of:: [[Membership]]
 
 ---
 
-<!-- note: House of Blue Lotus (partners/House of Blue Lotus.md) -->
-
----
-title: House of Blue Lotus
-type: partner
-status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [HoBL]
-sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
----
-
-# House of Blue Lotus
-
-## From [[Hohm]]
-
-Our partnership with House of Blue Lotus, the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members.
-
-## From the site
-
-CEO, House of Blue Lotus. Co-founder of Spirituality Week and former CEO of The Open Center; leads a charitable partner named in One’s charter. *([[Ross Guttler]]’s crew bio — Spiritual Advisor)*
-
-## Relations
-
-part_of:: [[Membership]]
-
-
----
-
 <!-- note: Snow Raven (people/Snow Raven.md) -->
 
 ---
@@ -1550,6 +1600,37 @@ Baritone trained in voice improvisation by Bobby McFerrin; turned all four chair
 ## From [[Hohm]]
 
 [[Hohm]] Journeys are led by world-class performers and ceremonialists (already including [[Snow Raven]] and Mendeleyev).
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
+<!-- note: House of Blue Lotus (partners/House of Blue Lotus.md) -->
+
+---
+title: House of Blue Lotus
+type: partner
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [HoBL]
+sources:
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+---
+
+# House of Blue Lotus
+
+## From [[Hohm]]
+
+Our partnership with House of Blue Lotus, the Guild’s spiritual center, provides unique access to the world's leading spiritual teachers and wisdom-keepers, available throughout the process for guild members.
+
+## From the site
+
+CEO, House of Blue Lotus. Co-founder of Spirituality Week and former CEO of The Open Center; leads a charitable partner named in One’s charter. *([[Ross Guttler]]’s crew bio — Spiritual Advisor)*
 
 ## Relations
 

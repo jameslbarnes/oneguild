@@ -64,7 +64,7 @@
   <rect x="860" y="388" width="300" height="104" rx="2" class="box"/>
   <text x="1010" y="426" text-anchor="middle" class="h">Unlimited Partners</text>
   <text x="1010" y="448" text-anchor="middle" class="sub">patrons and the Guild’s economic engine</text>
-  <text x="1010" y="468" text-anchor="middle" class="sub mono">dividends · exits · guild liquidity</text>
+  <text x="1010" y="468" text-anchor="middle" class="sub mono">fund distributions · reinvestment</text>
 
   <!-- ULP -> Network State : surplus opens nodes -->
   <path d="M950 386 L950 208" class="flow"/>
@@ -84,7 +84,7 @@
   <path d="M600 526 L600 572" stroke="#C89B3C" stroke-width="0.75" stroke-dasharray="2 4" fill="none"/>
 
   <!-- ===== VEHICLES BAND ===== -->
-  <text x="600" y="588" text-anchor="middle" class="mono cap">Capital vehicles</text>
+  <text x="600" y="588" text-anchor="middle" class="mono cap">Investment and company building</text>
   <rect x="110" y="604" width="980" height="190" rx="2" class="band"/>
 
   <!-- Membership -> band -->
@@ -95,36 +95,36 @@
   <path d="M985 492 L985 602" class="flow"/>
   <text x="997" y="540" class="lbl">funds</text>
   <path d="M1035 602 L1035 494" class="flowg"/>
-  <text x="1047" y="552" class="lbl" style="fill:#C89B3C">exits · dividends · tokens</text>
+  <text x="1047" y="552" class="lbl" style="fill:#C89B3C">distributions</text>
 
-  <!-- four vehicle boxes -->
+  <!-- programs within the evergreen fund and One PBC -->
   <g>
     <rect x="130" y="624" width="220" height="118" rx="2" class="vbox"/>
-    <text x="240" y="656" text-anchor="middle" class="h" style="font-size:22px">Scout Fund</text>
-    <text x="240" y="680" text-anchor="middle" class="sub mono">$50k per member</text>
-    <text x="240" y="698" text-anchor="middle" class="sub mono">AI interview · agentic eval</text>
-    <text x="240" y="724" text-anchor="middle" class="sub mono">$1M deployed · 18 mo</text>
+    <text x="240" y="656" text-anchor="middle" class="h" style="font-size:22px">Member sourcing</text>
+    <text x="240" y="680" text-anchor="middle" class="sub mono">network introductions</text>
+    <text x="240" y="698" text-anchor="middle" class="sub mono">fund decides investments</text>
+    <text x="240" y="724" text-anchor="middle" class="sub mono">sourcing carry by agreement</text>
   </g>
   <g>
     <rect x="370" y="624" width="220" height="118" rx="2" class="vbox"/>
     <text x="480" y="656" text-anchor="middle" class="h" style="font-size:22px">Cooperative</text>
-    <text x="480" y="680" text-anchor="middle" class="sub mono">$500k–1M · 5–10%</text>
-    <text x="480" y="698" text-anchor="middle" class="sub mono">half invested · half common</text>
+    <text x="480" y="680" text-anchor="middle" class="sub mono">$500k–1M planning range</text>
+    <text x="480" y="698" text-anchor="middle" class="sub mono">purchased + earned equity</text>
     <text x="480" y="724" text-anchor="middle" class="sub mono">10 cos · >$5M ARR · 18 mo</text>
   </g>
   <g>
     <rect x="610" y="624" width="220" height="118" rx="2" class="vbox"/>
     <text x="720" y="656" text-anchor="middle" class="h" style="font-size:22px">Studio</text>
-    <text x="720" y="680" text-anchor="middle" class="sub mono">majority owned · EIR led</text>
+    <text x="720" y="680" text-anchor="middle" class="sub mono">minority + owned businesses</text>
     <text x="720" y="698" text-anchor="middle" class="sub mono">ETHEREA · Hohm · next</text>
     <text x="720" y="724" text-anchor="middle" class="sub mono">4 cos · >$2M ARR · 18 mo</text>
   </g>
   <g>
     <rect x="850" y="624" width="220" height="118" rx="2" class="vbox"/>
-    <text x="960" y="656" text-anchor="middle" class="h" style="font-size:22px">Growth Fund</text>
-    <text x="960" y="680" text-anchor="middle" class="sub mono">later-stage follow-on</text>
-    <text x="960" y="698" text-anchor="middle" class="sub mono">ecosystem partners</text>
-    <text x="960" y="724" text-anchor="middle" class="sub mono">—</text>
+    <text x="960" y="656" text-anchor="middle" class="h" style="font-size:22px">Follow-on capital</text>
+    <text x="960" y="680" text-anchor="middle" class="sub mono">evergreen fund reserves</text>
+    <text x="960" y="698" text-anchor="middle" class="sub mono">long-term company support</text>
+    <text x="960" y="724" text-anchor="middle" class="sub mono">no scheduled wind-down</text>
   </g>
 
   <!-- progression arrows between boxes -->
