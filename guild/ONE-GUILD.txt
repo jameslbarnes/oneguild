@@ -72,7 +72,7 @@ We are targeting $11M initially and another $11M in early 2027. The chapter maps
 
 ## [[UnLimited Partners|For investors]]
 
-> UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors acquire One shares and participate in the value of its operating businesses, shared technology, and company holdings. A separate evergreen investment fund is planned for a later phase.
+> UnLimited Partners bring judgment, relationships and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors buy shares in One and participate in the value of its businesses, shared technology and company holdings.
 > — from [[UnLimited Partners]]
 
 The first raise gives investors shares in One PBC. The investor chapter explains the use of capital, shared ownership, dilution and potential liquidity, followed by how a separate fund could join the model later.
@@ -311,7 +311,7 @@ Investors initially buy shares in One PBC and participate in the value of the en
 
 A later evergreen fund could provide capital for new investments and follow-ons. Investors would subscribe to it separately, and One would retain its existing assets unless a transfer was separately agreed. The fund's timing and terms remain open.
 
-This describes our intended operating model. Financing and partnership terms are still being finalized; see [[UnLimited Partners|For investors]] for ownership, dilution, liquidity, and the legal and financial considerations.
+This describes our intended operating model. Financing and partnership terms are still being finalized; see [[UnLimited Partners|For investors]] for what One shares represent, how we use capital, and our approach to long-term ownership.
 
 ## Relations
 
@@ -331,6 +331,7 @@ status: review
 updated: 2026-09-15
 aliases: [Our Thesis]
 sources:
+  - "James Barnes, September 15, 2026: align the homepage and prospectus around three current investment fields; retain broader interests as horizons to explore and explain the role of physical places"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
   - "James Barnes, September 15, 2026: add the matrix connecting the Present Future Summit's three areas to presence, connection and trust; keep psychedelics explicit and central"
   - "James Barnes, September 15, 2026: use psychedelics and consciousness expansion; explain presence, connection and trust before the matrix so its purpose is clear"
@@ -358,7 +359,11 @@ These outcomes guide what we build and back. Each investment should explain whos
 
 ## Where we build and invest
 
-We build and invest across **creative futurism**, **d/acc**, and **psychedelics and consciousness expansion**. These are also the three foundations of the [[Present Future Summit]], where we bring together the people advancing these fields.
+Our current focus is **creative futurism**, **d/acc / pro-social technology**, and **psychedelics and consciousness expansion**. Across these fields, we back companies that strengthen presence, connection and trust—and that our community, shared team and technology can help succeed. These are also the three foundations of the [[Present Future Summit]], where we bring together the people advancing these fields.
+
+- **Creative futurism:** Tools and experiences that turn imagination into expression.
+- **d/acc / pro-social technology:** Private data, open infrastructure, and technology that strengthens human agency.
+- **Psychedelics and consciousness expansion:** Research, experiences, and tools for expanding perception and integrating insight into everyday life.
 
 **We are proudly d/acc and participate in its community.** [d/acc](https://vitalik.eth.limo/general/2025/01/05/dacc2.html) stands for decentralized and democratic, differential defensive acceleration. It calls for accelerating technology that helps people protect themselves and makes society more resilient, with power distributed and democratically accountable. For One, this is the foundation of pro-social technology: private data, open infrastructure and AI that strengthens human agency.
 
@@ -379,6 +384,16 @@ The matrix connects our human aims—stronger attention, relationships and confi
 The matrix also connects [[ETHEREA]]'s work on creative expression and shared experiences, [[TinyCloud]]'s focus on control of personal data, and [[Router]]'s approach to scientific collaboration. A company can contribute at several intersections, with a clear account of the value it creates for the people who use it.
 
 For an investment, we look for a meaningful contribution to this thesis, founders we want to build with over many years, and a credible path to substantial economic and social value. We ask how One can help and what the next commitment of capital should establish. Member input informs each decision; the investment leads remain responsible for it.
+
+## The places that bring us together
+
+[[School]] is the physical home for this work. Over time, we aim to extend the model through partnerships with other communities and selective investment in places where our network can create lasting value.
+
+These places give people room to make, learn, gather and build lasting relationships. They can support companies and experiences across all three fields. [[Mystical Network State|Our network of places]] describes the longer-term ambition. The current [[Use of Funds]] includes support for School; future property acquisitions would need their own investment case and financing plan.
+
+## Horizons we're exploring
+
+Our longer-term interests include longevity and healthspan; fertility, birth, parenting, eldercare and dying; bringing agentic tools to existing, profitable businesses; and land development for communities. We are still developing the timing and investment approach for these possibilities. The three fields above guide our current focus, and [[Use of Funds]] sets out the priorities for this raise.
 
 
 ---
@@ -1000,65 +1015,46 @@ updated: 2026-09-15
 aliases: [UnLimited Partners, ULP, ULPs]
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: simplify the investor page and reconsider the prominent 40% discussion; retain useful investment facts and preserve technical analysis for review"
   - "James Barnes, September 15, 2026: target $11M first, then another $11M in early 2027; $22M total capital"
   - "James Barnes, September 15, 2026: simplify How One Works and place detailed financing and legal discussion here"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (direct One share offering and a separate future fund)"
+assembled_by: "Codex (plain-language investment overview; detailed structure analysis retained in private working notes)"
 ---
 
 # Investing in One
 
-UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors acquire One shares and participate in the value of its operating businesses, shared technology, and company holdings. A separate evergreen investment fund is planned for a later phase.
+UnLimited Partners bring judgment, relationships and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors buy shares in One and participate in the value of its businesses, shared technology and company holdings.
 ^intro
 
-## What investors own
+## What your capital builds
 
-The planned enterprise combines the shared team and agent platform with operating businesses and company holdings. Each company interest depends on its own agreement; a company appearing in our programs does not by itself establish One's ownership.
+We are targeting **$11M initially and an additional $11M in early 2027**, for **$22M in total new capital**. The raise funds the shared team and tooling, product launches, selected company investments, and the places and gatherings that bring our community together. [[Use of Funds]] shows the priorities and illustrative allocations.
 
-One shareholders have an interest in One as a whole. The value of that interest depends on One's assets and liabilities, operating performance, future financing, and the rights of their share class. Company growth can increase the value of One's holdings without producing cash for its operating budget or shareholders.
+One earns revenue as companies pay for agreed work and tooling. It can also own companies outright, purchase minority stakes, and earn equity through company-building work or contributed technology. Together, these activities can grow the value of One over time. [[How One Works]] explains the model.
 
-## Capital and operating revenue
+## Share in what we build
 
-The first raise funds the shared team, reusable technology, and agreed capital support for One's operating businesses and selected company opportunities. Service and license revenue contribute to that budget as companies pay for work and tooling. The operating plan must distinguish parent spending, subsidiary funding, and company payments to avoid counting the same use twice.
+Your investment is in One as a whole. One's value depends on the performance of its businesses, technology and holdings, alongside its costs and obligations. [[Cap Table]] shows the proposed ownership of One, ETHEREA and Hohm; each company's relationship with One depends on its own agreement.
 
-See [[Use of Funds]] for the first-raise priorities, core team and company milestones.
+One plans a **single 30% equity pool**, measured on a fully diluted basis at adoption, for employees, members and participating companies. Awards recognize agreed contributions and can vest over time. Membership alone does not confer equity. The financing terms will establish how the pool and new investment affect everyone's ownership; future financing can dilute shareholders.
 
-We are targeting **$11M initially and an additional $11M in early 2027**, for **$22M in total new capital**. Use of Funds shows the illustrative allocation for each stage. Valuation, instrument, exact closing dates and final spending commitments remain to be agreed.
+## Patient ownership
 
-## Shared ownership and dilution
+We want One to be a continuing home for ambitious work, with the ability to reinvest as companies develop. An increase in a company's valuation can make One's holding more valuable without generating cash.
 
-One plans a single **30% fully diluted equity reserve at adoption** for employees, members, and participating companies. Awards to companies and individuals draw on the same reserve. The financing documents must place pool adoption relative to the first raise and specify existing and new investor ownership. Subsequent financing and approved reserve increases can dilute holders.
+Investors could receive liquidity through dividends, approved share sales or repurchases, or a sale of One. These depend on performance, available cash and the agreed terms. There is no promised payout schedule or routine right to withdraw capital, and an investment can lose value.
 
-The [[Cap Table]] shows the proposed pre-money allocations for One and the proposed ETHEREA and Hohm ownership after contribution.
+## A possible later fund
 
-Raising into One changes ownership of One but does not itself issue new shares in its subsidiaries. A separate financing at a subsidiary can change One's percentage ownership of that business, so its financing and governance need to be considered together.
+A separate evergreen fund could eventually add capital for new investments and follow-ons. It would have its own investors and terms. Existing One assets would stay with One unless a transfer were separately agreed; investing in One would not automatically make someone an investor in the fund. Any shared work or investment arrangements would need to account for the value built with One's capital.
 
-## Patient ownership and liquidity
+## What we're finalizing
 
-One is intended as a continuing operating home for company building. Investors can remain shareholders as businesses develop and One reinvests available capital. Potential liquidity could come through dividends, approved share sales or repurchases, or a corporate transaction, subject to the relevant terms and available resources. The model promises no routine redemption, distribution schedule, or investment return.
+Valuation, share terms, exact closing dates and company ownership agreements are still being developed. We are also working through the structure for holding operating businesses alongside minority investments. That review may affect how much One can invest directly in independent companies and how future investments are held or financed.
 
-Cash from a company exit belongs first to the entity that owns the sold shares. One may use proceeds to fund its businesses or make permitted distributions under its governance and financing terms. For a C corporation, corporate profits can be taxed at the company level, with dividends also taxable to shareholders. The transaction structure and investor circumstances affect the result. [IRS: forming a corporation](https://www.irs.gov/businesses/small-businesses-self-employed/forming-a-corporation)
-
-## Operating-company structure
-
-One's proposed operating-company treatment requires legal analysis. Qualifying majority-owned subsidiary securities can be excluded from the investment-securities numerator of the 40% asset test, while cash and US government securities are excluded from the asset denominator. Each subsidiary must itself satisfy the subsidiary conditions. Majority ownership depends on statutory voting rights, not just economic ownership or vetoes. [Investment Company Act §3](https://www.law.cornell.edu/uscode/text/15/80a-3), [voting and subsidiary definitions](https://www.law.cornell.edu/uscode/text/15/80a-2)
-
-A financing directly into a subsidiary could dilute One below the required voting threshold. Counsel should review the actual capitalization and governance before contributions, financings, equity grants, and spinouts. One's primary business and asset values also matter; calling it a holding company does not establish an exemption. Companies receiving One equity need their own analysis where applicable. [Investment Company Act §3](https://www.law.cornell.edu/uscode/text/15/80a-3)
-
-## The future fund
-
-A later evergreen fund would raise its own capital from LPs and own the investments it acquires. It could finance new companies and follow-ons, invest in One, or purchase an existing stake through a separate transaction. Existing One assets stay with One unless transferred under an agreed transaction. One shareholders would become fund LPs only by separately acquiring fund interests.
-
-The earlier discussion of approximately 2% annual management fees and 20% GP carry remains an illustration for a possible future fund. Those are not terms of this One share offering. The fund's mandate, fee base, waterfall, distribution and reinvestment rules, and any retention incentives remain open. No fund launch date or automatic sourcing-carry entitlement is promised.
-
-We must also determine who owns the future management company and GP, and whether One participates in their profits or carry. Owning One shares does not automatically grant those economics. Members could receive agreed sourcing carry from the future GP, separately from One equity awards for work.
-
-## Agreements between One and the fund
-
-One's early investors finance the operating capacity that can create future opportunities. Agreements must identify what One retains, what the fund pays for, and how each receives value. They must address opportunity allocation, shared costs, service fees and any offsets, earned equity, valuation, and approval of affiliated transactions. If the fund receives equity for work financed by One, the arrangement must compensate One appropriately. The adviser must manage conflicts consistently with its duties to the fund. [SEC fiduciary interpretation](https://www.sec.gov/files/rules/interp/2019/ia-5248.pdf)
-
-See [[How One Works]] for the operating diagram and the distinction between the initial raise and the later fund. Definitive corporate financing documents will establish the first investors' rights.
+The final investment documents will set out shareholder rights, material risks and the terms of the raise.
 
 ## Relations
 
