@@ -38,8 +38,8 @@
          pipeline.md). Falls back to the desktop `clip` if no mobile variant is given.
        - uses `stillMobile` as the scene poster when provided (pair it with native 9:16
          clipMobile renders so the poster matches the portrait video's first frame instead
-         of flashing from a landscape crop). Chosen once at mount; a desktop resize into
-         phone width keeps the desktop poster (clips still switch via isMobile()).
+         of flashing from a landscape crop). Clips and posters switch together when
+         a desktop viewport crosses the mobile breakpoint.
        - coalesces seeks (never issues a new currentTime while the decoder is still
          `seeking`) so fast flicks can't pile up and freeze the video.
        - keeps the still as a live poster until the clip actually paints its first frame,
@@ -60,8 +60,9 @@
      - clips encoded native-res, crf~20, -g 8, +faststart, no audio (see pipeline.md)
      - connectors' endpoints are the neighbouring dives' ACTUAL frames (see SKILL Step 5)
      - (optional) mobile variants at ~720p, -g 4 for smoother phone scrubbing
-   The engine loads each clip as a Blob (always seekable) and scrubs currentTime; it does
-   NOT depend on HTTP byte-range support.
+   Clips stream directly through the video element using HTTP byte ranges. The host
+   must support range requests (206). Only nearby clips are loaded; distant decoders
+   are released, and scrubbing sleeps when the visible scene has settled.
    ========================================================================== */
 
 function mountScrollWorld(container, config) {
@@ -157,6 +158,7 @@ function mountScrollWorld(container, config) {
     scene.appendChild(img); stage.appendChild(scene);
     s.el = scene; s.img = img; s.video = null; s.hasClip = false;
     s.loading = false; s.ready = false; s.cur = 0; s.target = 0; s.visible = false;
+    s.near = false; s.attempts = 0; s.retryAt = 0; s.retryTimer = null; s.loadTimer = null;
   });
 
   // per-section copy / route / nav
@@ -192,6 +194,7 @@ function mountScrollWorld(container, config) {
   const lingerEase = (x, L) => { L = clamp(L); const c = x - 0.5; return (1 - L) * x + L * (4 * c * c * c + 0.5); };
   let vh = window.innerHeight, stageX = 0, totalW = 0, activeIndex = -1, ticking = false;
   let laidOutW = window.innerWidth;   // width the current layout was computed at (see onResize)
+  let scrubFrame = 0;
   let bandTop = 0;                    // inline mode: container's document-space top
 
   function layout() {
@@ -216,28 +219,72 @@ function mountScrollWorld(container, config) {
     window.scrollTo({ top: bandTop + seg.start + (seg.end - seg.start) * 0.5, behavior: reduce ? 'auto' : 'smooth' });
   }
 
+  function releaseClip(s, failed = false) {
+    clearTimeout(s.retryTimer);
+    clearTimeout(s.loadTimer);
+    s.retryTimer = null; s.loadTimer = null;
+    // Cancelling an offscreen download is not a failed network attempt.
+    if (!failed) { s.attempts = 0; s.retryAt = 0; }
+    const v = s.video;
+    s.video = null; s.loading = false; s.ready = false; s.hasClip = false;
+    s.el.classList.remove('has-clip');
+    if (v) {
+      v.pause();
+      v.removeAttribute('src');
+      v.load(); // cancel the request and release the offscreen decoder
+      v.remove();
+    }
+  }
+
   function loadClip(s) {
-    // Under prefers-reduced-motion we never load the clips at all — the stills stay up
-    // and simply cross-dissolve as you scroll. No scrubbed video motion, no decode cost.
-    if (reduce || s.loading || !s.clip) return;
+    if (reduce || document.hidden || s.loading || !s.clip || s.attempts >= 3 || Date.now() < s.retryAt) return;
     s.loading = true;
-    // Serve the lighter mobile encode on phones when one was provided.
-    const url = (isMobile() && s.clipM) ? s.clipM : s.clip;
-    fetch(url).then(r => r.ok ? r.blob() : Promise.reject(new Error('404')))
-      .then(blob => {
-        const v = document.createElement('video');
-        v.className = 'sw-scene__video';
-        v.muted = true; v.playsInline = true; v.preload = 'auto';
-        v.setAttribute('muted', ''); v.setAttribute('playsinline', '');
-        v.src = URL.createObjectURL(blob);
-        v.addEventListener('loadedmetadata', () => { s.ready = true; read(); });
-        // Reveal the video (hide the still poster) only once a real frame has
-        // painted — on iOS a seeked-but-never-played muted video stays blank, so
-        // hiding the still on metadata alone would flash an empty scene.
-        v.addEventListener('seeked', () => { s.el.classList.add('has-clip'); }, { once: true });
-        v.addEventListener('loadeddata', () => { try { v.pause(); } catch (e) {} if (userReady) primeVideo(v); });
-        s.el.appendChild(v); s.video = v; s.hasClip = true;
-      }).catch(() => { s.loading = false; });
+    s.attempts++;
+    const v = document.createElement('video');
+    v.className = 'sw-scene__video';
+    v.muted = true; v.playsInline = true; v.preload = 'auto';
+    v.setAttribute('muted', ''); v.setAttribute('playsinline', '');
+    s.video = v;
+    const reveal = () => {
+      if (s.video !== v || v.readyState < 2 || v.seeking) return;
+      s.hasClip = true;
+      s.el.classList.add('has-clip');
+    };
+    const failed = () => {
+      if (s.video !== v) return;
+      releaseClip(s, true); // the poster remains visible throughout a failure/retry
+      if (s.attempts >= 3) return;
+      const delay = 1000 * Math.pow(2, s.attempts - 1);
+      s.retryAt = Date.now() + delay;
+      s.retryTimer = setTimeout(() => {
+        s.retryTimer = null;
+        if (s.near) loadClip(s);
+      }, delay);
+    };
+    v.addEventListener('error', failed);
+    v.addEventListener('loadedmetadata', () => {
+      if (s.video !== v) return;
+      s.ready = Number.isFinite(v.duration) && v.duration > 0;
+      s.cur = s.target;
+      scheduleScrub();
+    });
+    v.addEventListener('loadeddata', () => {
+      if (s.video !== v) return;
+      clearTimeout(s.loadTimer);
+      s.attempts = 0;
+      if (Math.abs(v.currentTime - clamp(s.target, 0, 0.999) * v.duration) < 0.04) reveal();
+      if (userReady && s.visible) primeVideo(v);
+      scheduleScrub();
+    });
+    v.addEventListener('seeked', () => {
+      if (s.video !== v) return;
+      reveal();
+      scheduleScrub(); // resume with the latest target, never queue overlapping seeks
+    });
+    s.el.appendChild(v);
+    // Native range loading can decode the opening frame before the file is complete.
+    v.src = (isMobile() && s.clipM) ? s.clipM : s.clip;
+    s.loadTimer = setTimeout(failed, 15000);
   }
 
   function read() {
@@ -247,7 +294,10 @@ function mountScrollWorld(container, config) {
     // maps scroll to the wrong scene. rect.top is scroll-invariant, so this is
     // exact at any scroll position and equals the cached value when the page
     // geometry is stable.
-    if (inline) bandTop = container.getBoundingClientRect().top + (window.scrollY || window.pageYOffset);
+    const bounds = inline ? container.getBoundingClientRect() : null;
+    if (inline) bandTop = bounds.top + (window.scrollY || window.pageYOffset);
+    const inView = !inline || (bounds.top < vh && bounds.bottom > 0);
+    const nearBand = !inline || (bounds.top < 2.6 * vh && bounds.bottom > -1.6 * vh);
     const y = (window.scrollY || window.pageYOffset) - bandTop;   // bandTop = 0 unless inline
     const fade = CROSSFADE * vh;
     let ci = 0;
@@ -255,7 +305,13 @@ function mountScrollWorld(container, config) {
 
     for (let i = 0; i < NSEG; i++) {
       const s = SEGMENTS[i];
-      if (y > s.start - 1.6 * vh && y < s.end + 1.6 * vh) loadClip(s);
+      const source = (isMobile() && s.clipM) ? s.clipM : s.clip;
+      if (s.video && s.video.getAttribute('src') !== source) releaseClip(s);
+      const poster = (isMobile() && s.stillM) ? s.stillM : s.still;
+      if (poster && s.img.getAttribute('src') !== poster) s.img.src = poster;
+      s.near = nearBand && y > s.start - 1.6 * vh && y < s.end + 1.6 * vh;
+      const keep = nearBand && y > s.start - 3 * vh && y < s.end + 3 * vh;
+      if (!keep && (s.video || s.retryTimer)) releaseClip(s);
       const local = clamp((y - s.start) / (s.end - s.start), 0, 1);
       var lt = local;
       /* hold window [a,b]: film time freezes at a while scroll crosses a..b,
@@ -277,7 +333,11 @@ function mountScrollWorld(container, config) {
         if (i === 0 && y < s.start) op = 1;
         if (i === NSEG - 1 && y > s.end) op = 1;
       }
-      s.el.style.opacity = op; s.visible = op > 0.001;
+      s.el.style.opacity = op;
+      const visible = inView && op > 0.001;
+      if (visible && !s.visible) s.cur = s.target;
+      s.visible = visible;
+      if (s.near) loadClip(s);
       s.el.style.zIndex = (i === ci) ? '120' : String(100 + Math.round(op * 10));
       if (!s.hasClip || !s.ready) {
         const sc = reduce ? 1 : 1.03 + local * 0.14;
@@ -312,24 +372,35 @@ function mountScrollWorld(container, config) {
     hint.style.opacity = clamp(1 - y / (0.5 * vh));
     if (particles) particles.style.transform = `translate3d(0, ${-y * 0.05}px, 0)`;
     ticking = false;
+    scheduleScrub();
   }
 
-  function raf() {
-    const eps = isMobile() ? 0.02 : 0.008;   // coarser seek step on phones = fewer decodes
-    for (let i = 0; i < NSEG; i++) {
-      const s = SEGMENTS[i];
-      if (!s.hasClip || !s.ready || !s.video) continue;
-      // Never queue a seek while the decoder is still resolving the last one.
-      // On phones a fast flick would otherwise pile up seeks and freeze the clip;
-      // cur keeps lerping, so we snap to the latest target the moment it's free.
-      if (s.video.seeking) continue;
-      if (!s.visible && Math.abs(s.cur - s.target) < 0.002) continue;
-      s.cur += (s.target - s.cur) * (reduce ? 1 : 0.18);
-      const dur = s.video.duration || 1;
-      const t = clamp(s.cur, 0, 0.999) * dur;
-      if (Math.abs(s.video.currentTime - t) > eps) { try { s.video.currentTime = t; } catch (e) {} }
+  function scheduleScrub() {
+    if (!scrubFrame && !reduce && !document.hidden) scrubFrame = requestAnimationFrame(raf);
+  }
+
+  function raf(now) {
+    scrubFrame = 0;
+    if (document.hidden) return;
+    const eps = isMobile() ? 0.025 : 0.016;
+    let pending = false;
+    for (const s of SEGMENTS) {
+      const v = s.video;
+      if (!s.visible || !s.ready || !v) continue;
+      // Smooth by elapsed time, so decoding speed and display refresh rate don't
+      // change how far the camera trails the scroll position.
+      const dt = s.lastFrame ? Math.min(100, now - s.lastFrame) : 100;
+      s.lastFrame = now;
+      s.cur += (s.target - s.cur) * (1 - Math.exp(-dt / 70));
+      if (Math.abs(s.cur - s.target) * v.duration < eps) s.cur = s.target;
+      if (v.seeking) continue; // seeked wakes us; no polling a busy decoder
+      const t = clamp(s.cur, 0, 0.999) * v.duration;
+      if (Math.abs(v.currentTime - t) > eps) {
+        try { v.currentTime = t; } catch (e) {}
+      }
+      if (Math.abs(s.cur - s.target) * v.duration > eps) pending = true;
     }
-    requestAnimationFrame(raf);
+    if (pending) scheduleScrub();
   }
 
   // iOS needs a user gesture before a muted video will decode/paint reliably. On the
@@ -351,7 +422,7 @@ function mountScrollWorld(container, config) {
   window.addEventListener('touchstart', onFirstGesture, { once: true, passive: true });
 
   // Particles are a per-frame cost we can't afford alongside video scrubbing on a phone.
-  seedParticles(particles, reduce || coarse);
+  seedParticles(particles, reduce || isMobile() || config.atmosphere === false);
   window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(read); } }, { passive: true });
   // Mobile browsers fire `resize` every time the URL bar slides in/out. Re-running
   // layout() there rebuilds the track height and yanks the scroll position, so on
@@ -365,12 +436,12 @@ function mountScrollWorld(container, config) {
   window.addEventListener('resize', onResize);
   window.addEventListener('orientationchange', layout);
   window.addEventListener('load', layout);
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) { cancelAnimationFrame(scrubFrame); scrubFrame = 0; }
+    else read();
+  });
   layout();
-  // Inline bands eager-load their clip up front: a cinematic page should never
-  // show a loading state. The still poster is the clip's exact first frame, so
-  // it covers the fetch window invisibly and the video swap is seamless.
-  if (inline && !reduce) SEGMENTS.forEach(loadClip);
-  requestAnimationFrame(raf);
+  // read() loads only the current scene and clips approaching the viewport.
 
   // ---- helpers ----
   function el(tag, cls) { const n = document.createElement(tag); if (cls) n.className = cls; return n; }
@@ -431,7 +502,7 @@ function injectCSS() {
   .sw-stage{position:fixed;inset:0;z-index:10;pointer-events:none;}
   .sw-scene{position:absolute;inset:0;opacity:0;overflow:hidden;will-change:opacity;}
   .sw-scene__video,.sw-scene__still{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 42%;}
-  .sw-scene__still{will-change:transform;} .sw-scene.has-clip .sw-scene__still{opacity:0;} .sw-scene__video{z-index:1;}
+  .sw-scene__still{will-change:transform;} .sw-scene.has-clip .sw-scene__still{opacity:0;} .sw-scene__video{z-index:1;opacity:0;} .sw-scene.has-clip .sw-scene__video{opacity:1;}
   .sw-copylayer{position:fixed;inset:0;z-index:20;pointer-events:none;}
   .sw-copylayer::before{content:"";position:absolute;inset:0;width:min(58vw,780px);background:linear-gradient(90deg,var(--sw-bg) 0%,color-mix(in srgb,var(--sw-bg) 82%,transparent) 34%,color-mix(in srgb,var(--sw-bg) 40%,transparent) 62%,transparent 100%);}
   .sw-copy{position:absolute;left:clamp(18px,5vw,64px);top:50%;transform:translateY(-50%);width:min(42vw,460px);opacity:0;will-change:opacity,transform;}
