@@ -62,6 +62,13 @@ The company pages describe each business, its progress, and its next steps. Shar
 
 The chapter closes with the compounding loop: relationships bring opportunities, shared work builds companies and reusable tools, and progress draws more people and opportunities into the network.
 
+## [[Use of Funds]]
+
+> Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
+> — from [[Use of Funds]]
+
+The plan sets out our first hires, company milestones, School rent support and the January Present Future Summit. Dollar allocations and runway are being finalized.
+
 ## [[UnLimited Partners|For investors]]
 
 > UnLimited Partners are investors who bring judgment, relationships, and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors acquire One shares and participate in the value of its operating businesses, shared technology, and company holdings. A separate evergreen investment fund is planned for a later phase.
@@ -156,9 +163,10 @@ title: John Fagan
 type: person
 status: review
 updated: 2026-09-15
-assembled_by: Claude
+assembled_by: Codex
 aliases: [John]
 sources:
+  - "[John Fagan - Managing Partner, One BIO DRAFT](https://docs.google.com/document/d/118b7Mw-as6acUV1_TVEp-aYI8ECBf8uEysGI9cQvNmo/edit?tab=t.0), supplied by James, September 15, 2026"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
@@ -166,14 +174,18 @@ sources:
 
 # John Fagan
 
-## Bio (from the site)
+## Bio
 
-Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+Co-founder · Managing Partner. I am inspired by building the containers in which people can build and awaken at the same time, motivated by a decade of learning, at some cost, what happens when you try to do the former without the latter.
 ^intro
 
-## From the site
+My training was institutional. As a former lawyer, I worked at BlackRock and Voya inside the capital markets and corporate governance teams before moving into management consulting. Working directly with the board and executive committees and then on the front line, gave me a systemic perspective on value, economic engines, human psychology, and talent management and development.
 
-At the guild level: John Fagan, CEO and Head of Growth; [[James Barnes]], Head of Product; [[Sam Gbafa]], Head of Engineering. Each company keeps its own leadership; the guild team is shared capacity any of them can draw on.
+In 2018, I co-founded Doorkee as CEO, a venture-backed peer-to-peer apartment rental platform to realign financial incentives and digitize the rental process. Our bumpy exit in 2022, brought painful, yet invaluable lessons. I spent the following years deliberately, shifting from sharpening my mind to repairing what building without internal mooring had cost me. I advised early-stage founders on fundraising, go-to-market, product expansion, and implementing management systems, including as the sell-side advisor on an eight-figure acquisition.
+
+In the same window, I learned to develop balance, co-creating art and community. I helped produce immersive theatrical work with [[Calling All Magical People]] and executive produced "Tapestry of Life," a gallery installation at 69 Gansevoort in Manhattan's Meatpacking District. I founded [[Hohm]], a consciousness accelerator built on high-fidelity sound and ketamine-assisted psychotherapy journeys for shadow work and individuation; its journeyers have included renowned artists, founders, operators, ceremonialists, and world builders. I selectively worked as a Jungian coach and psychedelic integration specialist, mostly with exited founders doing the interior work that venture leaves unexamined.
+
+I believe the next great companies will be built by those who have done that work, and that almost no institution exists to hold and foster them while they do it. One is that institution. The question for me was never whether to choose between building and awakening, but how to design the structure in which nobody has to.
 
 ## From [[Our Story]]
 
@@ -200,7 +212,7 @@ part_of:: [[Membership]]
 title: School
 type: engine
 status: review
-updated: 2026-08-21
+updated: 2026-09-15
 aliases: [25 Dobbin Street]
 metrics:
   arr_now: "$400k ARR"
@@ -224,6 +236,7 @@ milestones:
     precision: approx
     note: "Fall 2027 — JB, Aug 21 2026"
 sources:
+  - "James Barnes, September 15, 2026: the startup headquarters relocation fell through; remove it from the prospectus"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 ---
 # School
@@ -240,7 +253,7 @@ In addition to being the home for the Guild and the first node in our [[Mystical
 
 **TV/Film & Events:** Even before we moved in, School and its auditorium were popular shooting locations for TV and film productions. We have continued this practice, which can routinely produce $15-25,000/day in revenue, offsetting the monthly rent and overhead for the entire school. 
 
-**Short-term rentals:** We recently hosted a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts. We are closing a deal with a recently acquired startup (>$600m) to relocate their headquarters while their offices are renovated. Short-term rentals like this allow us to maintain flexibility, welcome new and interesting people into the community, and charge competitive rates.
+**Short-term rentals:** We recently hosted a 10-week accelerator sponsored by Flashbots, the Stanford Blockchain Builders Fund, and the Cornell Institute for Cryptocurrency and Contracts. Short-term rentals allow us to maintain flexibility, welcome new and interesting people into the community, and charge competitive rates.
 
 **Conferences:** Our experience in hosting the accelerator for Flashbots also gave us our first taste of producing a conference, with a two-day final demo day featuring many of the products built from within School and high-profile speakers like Vitalik Buterin, Ethereum founder, and visualized by the Guild’s own [[ETHEREA]]. We will continue to host conferences aligned with our values that are revenue positive and build a brand for School as a place where important and beautiful things happen.We have already booked Richard Schwarz, the founder of Internal Family Systems, for a three day intensive next May, among others. To catalyze this, we will host the inaugural [[Present Future Summit]] with the [[Ethereum Foundation]], [[Daydream]], [[The Lot Radio]] and the [[Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)]],  exploring the intersection themes that animate School and the Guild, split in three days between d/acc pro-social technology,  creative futurism, and consciousness expansion.
 
@@ -701,6 +714,7 @@ milestones:
     note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
 media_source: "Media section: ETHEREA site (etherea-ai repo) — landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
 sources:
+  - "James Barnes, September 15, 2026: bring the chandelier, Imagination Engine and app to market; James to expand the product plan"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[James Barnes]]"
@@ -732,6 +746,10 @@ In the two years since ETHEREA's birth, we have continued to find demand for use
 2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many others higher bandwidth with realtime visualization.
 
 One important thing to call out about this strategy is that it's deliberately focusing on a wedge for a product where there are nearly infinite wedges.
+
+## First-raise priorities
+
+Our first-raise priorities are to bring the ETHEREA chandelier, Imagination Engine, and app to market. See [[Use of Funds]] for the shared team and company capital supporting this work.
 
 ## Relationship with One
 
@@ -819,6 +837,88 @@ part_of:: [[00 Prospectus]]
 
 ---
 
+<!-- note: Use of Funds (terms/Use of Funds.md) -->
+
+---
+title: Use of Funds
+type: term
+status: unsettled
+updated: 2026-09-15
+assembled_by: "Codex (first-raise priorities from James; company descriptions grounded in the vault)"
+aliases: [Hiring Plan, Headcount]
+sources:
+  - "James Barnes, September 15, 2026: five first-raise priorities, core team, product launches, School rent support and January conference"
+  - "[[Router]], including the Research Router Co-Op briefing; [[ETHEREA]], [[Hohm]], [[TinyCloud]], [[SECO]] and [[Present Future Summit]]"
+  - "John Briscella's design background: [Sonic Sphere team](https://www.sonic-sphere.com/team), read September 15, 2026"
+---
+
+# Use of Funds
+
+Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
+^intro
+
+These are the priorities for the first raise. Dollar allocations and the runway they support are being finalized.
+
+## 1. Core Guild team
+
+We are building a small team whose work can move across companies. The raise gives people already creating together the capacity to commit more time, while building shared tools that make each project easier to deliver.
+
+| Role | First-raise priority |
+|---|---|
+| Founding engineering | Fund hands-on engineering across our software and physical products, building on an existing collaboration. |
+| Operations and community — fractional | Add fractional capacity around Jackie and Emily; their responsibilities and engagement terms are being developed. |
+| Head of Engineering and agentic platform — fractional | [[Sam Gbafa]] will lead the shared engineering and agentic platform work alongside his role at [[TinyCloud]]. |
+| Go-to-market | Add the capacity to bring products to customers. The role and candidate are still to be determined. |
+
+We have been working with a close friend and former Squarespace and Meetup staff engineer who has already contributed to [[ETHEREA]] and [[TinyCloud]], and created the ETHEREA chandelier and a new version of [[Templar]] with [John Briscella](https://www.sonic-sphere.com/team), an industrial and architectural designer. This is the kind of collaboration the core team will make possible across the Guild.
+
+## 2. Studio companies
+
+Capital will support specific product and research milestones in the companies James and John are helping build.
+
+| Company | What the first raise will help deliver |
+|---|---|
+| [[ETHEREA]] | Bring the chandelier, Imagination Engine, and ETHEREA app to market. |
+| [[Hohm]] | Ship the first version of [[Templar]] and [[Inception]], its art therapy integration app. |
+| [[Router]] | Recruit leading researchers and pilot a network that connects their work and AI agents. Develop the proposed researcher-governed cooperative, test confidential appraisal of research artifacts, and explore collective licensing to frontier AI developers under researchers' control. |
+
+Router already has support from an **$850k ARIA Scaling Trust grant**. One's additional allocation will be set against the work and costs covered by that grant. The cooperative's relationship with One and demand for collective licensing remain to be established.
+
+## 3. Co-op and member companies
+
+We plan to capitalize [[TinyCloud]] and [[SECO]], alongside the shared work they can draw on through One.
+
+- **TinyCloud:** advance user-owned data infrastructure and the integrations that support Router and other Guild applications.
+- **SECO:** move its private, encrypted community network and communal AI from the validated prototype toward a production-ready product and paying communities.
+
+Investment amounts, company budgets and terms will be agreed for each business.
+
+## 4. School
+
+Provide a monthly contribution toward rent at [[School]], our shared home for building, working and gathering. This supports the physical base that the team, companies and members use together.
+
+**Monthly rent contribution: TBD.**
+
+## 5. Present Future Summit
+
+Fund planning and production of the **January 2027 [[Present Future Summit]]** at School. The conference brings together creative futurism, pro-social technology and consciousness research, and gives our companies and members a stage to demonstrate what they are building.
+
+The event budget will identify One's contribution alongside any confirmed sponsorship and ticket revenue.
+
+## Sizing the first raise
+
+The budget will connect these priorities to monthly spending, product milestones and a cash reserve. Shared team costs and company allocations will be reconciled so the same work is counted once, with operating revenue and grant funding attributed to the costs they can cover.
+
+See [[UnLimited Partners|Investing in One]] for participation in the first corporate raise and [[How One Works]] for the operating model.
+
+## Relations
+
+depends_on:: [[Studio]]
+part_of:: [[UnLimited Partners]]
+
+
+---
+
 <!-- note: UnLimited Partners (engines/UnLimited Partners.md) -->
 
 ---
@@ -849,6 +949,8 @@ One shareholders have an interest in One as a whole. The value of that interest 
 ## Capital and operating revenue
 
 The first raise funds the shared team, reusable technology, and agreed capital support for One's operating businesses and selected company opportunities. Service and license revenue contribute to that budget as companies pay for work and tooling. The operating plan must distinguish parent spending, subsidiary funding, and company payments to avoid counting the same use twice.
+
+See [[Use of Funds]] for the first-raise priorities, core team and company milestones.
 
 The raise amount, valuation, instrument, closing schedule, and initial budget remain open. Earlier fundraising figures have not been reinstated by this change in sequence.
 
@@ -908,7 +1010,7 @@ sources:
 
 ## [[John Fagan]]
 
-> Co-founder · CEO & Head of Growth. Multi-time venture-backed founder (Doorkee, [[Hohm]]); former attorney, management consultant, and executive coach on the corporate governance and capital markets teams at BlackRock and Voya Financial. His practice runs through Jungian shadow work and integration, in service of the Archaic Revival. “A combination of Rick Rubin and Timothy Leary and Ari Gold,” per James — in his own words: “I can see the heart of people oftentimes the way their mother does.”
+> Co-founder · Managing Partner. I am inspired by building the containers in which people can build and awaken at the same time, motivated by a decade of learning, at some cost, what happens when you try to do the former without the latter.
 > — from [[John Fagan]]
 
 ## [[James Barnes]]
@@ -980,10 +1082,11 @@ updated: 2026-09-15
 aliases: []
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: current core team and first-raise priorities in Use of Funds"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
   - "Jeff Burke, Sutter Hill Ventures: The Silent Builders (Substack) — https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders"
-assembled_by: "Codex (operating structure; company focus and existing team proposals retained)"
+assembled_by: "Codex (operating structure; team plan aligned with the September 15 first-raise priorities)"
 ---
 
 # Studio
@@ -1023,30 +1126,13 @@ Our first major focus will be nailing [[ETHEREA]]'s entry into the conference an
 
 Building on this momentum, [[ETHEREA]] will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. [[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is [[Hohm]]’s scalable solution for the mass market of psychedelic wellness. Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up [[ETHEREA]] visualization to developers to build their own visual agents.
 
-In parallel, we will hire a CEO and founding engineer for [[Router]], another project for which [[TinyCloud]] is crucial, to partner with Andrew on initial validation. These are great examples of how our integrated approach allows us to match projects and resources in a modular way.
+In parallel, [[Router]] will pilot its research network and develop the proposed researcher-governed cooperative, with [[TinyCloud]] supporting its privacy architecture. Its team and capital needs will be set against the work covered by the ARIA grant. These are examples of how our integrated approach allows us to match projects and resources.
 
 ## Team
 
-|                                        | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 |
-| -------------------------------------- | ------- | ------- | ------- | ------- |
-| • CEO, [[After School]]                | hire    |         |         |         |
-| • CEO, [[Router]]                      | hire    |         |         |         |
-| • Founding Engineer, [[Router]]        | hire    |         |         |         |
-| Founding Engineer, [[ETHEREA]]         | hire    |         |         |         |
-| Founding GTM, [[ETHEREA]]              | hire    |         |         |         |
-| CTO, ONE ([[Sam Gbafa]], Fractional)   | active  |         |         |         |
-| • CFO, ONE (Fractional)                | hire    |         |         |         |
-| • General Counsel, ONE (Fractional)    | hire    |         |         |         |
-| Founding designer, [[ETHEREA]]         |         | hire    |         |         |
-| Founding GTM, [[Inception]], [[Hohm]]  |         | hire    |         |         |
-| • Head of [[Membership]], ONE              |         | hire    |         |         |
-| Head of Engineering, ONE               |         | hire    |         |         |
-| Founding GTM, [[Templar]], [[Hohm]]    |         |         | hire    |         |
-| CMO, ONE                               |         |         | To be hired |     |
-| COO, ONE                               |         |         | hire    |         |
-| Node leads ×2 (see [[Mystical Network State]]) | |     |         | hire    |
+The first raise prioritizes founding engineering, fractional operations and community support, [[Sam Gbafa]] as fractional Head of Engineering and lead for the shared agentic platform, and a go-to-market role to be defined. The team works across companies, with assignments shaped by each product's needs.
 
-The [[ETHEREA]] founding engineer will focus on the app and the conference product.
+[[Use of Funds]] is the current hiring and company-capitalization plan.
 
 ## Relations
 
@@ -1186,37 +1272,32 @@ located_at:: [[School]]
 
 ---
 
-<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+<!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
 
 ---
-title: Sam Gbafa
-type: person
+title: Calling All Magical People
+type: event
 status: review
 updated: 2026-08-23
 assembled_by: Claude
-aliases: [Sam]
+aliases: [CAMP, the Calling All Magical People festival]
 sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
 ---
 
-# Sam Gbafa
+# Calling All Magical People
 
-Head of Engineering
+## From [[Our Story]]
 
-## From the site
+We soon reunited with our Morocco crew to co-create the Calling All Magical People festival, which reified a growing belief in the cultural frontier of Brooklyn and in the possibility of living a life full of presence, play, trust, and connection.
 
-Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+## From [[ETHEREA]]
 
-## From [[TinyCloud]]
-
-[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
-
-At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr.
 
 ## Relations
 
-part_of:: [[Membership]]
+precedes:: [[School]]
 
 
 ---
@@ -1487,6 +1568,41 @@ founded_by:: [[Carter Cleveland]]
 
 ---
 
+<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+
+---
+title: Sam Gbafa
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sam]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+# Sam Gbafa
+
+Head of Engineering
+
+## From the site
+
+Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+
+## From [[TinyCloud]]
+
+[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+
+## Relations
+
+part_of:: [[Membership]]
+
+
+---
+
 <!-- note: Snow Raven (people/Snow Raven.md) -->
 
 ---
@@ -1675,36 +1791,6 @@ sources:
 ## Relations
 
 depends_on:: [[Templar]]
-
-
----
-
-<!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
-
----
-title: Calling All Magical People
-type: event
-status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [CAMP, the Calling All Magical People festival]
-sources:
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
----
-
-# Calling All Magical People
-
-## From [[Our Story]]
-
-We soon reunited with our Morocco crew to co-create the Calling All Magical People festival, which reified a growing belief in the cultural frontier of Brooklyn and in the possibility of living a life full of presence, play, trust, and connection.
-
-## From [[ETHEREA]]
-
-Founded two years ago at the Calling All Magical People festival, it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr.
-
-## Relations
-
-precedes:: [[School]]
 
 
 ---
