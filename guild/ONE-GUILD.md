@@ -16,8 +16,9 @@ owner: "[[James Barnes]], [[John Fagan]]"
 aliases: [Prospectus, MOC, Index]
 sources:
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - "James Barnes, September 15, 2026: assume readers have read the homepage letter and focus the Thesis on the investment framework"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (prospectus structure and connective copy; founding letter preserved in its own note)"
+assembled_by: "Codex (prospectus structure and connective copy; Thesis focuses on the investment framework)"
 ---
 
 # One Guild | Prospectus | Fall 2026
@@ -37,16 +38,16 @@ The diagram shows how capital, shared work and tooling, company equity, and One'
 
 ## [[Thesis|Our Thesis]]
 
-> One's thesis is that presence, connection, and trust improve what people can create together. We combine personal development, shared space, and long-term economic alignment to help founders and their teams do more valuable work. Technology supports that ambition when it strengthens our attention and relationships.
+> One builds and invests in companies that strengthen presence, connection and trust. We look for founders who can turn these human needs into products people value, enduring businesses and meaningful social impact.
 > — from [[Thesis]]
 
-[[A Letter from the Founders|Read John and James's founding letter]] for the conviction and personal invitation behind this work.
+[[Thesis|Read our thesis]] to explore the fields we build in and the criteria we use to choose companies.
 
 ## [[Our Companies]]
 
 > | Company | What it is building | How we work together |
 > |---|---|---|
-> | [[ETHEREA]] | Technology that turns live speech into real-time visuals | [[Studio]] |
+> | [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
 > | [[Hohm]] | Experiences, immersive sound environments, and tools for psychedelic integration | [[Studio]] |
 > | [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
 > | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
@@ -67,7 +68,7 @@ The chapter closes with the compounding loop: relationships bring opportunities,
 > Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
 > — from [[Use of Funds]]
 
-The plan sets out our first hires, company milestones, School rent support and the January Present Future Summit. Dollar allocations and runway are being finalized.
+We are targeting $11M initially and another $11M in early 2027. The chapter maps an illustrative $22M allocation across the team, company milestones, member-sourced scout investments, co-op companies, School, the January conference, operating costs and a cash reserve. Most of the second raise goes to co-op investments and onboarding, with selective studio expansion.
 
 ## [[UnLimited Partners|For investors]]
 
@@ -286,7 +287,7 @@ sources:
 One PBC is our operating and holding company. We plan to raise capital directly into One to build a shared team, develop reusable technology, and support operating businesses. A separate evergreen investment fund would follow later.
 ^intro
 
-![[one-model.png|One PBC raises first: investors, operating businesses, members and participating companies; a separate fund follows later]]
+![[one-model.png|How One works: investors, operating businesses, members, shared work and company ownership]]
 
 [Open the full-size diagram (PDF)](assets/00%20Prospectus/one-model.pdf) · [View the full-size image](assets/00%20Prospectus/one-model.png)
 
@@ -306,11 +307,7 @@ One can purchase company shares with its capital and earn equity for company-bui
 
 One plans a **single 30% equity pool**, measured on a fully diluted basis at adoption, for employees, members, and participating companies. CEOs can nominate contributors, and any member can earn an award for their work. One approves the grants and vesting. Awards to companies and individuals come from the same pool; each belongs to its recipient.
 
-## One raises first
-
 Investors initially buy shares in One PBC and participate in the value of the enterprise. Their capital, together with service and license revenue, funds the shared team, technology, and company building.
-
-## Adding the fund
 
 A later evergreen fund could provide capital for new investments and follow-ons. Investors would subscribe to it separately, and One would retain its existing assets unless a transfer was separately agreed. The fund's timing and terms remain open.
 
@@ -331,85 +328,57 @@ depends_on:: [[Cooperative]]
 title: Thesis
 type: theme
 status: review
-updated: 2026-09-11
+updated: 2026-09-15
 aliases: [Our Thesis]
 sources:
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (opening summary and a single intro anchor)"
+  - "James Barnes, September 15, 2026: add the matrix connecting the Present Future Summit's three areas to presence, connection and trust; keep psychedelics explicit and central"
+  - "James Barnes, September 15, 2026: use psychedelics and consciousness expansion; explain presence, connection and trust before the matrix so its purpose is clear"
+  - "James Barnes, September 15, 2026: integrate the full founding letter into the Thesis, followed by definitions, matrix and investment decisions; fold in the overlapping inner-life material"
+  - "James Barnes, September 15, 2026: assume Thesis readers have read the homepage letter; focus this page on the investment framework without repeating the letter or The Call"
+  - "James Barnes, September 15, 2026: define d/acc and state that One is proudly d/acc and participates in the community"
+  - "[Vitalik Buterin, d/acc: one year later](https://vitalik.eth.limo/general/2025/01/05/dacc2.html), read September 15, 2026: decentralized and democratic, differential defensive acceleration"
+  - "[[TinyCloud]]: Sam Gbafa's participation in d/acc Day"
+  - "[[Present Future Summit]], [[Hohm]], [[Inception]], [[ETHEREA]], [[TinyCloud]] and [[Router]]: existing themes and company directions"
+assembled_by: "Codex (investment-thesis structure and framing; homepage invitation assumed as prior reading)"
 ---
 
 # Our Thesis
 
-One's thesis is that presence, connection, and trust improve what people can create together. We combine personal development, shared space, and long-term economic alignment to help founders and their teams do more valuable work. Technology supports that ambition when it strengthens our attention and relationships.
+One builds and invests in companies that strengthen presence, connection and trust. We look for founders who can turn these human needs into products people value, enduring businesses and meaningful social impact.
 ^intro
 
-"Until you make the subconscious conscious, it will rule your life and you will call it fate." - CG Jung
+## Presence, connection and trust
 
-One operates across the spectrum of our lives, beginning all the way upstream the levels of the subconscious mind. As our technological and economic progress accelerates and seeks to distract and control us, we are called to increase our focus on the meta aspects of our lives, on our internal world, and how those interact and affect how we show up in the world.
+- **Presence:** The capacity to direct our attention, understand ourselves and act intentionally.
+- **Connection:** Meaningful relationships through which people create, learn and work together.
+- **Trust:** Confidence in the people and tools we depend on, supported by shared incentives and control over our data.
 
-One's focus on increasing [[Presence]], Connection and Trust is designed to increase not just personal satisfaction, but also to increase valuable, useful, and aligned output.
+These outcomes guide what we build and back. Each investment should explain whose life or work improves, how the product creates that change, and why it can sustain a valuable business.
 
-	  
-- [[Presence]]
-	- The best way to take care of the future, is to be fully present in the here and now. We have incorporated proven and emerging methods of increasing presence and awareness - including consciousness technologies like psychedelics & integration, somatic therapy, coaching and mentorship, physical wellness practices, and spiritual wisdom across ancient traditions.
-- [[Connection]]
-	- As we enter an age of unprecedented digital interconnection, ensuring we stay connected to ourselves, our communities, and the natural world become even more vital. Trust-based networks, social agents, community living, Guild retreats and trips to [[Mystical Network State|network state]] nodes, and other structural components ensure we prioritize the human elements of life - providing balance and keeping us on the path.
-	
-- [[Trust]]
-	- At the very center of it all is Trust - without which all endeavors are doomed. The Guild's curation establishes trust immediately. Additionally, we have intentionally designed our [[Studio]] to ensure long-term financial alignment, including through [[Cooperative]] ownership. Our portcos are leveraging and iterating on Trustless technologies, and Local AI to build an infrastructure that our community and our growing [[Mystical Network State|Network State]] can build on.
+## Where we build and invest
 
+We build and invest across **creative futurism**, **d/acc**, and **psychedelics and consciousness expansion**. These are also the three foundations of the [[Present Future Summit]], where we bring together the people advancing these fields.
 
----
+**We are proudly d/acc and participate in its community.** [d/acc](https://vitalik.eth.limo/general/2025/01/05/dacc2.html) stands for decentralized and democratic, differential defensive acceleration. It calls for accelerating technology that helps people protect themselves and makes society more resilient, with power distributed and democratically accountable. For One, this is the foundation of pro-social technology: private data, open infrastructure and AI that strengthens human agency.
 
-<!-- note: A Letter from the Founders (people/A Letter from the Founders.md) -->
+[[Sam Gbafa]] has presented [[TinyCloud]] at d/acc Day, and the [[Present Future Summit]]'s planned d/acc track will bring that community together with artists, founders and researchers at One.
 
----
-title: A Letter from the Founders
-type: theme
-status: review
-updated: 2026-09-11
-owner: "[[James Barnes]], [[John Fagan]]"
-aliases: []
-assembled_by: "Codex (relocation and return link; founders' words retained verbatim)"
-sources:
-  - "00 Prospectus, founding letter as merged in PR #2; moved at James's request to improve prospectus flow"
----
-# A Letter from the Founders
+The matrix connects our human aims—stronger attention, relationships and confidence in one another—to the fields where we build. The rows describe what we want to strengthen; each cell suggests a direction for products, research or experiences.
 
-Friends,
+| | Creative futurism | d/acc / pro-social technology | Psychedelics and consciousness expansion |
+|---|---|---|---|
+| **Presence** | Tools that turn intention into expression | Personal AI under the user's control | Psychedelic experiences, preparation and reflection |
+| **Connection** | Art and experiences people create together | Community coordination and scientific collaboration | Ritual, shared experiences and integration communities |
+| **Trust** | Creative ownership and provenance | Private data, clear permissions and verifiable systems | Rigorous research, informed consent and trusted practitioners |
 
-Humans are the least present we have ever been: distracted, divided, and isolated by increasingly lethal demands on our attention from technologies that have commodified it.
+**Psychedelics and consciousness expansion are central to One's thesis.** We build and invest in research, experiences and tools for expanding perception, deepening self-understanding, and carrying those insights into everyday life. Our interest spans psychedelic experiences, preparation and integration, alongside sound, art and ritual. [[Hohm]] and its proposed [[Inception]] app give this ambition a concrete direction.
 
-We believe that general intelligence can liberate human attention just as it threatens to destroy it. We see a new horizon of presence and connection unlocked by unifying the timeless tools of ritual, ceremony, and togetherness with our emergent capacity to create anything we can imagine. Just as today’s AI takeoff is accelerating human capability across engineering, science, and creativity, we believe that it will equally propel talent, capital, and infrastructure aligned in service of the present moment.
+## How we choose investments
 
-We are doing this today at 25 Dobbin Street, a 28k square foot former parochial [[School|school]] and [[Convent|convent]] on McCarren Park that we are turning into the nexus for the Brooklyn Renaissance.
+The matrix also connects [[ETHEREA]]'s work on creative expression and shared experiences, [[TinyCloud]]'s focus on control of personal data, and [[Router]]'s approach to scientific collaboration. A company can contribute at several intersections, with a clear account of the value it creates for the people who use it.
 
-Our mission is simple, ambitious and timely: Build a Present Future.
-
-In a present future:
-
-- Frontier technology blends seamlessly with the proven tools of the past to connect us with ourselves, each other, and the earth beneath our feet.
-- Cryptography combines with general intelligence to enable us to collaborate without fear, and be vulnerable without exploitation.
-- Armed with well-regulated nervous systems, increasingly capable AI allows each of us to become fully self-expressed, creating as we speak to share our deepest potential and uplift all of humanity.
-- The values of radical self-reliance and communal effort stand in harmonious balance, scaffolded by our intention and energy to catalyze a renaissance in a beautiful transmutation of inner work to outer value.
-- We collectively heal from Wetiko, and shift to an abundance mindset to meet the moment.
-
-Below, we are excited to take you through our plan to fully actualize this dream, including and especially highlighting the journey that got us here and the progress we have made so far.
-
-With great awareness of the lessons of social media and the promise and peril of frontier AI, we believe that today is the exact right moment to act boldly, and look forward to welcoming you aboard our Thesean ship of progress we are assembling for this journey.
-
-As you read, we invite you to dream big, feel deeply, and think hard, applying both your analytical rigor and childlike wonder to imagine the future we are describing and scrutinize the path we are carving to get there. We are eager for your feedback, questions, and suggestions on where to both become more focused and more ambitious.
-
-With deep gratitude,
-
-[[John Fagan]] and [[James Barnes]]
-Managing Partners, ✌🏻One Guild
-
-[[00 Prospectus|Return to the prospectus]] to explore the model, companies, and ways to participate.
-
-## Relations
-
-part_of:: [[00 Prospectus]]
+For an investment, we look for a meaningful contribution to this thesis, founders we want to build with over many years, and a credible path to substantial economic and social value. We ask how One can help and what the next commitment of capital should establish. Member input informs each decision; the investment leads remain responsible for it.
 
 
 ---
@@ -424,6 +393,7 @@ updated: 2026-09-15
 assembled_by: "Codex (company overview table); earlier source attribution retained below"
 aliases: []
 sources:
+  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Each company's own note (intro paragraphs, transcluded); grouping from the notes' part_of relations"
 ---
@@ -436,7 +406,7 @@ These are the companies described in our current Studio and Cooperative programs
 
 | Company | What it is building | How we work together |
 |---|---|---|
-| [[ETHEREA]] | Technology that turns live speech into real-time visuals | [[Studio]] |
+| [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
 | [[Hohm]] | Experiences, immersive sound environments, and tools for psychedelic integration | [[Studio]] |
 | [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
 | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
@@ -446,7 +416,7 @@ These are the companies described in our current Studio and Cooperative programs
 
 1. [[ETHEREA]]
 
-   > ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+   > ETHEREA, founded by managing partner [[James Barnes]], turns live conversation into a shared visual experience. Its first physical product is a chandelier: a beautiful statement piece that evolves with the conversation around it. The app and computing infrastructure connect that experience across screens and physical spaces.
 > — from [[ETHEREA]]
 
 2. [[Hohm]]
@@ -608,11 +578,12 @@ depends_on:: [[TinyCloud]]
 title: Hohm
 type: company
 status: review
-updated: 2026-08-25
+updated: 2026-09-15
 aliases: [Templar, Hohm / Templar]
 when: null
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: Hohm will hire a dedicated engineer and marketer"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, Hohm section by John Fagan, revision of 2026-08-22"
 owner: "[[John Fagan]]"
 ---
@@ -645,6 +616,10 @@ This is a high margin product, providing strong cash flow at low volume. [[Matt 
 Built in partnership with the organizations already doing this work (MAPS, [[Multidisciplinary Investigation into Novel Discoveries & Solutions (MINDS)|MINDS]], Mindbloom, Journey Clinical, BEOND), Etherea’s at-home audio-visual companion takes what is most personal, a person's own photographs, the people they love, the facts of their life, and turns it, in real time, as they speak, into transfixing moving image. This is the technology behind "create as you speak": a mirror held up during the neuroplastic window, reflecting not only what they felt, but the future they are calling in. Together with our partners, we will design clinical trials to prove the effectiveness of visualization in post-journey integartion.
 
 Next steps: The use of investment proceeds will primarily be allocated towards building our first [[Templar]], shipping and piloting [[Inception]], and running a clinical trial with “[[Roots to Thrive]]”, the ketamine clinic associated with [[Paul Stamets]] and his partner [[Pam Kryskow]].
+
+## First-raise team
+
+We will hire a dedicated engineer and a dedicated marketer for Hohm, working with John on Templar and Inception and drawing on One's shared team for infrastructure and specialist support. See [[Use of Funds]] for the working allocation and [[Studio#How the teams work together|Studio]] for how the teams collaborate.
 
 ## Relations
 
@@ -704,16 +679,16 @@ milestones:
   - label: "our monthly salon at Nouriel Roubini’s in mid September"
     date: 2026-09-15
     precision: approx
-  - label: "AI for Individual Rights Summit in San Francisco in November"
-    date: 2026-11-15
-    precision: month
-    note: "confirmed; exact dates TBD — JB, Aug 21 2026"
   - label: "launching in the app store in the late fall"
     date: 2026-12-15
     precision: month
     note: "target December 2026 — JB, Aug 21 2026 (prose still says late fall)"
 media_source: "Media section: ETHEREA site (etherea-ai repo) — landing hero content.mp4 (from git history, re-encoded), landing gallery 1–8, YouTube @withetherea; captions are the site’s alt text / video titles"
 sources:
+  - "James Barnes, September 15, 2026: editorial review of the detailed Relationship with One section; simplified by Codex, with ownership and financing details retained for private review"
+  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
+  - "James Barnes, September 15, 2026: app and cloud infrastructure; current chandelier costs roughly $1K to build; tabletop cube lamp under consideration; planned $20K Imagination Engine selling price and likely build-to-order fulfillment; much higher expected chandelier volume"
+  - "James Barnes, September 15, 2026: ETHEREA will hire a dedicated engineer and marketer"
   - "James Barnes, September 15, 2026: bring the chandelier, Imagination Engine and app to market; James to expand the product plan"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -724,8 +699,8 @@ owner: "[[James Barnes]]"
 
 | Timeline   | Milestone                                                                                 | Revenue                       |
 | ---------- | ----------------------------------------------------------------------------------------- | ----------------------------- |
-| Now        | Strong PMF signals for live event visualization                                           | ~$100k                        |
-| Soon       | Become breakout conference visualization technology on some of the world's largest stages | $1mm in 2027 \| $15mm by 2030 |
+| Now        | Live events business and early chandelier demand                                           | ~$100k                        |
+| Soon       | Bring the chandelier and supporting app to market across selected settings | $1mm in 2027 \| $15mm by 2030 |
 | Eventually | Category-defining visualizer with visual agent SDK                                        | $100mm ARR by 2033            |
 
 Visualization is the heart of storytelling.
@@ -734,28 +709,45 @@ Since learning to paint in caves, humans have obsessively invented tools to shar
 
 Audiovisual content is especially effective at communicating ideas because it can be noticed independently by sight and hearing, which multiply when combined in often unexpected ways. Today, artificial intelligence is creating new bandwidth for verbal communication by collapsing the gap between vocalization and visualization. 
 
-ETHEREA, founded by managing partner [[James Barnes]], is a visualizer that turns live speech into beautiful video in realtime. Founded two years ago at [[Calling All Magical People|the Calling All Magical People festival]], it has built a six-figure events and installations business this year, including a recent three-story permanent installation at the home of Dr. Nouriel Roubini, a well-known economist who frequently hosts social gatherings, and visual captions for the recent two-day Shape Rotator Accelerator Demo Day at [[School]].   Across a myriad of usecases, ETHEREA increases attention, presence, and connection by creating a shared field of creativity.
+ETHEREA, founded by managing partner [[James Barnes]], turns live conversation into a shared visual experience. Its first physical product is a chandelier: a beautiful statement piece that evolves with the conversation around it. The app and computing infrastructure connect that experience across screens and physical spaces.
 ^intro
 
-ETHEREA’s success visualizing Demo Day earned an invitation from Vitalik to Four Seas, his network city in Thailand, and from the Human Rights Foundation to visualize their AI for Individual Rights Summit in San Francisco in November. Building on this momentum, ETHEREA will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. We have existing relationships with many of the industry's elite players including TED, The Emmys, and the National Speakers Association, and we will debut a new data visualization capability at our monthly salon at Nouriel Roubini’s in mid September. ETHEREA will also be a centerpiece of the inaugural [[Present Future Summit]] we are cosponsoring at [[School]] in January.
+## From live events to the chandelier
 
-In the two years since ETHEREA's birth, we have continued to find demand for use cases ranging from stroke recovery research at Johns Hopkins University, to psychedelic reintegration with [[Hohm]], sales teams interested in earning more attention from prospects, travel agents interested in teleporting their clients to far flung locations, and even one of the world's top mentalists. Nearly every person who encounters ETHEREA asks how they can use it, and we are excited to offer two compelling solutions that are intended to scale alongside our events business:
+Live events and installations were our first proving ground. Founded at [[Calling All Magical People|the Calling All Magical People festival]], ETHEREA has built a six-figure events and installations business this year, including a permanent installation at the home of Nouriel Roubini and live visuals for Shape Rotator's Demo Day at [[School]].
 
-1. **Mobile application (now):** We are nearing completion of a mobile application, optimized for airplay on smart TVs, that gives anyone access to the full power of ETHEREA from their living room, conference room, or event stage. As we cover a greater set of verticals for our conference and event go-to-market, this application will enable us to satisfy the demand that we see in nearly every engagement with a monthly subscription of $20 a month, and understand which use cases have enough demand to drive bespoke applications.  
-   
-2. **Visual Agent SDK (Q3 27):**  Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up ETHEREA visualization to developers to build their own visual agents.  In a world where an increasing amount of interaction with software is with voice, we believe there's a big opportunity across the categories that we've identified to make experiences like storytelling, journaling, sales, education, and many others higher bandwidth with realtime visualization.
+The chandelier debuted at **Burning Man**, and we have received **a preorder from a private client**. We also plan to rent a prototype for the **Human Rights Foundation's annual conference**. These are early signals for a product that people can buy or rent, extending the work beyond individual visual-production engagements.
 
-One important thing to call out about this strategy is that it's deliberately focusing on a wedge for a product where there are nearly infinite wedges.
+We will develop the chandelier as a common product that can serve several settings. Private clients and events give us an initial path to delivery and customer feedback. We also want to test applications in **education, speech therapy and shared public spaces**. Each has its own buyers, usage patterns and requirements; the next step is to learn where the same product creates enough value for repeat purchases or rentals. These additional applications remain to be validated.
+
+The aim is to carry one core experience into different spaces: conversation becomes something people can see together. The chandelier is the first physical expression; the app, cloud service and optional local workstation support it, and a tabletop lamp could make it accessible in another form. Our work with [[Hohm]] on [[Inception]] also provides a path to test the visualization technology in a more specialized application.
+
+## Products
+
+The app connects conversation to a visual world. The chandelier and a possible tabletop lamp bring that world into the room; the Imagination Engine provides a local GPU option for the home.
+
+| Product | Experience | Current plan |
+|---|---|---|
+| **App and cloud service** | Turn conversation into evolving visuals on screens and connected ETHEREA objects. | Bring the mobile app and supporting cloud infrastructure to market. Cloud usage and pricing will be developed together. |
+| **Chandelier** | A beautiful statement piece that evolves with your conversation. | The current chandelier costs roughly **$1,000 to build**. We expect substantially more chandelier sales than Imagination Engine sales. |
+| **Tabletop lamp — under consideration** | A single beautiful cube that can sit on a table and bring the experience into a smaller space. | Validate the design, build cost and customer demand before committing to production. |
+| **Imagination Engine** | A GPU workstation for the home that powers spatial imagination through the chandelier, lamp and other displays. | Planned selling price of roughly **$20,000**, with assembly expected to follow customer orders. Configuration and fulfillment terms remain to be agreed. |
+
+The chandelier figure is a current build-cost estimate; it does not yet establish the full cost of delivering and supporting a customer unit. The Imagination Engine figure is a selling price. Chandelier and lamp pricing, workstation margin, and production volumes remain open. The expected sales mix is a founder assumption, not a sales forecast.
+
+The mobile application is nearing completion and is optimized for AirPlay on smart TVs, from living rooms and conference rooms to event stages. Our earlier plan proposed a $20 monthly subscription. We will refine the included cloud usage and pricing against measured delivery costs.
+
+**Visual Agent SDK (planned Q3 2027):** Bootstrapping in Q1 with [[Inception]], the integration app developed by [[Hohm]], we plan to open ETHEREA visualization to developers building their own visual agents. Storytelling, journaling, sales and education are among the applications we want to explore.
 
 ## First-raise priorities
 
-Our first-raise priorities are to bring the ETHEREA chandelier, Imagination Engine, and app to market. See [[Use of Funds]] for the shared team and company capital supporting this work.
+Our first-raise priorities are to turn the chandelier prototype into a product we can deliver and support, fulfill the private-client preorder, prepare the planned conference rental, and launch the supporting app. We will develop the Imagination Engine fulfillment plan and evaluate the tabletop lamp alongside this work. A dedicated engineer and marketer will work with One's shared team on delivery and the first customer markets.
+
+The hardware budget will separate product development and equipment from cash tied up in production, inventory and customer delivery. Chandelier batches are likely to be the larger production requirement; building Imagination Engines after orders could limit finished-workstation inventory. The amount of capital required depends on batch sizes, supplier payments and customer receipts. See [[Use of Funds]] for the working company allocation and [[Studio#How the teams work together|Studio]] for the division of responsibilities.
 
 ## Relationship with One
 
-The earlier cap-table proposal contemplates a contribution of 51% of ETHEREA's voting stock to One PBC. The contribution, valuation, and governance documents remain to be completed and confirmed. One would raise capital directly to support its shared team and operating businesses, including ETHEREA, before adding a separate investment fund.
-
-A raise into One does not itself dilute One's ETHEREA stake. Financing directly into ETHEREA can change that stake and requires a fresh review of voting ownership and One's investment-company analysis. ETHEREA retains its own operating budget and company-specific IP under the applicable agreements. See [[How One Works]].
+One will support ETHEREA with capital, shared engineering and design, and reusable infrastructure. ETHEREA will manage its own product, customers and operating budget, and retain its company-specific IP. See [[Studio#How the teams work together|how the teams work together]].
 
 ## Media
 
@@ -844,9 +836,15 @@ title: Use of Funds
 type: term
 status: unsettled
 updated: 2026-09-15
-assembled_by: "Codex (first-raise priorities from James; company descriptions grounded in the vault)"
+assembled_by: "Codex (illustrative allocations against James's confirmed two-stage raise target)"
 aliases: [Hiring Plan, Headcount]
 sources:
+  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
+  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
+  - "James Barnes, September 15, 2026: roughly $1K current chandelier build cost; roughly $20K planned Imagination Engine selling price with likely assembly after orders; tabletop lamp under consideration; much higher expected chandelier volume"
+  - "James Barnes, September 15, 2026: direct much of the unallocated money to a scout program and additional co-op companies; ETHEREA and Hohm will each hire a dedicated engineer and marketer; substantial chandelier capital needs"
+  - "James Barnes, September 15, 2026: $11 million first, then an additional $11 million early next year (2027)"
+  - "Codex working estimates, September 15, 2026: allocations, 18-month operating assumptions and reserves for founder review; not agreed costs or company commitments"
   - "James Barnes, September 15, 2026: five first-raise priorities, core team, product launches, School rent support and January conference"
   - "[[Router]], including the Research Router Co-Op briefing; [[ETHEREA]], [[Hohm]], [[TinyCloud]], [[SECO]] and [[Present Future Summit]]"
   - "John Briscella's design background: [Sonic Sphere team](https://www.sonic-sphere.com/team), read September 15, 2026"
@@ -857,57 +855,130 @@ sources:
 Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
 ^intro
 
-These are the priorities for the first raise. Dollar allocations and the runway they support are being finalized.
+We are targeting **$22 million in new capital for One PBC: $11 million initially, followed by another $11 million in early 2027.**
+
+The table below is an **illustrative allocation**, with rough amounts to be refined as hiring and company budgets are agreed. The first stage establishes the team and initial companies. Most of the second stage goes toward co-op investments, while studio expansion remains selective. Additional spending depends on that capital being raised.
+
+## At a glance
+
+| Use | Initial $11M | Early 2027: $11M | Combined $22M |
+|---|---:|---:|---:|
+| Core Guild team | $2,000,000 | $1,000,000 | $3,000,000 |
+| Studio companies and expansion pool | $4,000,000 | $1,500,000 | $5,500,000 |
+| TinyCloud and SECO — initial investments | $2,000,000 | — | $2,000,000 |
+| Co-op follow-on pool | — | $2,500,000 | $2,500,000 |
+| Additional co-op companies and onboarding | $500,000 | $4,500,000 | $5,000,000 |
+| Member-sourced scout investments | $500,000 | $500,000 | $1,000,000 |
+| School rent support | $450,000 | — | $450,000 |
+| Present Future Summit | $250,000 | — | $250,000 |
+| Shared operating costs | $500,000 | $250,000 | $750,000 |
+| Cash contingency reserve | $800,000 | $750,000 | $1,550,000 |
+| **Total** | **$11,000,000** | **$11,000,000** | **$22,000,000** |
+
+**$7M of the second $11M—about 64%—goes to co-op investments and onboarding**, with another $500K for member-sourced scouts. These investments back independent teams, while the studio concentrates its hands-on work on a few companies.
+
+The initial team and rent estimates cover **18 months**. Company allocations fund the milestones below. Scout investments and co-op expansion have their own budgets, alongside a separate cash contingency reserve. The existing ARIA grant and any future operating revenue are separate from these new-capital totals.
 
 ## 1. Core Guild team
 
 We are building a small team whose work can move across companies. The raise gives people already creating together the capacity to commit more time, while building shared tools that make each project easier to deliver.
 
-| Role | First-raise priority |
-|---|---|
-| Founding engineering | Fund hands-on engineering across our software and physical products, building on an existing collaboration. |
-| Operations and community — fractional | Add fractional capacity around Jackie and Emily; their responsibilities and engagement terms are being developed. |
-| Head of Engineering and agentic platform — fractional | [[Sam Gbafa]] will lead the shared engineering and agentic platform work alongside his role at [[TinyCloud]]. |
-| Go-to-market | Add the capacity to bring products to customers. The role and candidate are still to be determined. |
+**Planning allocation: $2M initially, plus $1M in the second stage.**
+
+| Role | First-raise priority | Initial 18-month estimate |
+|---|---|---:|
+| Founding engineering | Fund hands-on engineering across our software and physical products, building on an existing collaboration. | $600,000 |
+| Operations and community — fractional | Add fractional capacity around Jackie and Emily; their responsibilities and engagement terms are being developed. | $300,000 combined |
+| Head of Engineering and agentic platform — fractional | [[Sam Gbafa]] will lead the shared engineering and agentic platform work alongside his role at [[TinyCloud]]. | $225,000 |
+| Go-to-market | Add the capacity to bring products to customers. The role and candidate are still to be determined. | $375,000 |
+| Founder leadership and specialist support | Provide for James and John's operating work and additional expertise as needed. | $500,000 |
+| **Total** | | **$2,000,000** |
+
+These are loaded cash-cost allowances, including compensation and employer or engagement costs, rather than salary offers. The additional $1M expands shared capacity as product launches and company needs develop. Dedicated ETHEREA and Hohm employees are budgeted with their companies below; they are additional to this core team.
 
 We have been working with a close friend and former Squarespace and Meetup staff engineer who has already contributed to [[ETHEREA]] and [[TinyCloud]], and created the ETHEREA chandelier and a new version of [[Templar]] with [John Briscella](https://www.sonic-sphere.com/team), an industrial and architectural designer. This is the kind of collaboration the core team will make possible across the Guild.
 
 ## 2. Studio companies
 
-Capital will support specific product and research milestones in the companies James and John are helping build.
+Capital will support company-specific hiring, product development, hardware and launch milestones. ETHEREA and Hohm will each hire **a dedicated engineer and a dedicated marketer**, alongside the shared Guild team.
 
-| Company | What the first raise will help deliver |
-|---|---|
-| [[ETHEREA]] | Bring the chandelier, Imagination Engine, and ETHEREA app to market. |
-| [[Hohm]] | Ship the first version of [[Templar]] and [[Inception]], its art therapy integration app. |
-| [[Router]] | Recruit leading researchers and pilot a network that connects their work and AI agents. Develop the proposed researcher-governed cooperative, test confidential appraisal of research artifacts, and explore collective licensing to frontier AI developers under researchers' control. |
+| Company / allocation | Initial allocation | Second-stage allocation | Milestones |
+|---|---:|---:|---|
+| [[ETHEREA]] | $2,000,000 | Allocated from the expansion pool | Hire its dedicated team; make the chandelier ready to deliver, fulfill the private preorder and prepare the planned conference rental; launch the supporting app. Develop workstation fulfillment and evaluate the lamp. |
+| [[Hohm]] | $1,500,000 | Allocated from the expansion pool | Hire its dedicated team and ship the first version of [[Templar]] and [[Inception]], its art therapy integration app. |
+| [[Router]] | $500,000 | $500,000 | Pilot the research network and develop the proposed researcher-governed cooperative, confidential appraisal and collective licensing. |
+| Studio expansion pool | — | $1,000,000 | Initial work on one or two additional studio companies and targeted follow-ons to existing companies, allocated against milestones and team capacity. |
+| **Total** | **$4,000,000** | **$1,500,000** | |
 
-Router already has support from an **$850k ARIA Scaling Trust grant**. One's additional allocation will be set against the work and costs covered by that grant. The cooperative's relationship with One and demand for collective licensing remain to be established.
+We expect capacity for **one or two additional studio companies during this planning period**, alongside continued work with our existing teams. The $1M expansion pool covers both new starts and further funding for existing companies; it is not a separate allowance for each. Costed plans and available founder and team time will determine the split.
 
-## 3. Co-op and member companies
+### Dedicated company teams
 
-We plan to capitalize [[TinyCloud]] and [[SECO]], alongside the shared work they can draw on through One.
+| Initial 18-month planning allowance | ETHEREA | Hohm |
+|---|---:|---:|
+| Dedicated engineer | $450,000 | $450,000 |
+| Dedicated marketer | $300,000 | $300,000 |
+| **Dedicated team subtotal** | **$750,000** | **$750,000** |
+| Remaining initial allowance for hardware, product and launch costs | $1,250,000 | $750,000 |
+| **Initial company allocation** | **$2,000,000** | **$1,500,000** |
+
+The roles come from the founders' plan; the loaded cash costs and start dates are estimates to be agreed. These team costs are included within each company allocation, not added on top. They fund people focused on that company's products and customers.
+
+The company founder sets daily priorities and manages the dedicated team. One's team supplies shared infrastructure and specialist work through planned assignments. [[Studio#How the teams work together|How the teams work together]] describes the division of responsibilities.
+
+### ETHEREA hardware and cloud costs
+
+The current chandelier costs roughly **$1,000 to build**, and we expect substantially more chandelier sales than Imagination Engine sales. Production can therefore require meaningful cash even at a low unit cost. The budget will separate development and equipment, customer production and inventory, and any installations ETHEREA retains. Batch sizes and the timing of supplier payments and customer receipts determine the cash tied up.
+
+The Imagination Engine's planned **$20,000 selling price is revenue per workstation, not its build cost**. We expect to have workstations assembled after customer orders; supplier costs and payment terms remain to be confirmed. The possible tabletop cube lamp needs its own design and production estimate.
+
+**The total hardware requirement is still being costed.** ETHEREA's $1.25M remaining after dedicated payroll must cover hardware, the app, cloud usage and other launch costs together. Cloud compute is a recurring delivery cost, and its budget will follow usage and product pricing. The initial company allocation remains a planning envelope; costed plans will determine whether it needs funding from the expansion pool.
+
+Router already has support from an **$850k ARIA Scaling Trust grant**. The proposed $1M from One is additional capital; its detailed uses will be reconciled against the work and costs covered by that grant. The cooperative's relationship with One and demand for collective licensing remain to be established.
+
+## 3. Co-op companies and member-sourced investments
+
+We will support TinyCloud and SECO while bringing more founders and companies into the network. The second raise puts most of its capital behind these independent teams. New investments, follow-ons and onboarding each have a separate allowance.
+
+| Allocation | Initial stage | Second stage | Combined |
+|---|---:|---:|---:|
+| [[TinyCloud]] — initial investment | $1,000,000 | — | $1,000,000 |
+| [[SECO]] — initial investment | $1,000,000 | — | $1,000,000 |
+| Co-op follow-on pool | — | $2,500,000 | $2,500,000 |
+| Investment capital for additional co-op companies | $400,000 | $4,350,000 | $4,750,000 |
+| Additional company onboarding and integration | $100,000 | $150,000 | $250,000 |
+| [[Scout Fund|Member-sourced scout investments]] | $500,000 | $500,000 | $1,000,000 |
+| **Total** | **$3,000,000** | **$7,500,000** | **$10,500,000** |
 
 - **TinyCloud:** advance user-owned data infrastructure and the integrations that support Router and other Guild applications.
 - **SECO:** move its private, encrypted community network and communal AI from the validated prototype toward a production-ready product and paying communities.
+- **Co-op follow-ons:** keep $2.5M available for subsequent rounds in companies where progress and terms justify another investment. TinyCloud, SECO and additional co-op companies can be considered; no follow-on is assigned automatically.
+- **Additional co-op companies:** invest in selected businesses and help them establish their relationship with One, connect to shared tooling, and complete their first agreed projects. Onboarding covers incremental costs beyond the core team already funded above.
+- **Member-sourced scout investments:** make smaller initial bets on founders introduced by members, with the option to work more deeply together as the companies develop.
 
-Investment amounts, company budgets and terms will be agreed for each business.
+The scout allocation starts as **a program funded by One PBC**. It does not assume a separate fund is already operating. Members bring opportunities; One approves its investments. A later fund would have its own capital, investment authority and sourcing-carry arrangements.
+
+These are planning allocations. Actual checks, timing and terms will be agreed for each business. A scout-backed company may later join the Cooperative; any additional capital and onboarding costs are charged to the relevant allocation once.
 
 ## 4. School
 
 Provide a monthly contribution toward rent at [[School]], our shared home for building, working and gathering. This supports the physical base that the team, companies and members use together.
 
-**Monthly rent contribution: TBD.**
+**Planning allowance: $25,000 per month for 18 months, or $450,000.** This is a budget assumption; the actual monthly contribution and term remain to be agreed. It is included entirely in the first stage.
 
 ## 5. Present Future Summit
 
 Fund planning and production of the **January 2027 [[Present Future Summit]]** at School. The conference brings together creative futurism, pro-social technology and consciousness research, and gives our companies and members a stage to demonstrate what they are building.
 
-The event budget will identify One's contribution alongside any confirmed sponsorship and ticket revenue.
+**Initial planning allocation: $250,000.** This funds One's contribution to planning and production. No unconfirmed sponsorship or ticket revenue has been deducted from the allowance.
 
-## Sizing the first raise
+## Shared operating costs and reserves
 
-The budget will connect these priorities to monthly spending, product milestones and a cash reserve. Shared team costs and company allocations will be reconciled so the same work is counted once, with operating revenue and grant funding attributed to the costs they can cover.
+**Shared operating costs: $500,000 initially, plus $250,000 in the second stage.** This covers One's legal, accounting, insurance, shared compute and tooling, and other parent operating costs. Team compensation, School rent and the conference have their own allocations above.
+
+**Cash contingency reserve: $800K initially, plus $750K in the second stage.** This provides a $1.55M buffer for unexpected costs and timing gaps. Scout investments, co-op expansion and studio expansion are allocated separately above.
+
+We will reconcile the plan in a monthly cash budget before making commitments. Company funding and shared labor will be counted once, and revenue or grant funding will be attributed only to costs they can cover. The 18-month operating estimates describe the planning period; actual runway depends on spending, receipts and financing dates.
 
 See [[UnLimited Partners|Investing in One]] for participation in the first corporate raise and [[How One Works]] for the operating model.
 
@@ -929,6 +1000,7 @@ updated: 2026-09-15
 aliases: [UnLimited Partners, ULP, ULPs]
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: target $11M first, then another $11M in early 2027; $22M total capital"
   - "James Barnes, September 15, 2026: simplify How One Works and place detailed financing and legal discussion here"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -952,7 +1024,7 @@ The first raise funds the shared team, reusable technology, and agreed capital s
 
 See [[Use of Funds]] for the first-raise priorities, core team and company milestones.
 
-The raise amount, valuation, instrument, closing schedule, and initial budget remain open. Earlier fundraising figures have not been reinstated by this change in sequence.
+We are targeting **$11M initially and an additional $11M in early 2027**, for **$22M in total new capital**. Use of Funds shows the illustrative allocation for each stage. Valuation, instrument, exact closing dates and final spending commitments remain to be agreed.
 
 ## Shared ownership and dilution
 
@@ -1084,6 +1156,9 @@ updated: 2026-09-15
 aliases: []
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
+  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
+  - "James Barnes, September 15, 2026: ETHEREA and Hohm will each hire a dedicated engineer and marketer; requested interaction with the studio team"
   - "James Barnes, September 15, 2026: current core team and first-raise priorities in Use of Funds"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
@@ -1124,9 +1199,9 @@ One reserves a single 30% equity pool for employees, members, and participating 
 
 ## Our first major focus
 
-Our first major focus will be nailing [[ETHEREA]]'s entry into the conference and event market, with a fast-follow using [[Inception]],  [[Hohm]]'s psychedelic integration app, as a way to bootstrap [[ETHEREA]]'s visual agent SDK and [[TinyCloud]]'s managed database service.
+Our first major focus is bringing [[ETHEREA]]'s chandelier from prototype into a product people can buy or rent. Its Burning Man debut, private-client preorder and planned Human Rights Foundation conference rental give the team concrete starting points. The same conversation-responsive visual experience could serve private homes, events, education, speech therapy and shared public spaces, with each application tested on its own merits.
 
-Building on this momentum, [[ETHEREA]] will aggressively attack the $15b conference production market to refine this capability on bigger and more important stages, and offer a natural distribution path for a more scalable set of applications. [[Inception]], an [[ETHEREA|Etherea]]-powered Art Therapy tool is [[Hohm]]’s scalable solution for the mass market of psychedelic wellness. Bootstrapping in Q1 with [[Inception]], the psychedelic integration app developed by [[Hohm]], we will open up [[ETHEREA]] visualization to developers to build their own visual agents.
+The shared team will support chandelier engineering, production readiness and the app and computing infrastructure behind it. [[Hohm]]'s [[Inception]] uses ETHEREA visualization in a specialized integration application, while [[TinyCloud]] contributes shared data infrastructure. These collaborations can improve the core technology as each company develops its own product and customers.
 
 In parallel, [[Router]] will pilot its research network and develop the proposed researcher-governed cooperative, with [[TinyCloud]] supporting its privacy architecture. Its team and capital needs will be set against the work covered by the ARIA grant. These are examples of how our integrated approach allows us to match projects and resources.
 
@@ -1134,7 +1209,22 @@ In parallel, [[Router]] will pilot its research network and develop the proposed
 
 The first raise prioritizes founding engineering, fractional operations and community support, [[Sam Gbafa]] as fractional Head of Engineering and lead for the shared agentic platform, and a go-to-market role to be defined. The team works across companies, with assignments shaped by each product's needs.
 
-[[Use of Funds]] is the current hiring and company-capitalization plan.
+[[Use of Funds]] is the current hiring and company-capitalization plan. We expect room for one or two additional studio companies during the planning period. Its proposed $1M expansion pool supports initial work on new companies and targeted follow-ons to existing ones, with decisions shaped by milestones and available founder and team time. Most of the second raise backs independent [[Cooperative]] companies.
+
+## How the teams work together
+
+ETHEREA and Hohm will each hire a dedicated engineer and marketer. These employees report to their company's founder and own that company's day-to-day product delivery and customer growth. One's shared team works across companies through agreed assignments.
+
+| Area | Dedicated company team | One's shared team |
+|---|---|---|
+| Product engineering | Own the application, customer experience, releases and product reliability. | Own shared infrastructure and tools; provide architecture and specialist support. |
+| Marketing | Own positioning, campaigns, pipeline and customer feedback for the company. | Support brand, creative work, events and distribution through the Guild's network. |
+| Physical products | Own product requirements, customer commitments and delivery plans. | Provide specialist design, fabrication and integration help for defined projects. |
+| Priorities and staffing | The company founder sets the roadmap and manages its employees. | One agrees the scope, available people and time commitment for shared assignments. |
+
+Company priorities remain with the founder. Sam coordinates shared engineering and the agentic platform; cross-company technical reviews surface reusable work and dependencies. Dedicated engineers can contribute improvements to the platform while retaining responsibility for their own products.
+
+Shared assignments have a clear deliverable, owner and time budget. Company-specific IP and shared platform IP follow the existing agreements. Each company's employees are paid from its company budget; shared team costs and service payments are reconciled once in One's overall cash plan.
 
 ## Relations
 
@@ -1163,6 +1253,8 @@ when:
   precision: horizon
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
+  - "James Barnes, September 15, 2026: allocate more capital to onboarding additional co-op companies alongside a scout program"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 assembled_by: "Codex (investment, services and reciprocal equity terms)"
@@ -1193,7 +1285,15 @@ Members and portfolio-company employees can do fractional work for other compani
 
 The earlier planning range for Cooperative checks is $500,000 to $1 million; investment size and valuation are agreed for each transaction. Smaller member-sourced investments are described in [[Scout Fund|Member-sourced investments]]. This range is a planning input, not an approved commitment from the initial corporate raise. One approves its own investments. A future fund would have separate investment authority and budgets.
 
-Current Companies
+## Growing the Cooperative
+
+[[Use of Funds]] directs most of the proposed second raise toward co-op companies: **$7M for investments and onboarding**. Across both stages, the plan allocates $5M to additional companies and onboarding ($4.75M of investment capital and $250K of incremental integration costs), $2M to initial TinyCloud and SECO investments, and $2.5M to a co-op follow-on pool. Scout investments have a separate allocation.
+
+The follow-on pool can support TinyCloud, SECO and additional co-op companies as they progress. It is not automatically assigned to any company. We can back more independent teams while James and John concentrate their studio work on a few deep builds. Shared work is scoped to the capacity One can provide; onboarding costs above cover incremental work outside the already-funded core team.
+
+The relationship begins with founder fit and an agreed company plan, followed by investment and partnership terms, shared tooling, and a first scoped project. Companies may come through the member-sourced scout program or join One directly. An initial scout check and any later co-op investment are distinct uses of capital and are counted once.
+
+## Current companies
 
 - [[TinyCloud]]
 - [[SECO]]
@@ -1535,41 +1635,6 @@ depends_on:: [[Hohm]]
 
 ---
 
-<!-- note: Presence (Presence.md) -->
-
-
-
-
----
-
-<!-- note: SECO (companies/SECO.md) -->
-
----
-title: SECO
-type: company
-status: review
-updated: 2026-08-21
-aliases: [Seco]
-when: null
-milestones: []
-sources:
-  - "James, dictated in interview, Aug 21 2026 (first paragraph)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-owner: "[[Carter Cleveland]]"
----
-# SECO
-
-SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
-^intro
-
-## Relations
-
-part_of:: [[Cooperative]]
-founded_by:: [[Carter Cleveland]]
-
-
----
-
 <!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
 
 ---
@@ -1601,6 +1666,41 @@ At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam G
 ## Relations
 
 part_of:: [[Membership]]
+
+
+---
+
+<!-- note: Presence (Presence.md) -->
+
+
+
+
+---
+
+<!-- note: SECO (companies/SECO.md) -->
+
+---
+title: SECO
+type: company
+status: review
+updated: 2026-08-21
+aliases: [Seco]
+when: null
+milestones: []
+sources:
+  - "James, dictated in interview, Aug 21 2026 (first paragraph)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+owner: "[[Carter Cleveland]]"
+---
+# SECO
+
+SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
+^intro
+
+## Relations
+
+part_of:: [[Cooperative]]
+founded_by:: [[Carter Cleveland]]
 
 
 ---
@@ -1677,10 +1777,11 @@ part_of:: [[Membership]]
 title: House of Blue Lotus
 type: partner
 status: review
-updated: 2026-08-23
+updated: 2026-09-15
 assembled_by: Claude
 aliases: [HoBL]
 sources:
+  - "Codex, September 15, 2026: move the superseded nonprofit equity earmark into private working notes; the current Cap Table and How One Works govern the proposed shared pool"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
   - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
 ---
@@ -1833,6 +1934,7 @@ updated: 2026-09-15
 aliases: [Scout fund]
 milestones: []
 sources:
+  - "James Barnes, September 15, 2026: allocate a substantial share of previously unallocated capital to scout investments and additional co-op companies"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 assembled_by: "Codex (member sourcing through One, with fund investments and sourcing carry in a later phase)"
@@ -1843,9 +1945,11 @@ assembled_by: "Codex (member sourcing through One, with fund investments and sou
 Member-sourced investments begin with introductions from the network. Members bring founders and opportunities to One based on their experience and relationships. One decides which opportunities fit its operating priorities, available capital, and investment-company analysis. After a separate fund launches, its investment team would decide which introductions receive fund capital.
 ^intro
 
-The program gives the network a way to make small bets alongside the few companies James and John help build deeply. One's research and agent tools organize evidence and support evaluation. One retains authority over its corporate investments. The future fund would have its own authority over fund investments.
+The program gives the network a way to make small bets alongside the few companies James and John help build deeply. [[Use of Funds]] proposes a dedicated $1M scout investment allocation: $500K from each stage of the One PBC raise. This is a corporate program budget; check sizes and deployment timing remain to be set. One's research and agent tools organize evidence and support evaluation. One retains authority over its corporate investments. The future fund would have its own authority over fund investments.
 
 Members may receive agreed GP carry for investments sourced to a future fund once its carry arrangements exist. One equity awards compensate agreed work and contributions under the shared pool policy. An introduction creates no automatic equity or carry entitlement. There is no automatic capital budget or investment allocation for each member.
+
+A company introduced through the program may later join the [[Cooperative]], receive further investment or undertake deeper work with One. The additional co-op company and onboarding budget is separate from the initial scout checks.
 
 The fund's launch timing, mandate, sourcing-carry allocations and terms remain open. [[How One Works]] explains the initial corporate raise and the later fund.
 
@@ -1926,6 +2030,60 @@ CEO, [[House of Blue Lotus]]. Co-founder of Spirituality Week and former CEO of 
 ## Relations
 
 part_of:: [[Membership]]
+
+
+---
+
+<!-- note: A Letter from the Founders (people/A Letter from the Founders.md) -->
+
+---
+title: A Letter from the Founders
+type: theme
+status: review
+updated: 2026-09-15
+owner: "[[James Barnes]], [[John Fagan]]"
+aliases: []
+assembled_by: "Codex (standalone original letter and navigation; founders' words retained verbatim)"
+sources:
+  - "00 Prospectus, founding letter as merged in PR #2; moved at James's request to improve prospectus flow"
+  - "James Barnes, September 15, 2026: retain the original standalone letter; subsequent direction assumes readers have read the homepage and keeps the Thesis focused on investments"
+---
+# A Letter from the Founders
+
+Our original founding letter. For the current investment framework, see [[Thesis]].
+
+Friends,
+
+Humans are the least present we have ever been: distracted, divided, and isolated by increasingly lethal demands on our attention from technologies that have commodified it.
+
+We believe that general intelligence can liberate human attention just as it threatens to destroy it. We see a new horizon of presence and connection unlocked by unifying the timeless tools of ritual, ceremony, and togetherness with our emergent capacity to create anything we can imagine. Just as today’s AI takeoff is accelerating human capability across engineering, science, and creativity, we believe that it will equally propel talent, capital, and infrastructure aligned in service of the present moment.
+
+We are doing this today at 25 Dobbin Street, a 28k square foot former parochial [[School|school]] and [[Convent|convent]] on McCarren Park that we are turning into the nexus for the Brooklyn Renaissance.
+
+Our mission is simple, ambitious and timely: Build a Present Future.
+
+In a present future:
+
+- Frontier technology blends seamlessly with the proven tools of the past to connect us with ourselves, each other, and the earth beneath our feet.
+- Cryptography combines with general intelligence to enable us to collaborate without fear, and be vulnerable without exploitation.
+- Armed with well-regulated nervous systems, increasingly capable AI allows each of us to become fully self-expressed, creating as we speak to share our deepest potential and uplift all of humanity.
+- The values of radical self-reliance and communal effort stand in harmonious balance, scaffolded by our intention and energy to catalyze a renaissance in a beautiful transmutation of inner work to outer value.
+- We collectively heal from Wetiko, and shift to an abundance mindset to meet the moment.
+
+Below, we are excited to take you through our plan to fully actualize this dream, including and especially highlighting the journey that got us here and the progress we have made so far.
+
+With great awareness of the lessons of social media and the promise and peril of frontier AI, we believe that today is the exact right moment to act boldly, and look forward to welcoming you aboard our Thesean ship of progress we are assembling for this journey.
+
+As you read, we invite you to dream big, feel deeply, and think hard, applying both your analytical rigor and childlike wonder to imagine the future we are describing and scrutinize the path we are carving to get there. We are eager for your feedback, questions, and suggestions on where to both become more focused and more ambitious.
+
+With deep gratitude,
+
+[[John Fagan]] and [[James Barnes]]
+Managing Partners, ✌🏻One Guild
+
+## Relations
+
+part_of:: [[Thesis]]
 
 
 ---
