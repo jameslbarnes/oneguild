@@ -958,6 +958,8 @@ The raise amount, valuation, instrument, closing schedule, and initial budget re
 
 One plans a single **30% fully diluted equity reserve at adoption** for employees, members, and participating companies. Awards to companies and individuals draw on the same reserve. The financing documents must place pool adoption relative to the first raise and specify existing and new investor ownership. Subsequent financing and approved reserve increases can dilute holders.
 
+The [[Cap Table]] shows the proposed pre-money allocations for One and the proposed ETHEREA and Hohm ownership after contribution.
+
 Raising into One changes ownership of One but does not itself issue new shares in its subsidiaries. A separate financing at a subsidiary can change One's percentage ownership of that business, so its financing and governance need to be considered together.
 
 ## Patient ownership and liquidity
