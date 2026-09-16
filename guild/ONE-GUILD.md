@@ -1069,7 +1069,7 @@ depends_on:: [[Cap Table]]
 title: Managing Partners
 type: theme
 status: review
-updated: 2026-08-25
+updated: 2026-09-15
 assembled_by: Claude
 aliases: []
 sources:
@@ -1081,6 +1081,14 @@ sources:
 ## [[John Fagan]]
 
 > Co-founder · Managing Partner. I am inspired by building the containers in which people can build and awaken at the same time, motivated by a decade of learning, at some cost, what happens when you try to do the former without the latter.
+> 
+> My training was institutional. As a former lawyer, I worked at BlackRock and Voya inside the capital markets and corporate governance teams before moving into management consulting. Working directly with the board and executive committees and then on the front line, gave me a systemic perspective on value, economic engines, human psychology, and talent management and development.
+> 
+> In 2018, I co-founded Doorkee as CEO, a venture-backed peer-to-peer apartment rental platform to realign financial incentives and digitize the rental process. Our bumpy exit in 2022, brought painful, yet invaluable lessons. I spent the following years deliberately, shifting from sharpening my mind to repairing what building without internal mooring had cost me. I advised early-stage founders on fundraising, go-to-market, product expansion, and implementing management systems, including as the sell-side advisor on an eight-figure acquisition.
+> 
+> In the same window, I learned to develop balance, co-creating art and community. I helped produce immersive theatrical work with [[Calling All Magical People]] and executive produced "Tapestry of Life," a gallery installation at 69 Gansevoort in Manhattan's Meatpacking District. I founded [[Hohm]], a consciousness accelerator built on high-fidelity sound and ketamine-assisted psychotherapy journeys for shadow work and individuation; its journeyers have included renowned artists, founders, operators, ceremonialists, and world builders. I selectively worked as a Jungian coach and psychedelic integration specialist, mostly with exited founders doing the interior work that venture leaves unexamined.
+> 
+> I believe the next great companies will be built by those who have done that work, and that almost no institution exists to hold and foster them while they do it. One is that institution. The question for me was never whether to choose between building and awakening, but how to design the structure in which nobody has to.
 > — from [[John Fagan]]
 
 ## [[James Barnes]]
