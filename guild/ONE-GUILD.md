@@ -8,37 +8,38 @@ Generated from one/vault. One section per note, in map-of-content order. `[[Name
 <!-- note: 00 Prospectus (00 Prospectus.md) -->
 
 ---
-title: One Guild | Prospectus | Fall 2026
+title: One Studio | Prospectus | Fall 2026
 type: theme
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 owner: "[[James Barnes]], [[John Fagan]]"
 aliases: [Prospectus, MOC, Index]
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "James Barnes, September 15, 2026: assume readers have read the homepage letter and focus the Thesis on the investment framework"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 assembled_by: "Codex (prospectus structure and connective copy; Thesis focuses on the investment framework)"
 ---
 
-# One Guild | Prospectus | Fall 2026
+# One Studio | Prospectus | Fall 2026
 
-We bring patient capital, shared engineering and design, and a network of founders and makers together to build companies over the long term. Our home is [[School]] in Brooklyn. Our mission is to build a present future: using technology and community to help people become more present, connected, and capable of creating together.
+One brings patient capital, shared services, and a network of founders and worldbuilders together to build companies that can thrive through accelerating change and endure over the long term. The [[Studio]] provides product, design and engineering, bespoke agent platforms, fundraising support, management systems, operations, and sales support. Our work with founding teams and [[UnLimited Partners|ULPs]] also reaches into personal growth and relationships, connecting company building with the development of the people behind it.
+
+Our home is [[School]] in Williamsburg/Greenpoint, Brooklyn. The [[Membership|Guild]] brings worldbuilders, operators and creatives into a community that contributes talent, founders, relationships and capital to the Studio. Our mission is to build a present future: cultivating a community around pro-social technology, immersive art and consciousness expansion to help people become more aligned, connected and whole.
 
 ## [[How One Works]]
 
-> One PBC is our operating and holding company. We plan to raise capital directly into One to build a shared team, develop reusable technology, and support operating businesses. A separate evergreen investment fund would follow later.
+> One PBC is the operating and holding company behind the Studio. We are raising capital directly into One to build a shared team, develop reusable technology, and support our companies. We plan to add a separate evergreen investment fund later.
 > — from [[How One Works]]
 
 ![[one-model.png|How One works: a direct One PBC raise, shared operations and company building, with a separate fund later]]
 
 [Open the full-size diagram (PDF)](assets/00%20Prospectus/one-model.pdf) · [View the full-size image](assets/00%20Prospectus/one-model.png)
 
-The diagram shows how capital, shared work and tooling, company equity, and One's contribution pool support company building. It separates the initial corporate raise from the later fund. Ownership and financing terms remain subject to agreement.
-
 ## [[Thesis|Our Thesis]]
 
-> One builds and invests in companies that strengthen presence, connection and trust. We look for founders who can turn these human needs into products people value, enduring businesses and meaningful social impact.
+> One builds and invests in companies that strengthen presence, connection and trust. We attract founders who turn these human needs into products and experiences people deeply value, enduring businesses, and meaningful social impact.
 > — from [[Thesis]]
 
 [[Thesis|Read our thesis]] to explore the fields we build in and the criteria we use to choose companies.
@@ -48,34 +49,36 @@ The diagram shows how capital, shared work and tooling, company equity, and One'
 > | Company | What it is building | How we work together |
 > |---|---|---|
 > | [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
-> | [[Hohm]] | Experiences, immersive sound environments, and tools for psychedelic integration | [[Studio]] |
+> | [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | [[Studio]] |
 > | [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
 > | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
 > | [[SECO]] | A private community network with encrypted communal AI | [[Cooperative]] |
 > — from [[Our Companies]]
 
-The company pages describe each business, its progress, and its next steps. Shared work is already part of their relationship: [[TinyCloud]] provides infrastructure for [[Router]], and [[Hohm]] is developing [[Inception]] with [[ETHEREA]]'s visualization technology.
+The Studio ecosystem is already producing shared results: [[TinyCloud]] provides infrastructure for [[Router]], and [[Hohm]] is developing [[Inception]] with [[ETHEREA]]'s visualization technology.
 
-## [[Our Edges]]
+## For investors
 
-> One's advantages begin with shared space, trusted relationships, and operating capacity. Our arrangement at [[School]] supports a common base for the team and community. Working alongside founders helps us understand their companies, and shared engineering, design, and tooling can benefit several businesses.
+### [[Our Edges]]
+
+> One's advantages begin with shared space, trusted relationships, and operating capacity. Our mutually beneficial arrangement at [[School]] supports a common base for the team and community. Working alongside founders day to day gives us a close understanding of their companies, while shared resources and tooling help teams align and move faster.
 > — from [[Our Edges]]
 
 The chapter closes with the compounding loop: relationships bring opportunities, shared work builds companies and reusable tools, and progress draws more people and opportunities into the network.
 
-## [[Use of Funds]]
+### [[Use of Funds]]
 
-> Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
+> Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support selected co-op companies' expansion, and launch our conference and event series. The shared Studio team and our base at School support this work.
 > — from [[Use of Funds]]
 
-We are targeting $11M initially and another $11M in early 2027. The chapter maps an illustrative $22M allocation across the team, company milestones, member-sourced scout investments, co-op companies, School, the January conference, operating costs and a cash reserve. Most of the second raise goes to co-op investments and onboarding, with selective studio expansion.
+We are targeting $11M initially and another $11M in early 2027. The chapter maps an illustrative $22M allocation across the team, company milestones, member-sourced scout investments, co-op companies, School, our January Present Future conference, operating costs and a cash reserve. Most of the second raise goes to co-op investments and onboarding, with selective studio expansion.
 
-## [[UnLimited Partners|For investors]]
+### [[UnLimited Partners]]
 
-> UnLimited Partners bring judgment, relationships and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors buy shares in One and participate in the value of its businesses, shared technology and company holdings.
+> UnLimited Partners (ULPs) bring judgment, relationships and intentional participation alongside patient capital.
 > — from [[UnLimited Partners]]
 
-The first raise gives investors shares in One PBC. The investor chapter explains the use of capital, shared ownership, dilution and potential liquidity, followed by how a separate fund could join the model later.
+The first raise gives ULPs shares in One PBC. The investor chapter explains the use of capital, shared ownership, how future share issues affect ownership percentages, and potential liquidity, followed by our plans for a separate evergreen fund.
 
 ## [[Managing Partners]]
 
@@ -83,12 +86,12 @@ The first raise gives investors shares in One PBC. The investor chapter explains
 
 ## [[Our Story]]
 
-> One grew out of John and James's experiences building companies and bringing communities together. From a month with friends in Morocco to a temporary home on Gansevoort Street and then School in Brooklyn, each step strengthened their conviction that shared places and relationships can help people create ambitious work together.
+> One grew out of John and James's experiences building companies and bringing communities together. From a chance meeting at Burning Man in 2022, to a month with friends and collaborators in Morocco in 2023, to a temporary home on Gansevoort Street in 2025, and now School in Brooklyn, each step strengthened their conviction that shared places and relationships help people achieve ambitious work together.
 > — from [[Our Story]]
 
 ## Continue the conversation
 
-We welcome founders who want to build with the [[Studio]] or join the [[Cooperative]], [[Membership|members]] who want to contribute their craft, and [[UnLimited Partners|investors]] who share our long-term approach. Bring us a company, an idea, or a question about the model; the next conversation is about what we can build together.
+We welcome founders who want to build with the [[Studio]] or join the [[Cooperative]], [[Membership|members]] who want to contribute their craft, and [[UnLimited Partners|ULPs]] who share our long-term approach. Bring us a company, an idea, or a question about the model; the next conversation is about what we can build together.
 
 ## Relations
 
@@ -207,6 +210,156 @@ part_of:: [[Membership]]
 
 ---
 
+<!-- note: Studio (engines/Studio.md) -->
+
+---
+title: Studio
+type: engine
+status: review
+updated: 2026-09-17
+aliases: []
+milestones: []
+sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
+  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
+  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
+  - "James Barnes, September 15, 2026: ETHEREA and Hohm will each hire a dedicated engineer and marketer; requested interaction with the studio team"
+  - "James Barnes, September 15, 2026: current core team and first-raise priorities in Use of Funds"
+  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
+  - "Jeff Burke, Sutter Hill Ventures: The Silent Builders (Substack) — https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders"
+assembled_by: "Codex (operating structure; team plan aligned with the September 15 first-raise priorities)"
+---
+
+# Studio
+
+The Studio is One's business: a permanent home for a shared team, reusable technology, company building and investments, held through One PBC. The Guild brings founders, operators, creatives and ULPs into this work. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
+^intro
+
+After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Speiser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
+
+1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
+
+2. Studio projects are picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
+
+3. Ownership reflects the founders, capital, IP, and continuing work involved in each company. A substantial role in forming a company can earn a minority stake; One does not require majority ownership of every company it helps create. In the initial phase, One PBC receives equity under its work and IP agreements, with the future-work portion vesting as One delivers its commitments. A later fund's participation requires its own agreement.
+
+4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
+   
+5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
+
+We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
+
+![[shv-ten-principles.png|The Ten Observed Principles of SHV (Jeff Burke, Substack)]]
+
+The initial raise capitalizes One directly. One uses its corporate capital and service revenue to fund the shared team and support its businesses. Each company's ownership and financing arrangements are agreed separately.
+
+## Shared work, tooling, and ownership
+
+One PBC provides engineering, design, and operating capacity to companies under agreed service and license arrangements. Its shared agent platform begins within One; successful internal products can later become separate operating businesses. Companies retain company-specific product IP under their agreements and can contribute improvements to shared infrastructure.
+
+Members and portfolio-company employees can take fractional assignments through One, and assigned team members can later join a company directly. Responsibilities, compensation, transitions, and IP rights are agreed for each engagement.
+
+One reserves a single 30% equity pool for employees, members, and participating portfolio companies. Individual contributor awards and company partnership awards draw on that same reserve. [[How One Works]] sets out the distinct capital, work, and ownership flows.
+
+## Our first major focus
+
+Our first major focus is bringing [[ETHEREA]]'s chandelier from prototype into a product people can buy or rent. Its Burning Man debut, private-client preorder and planned Human Rights Foundation conference rental give the team concrete starting points. The same conversation-responsive visual experience could serve private homes, events, education, speech therapy and shared public spaces, with each application tested on its own merits.
+
+The shared team will support chandelier engineering, production readiness and the app and computing infrastructure behind it. [[Hohm]]'s [[Inception]] uses ETHEREA visualization in a specialized integration application, while [[TinyCloud]] contributes shared data infrastructure. These collaborations can improve the core technology as each company develops its own product and customers.
+
+In parallel, [[Router]] will pilot its research network and develop the proposed researcher-governed cooperative, with [[TinyCloud]] supporting its privacy architecture. Its team and capital needs will be set against the work covered by the ARIA grant. These are examples of how our integrated approach allows us to match projects and resources.
+
+## Team
+
+The first raise prioritizes founding engineering, fractional operations and community support, [[Sam Gbafa]] as fractional Head of Engineering and lead for the shared agentic platform, and a go-to-market role to be defined. The team works across companies, with assignments shaped by each product's needs.
+
+[[Use of Funds]] is the current hiring and company-capitalization plan. We expect room for one or two additional studio companies during the planning period. Its proposed $1M expansion pool supports initial work on new companies and targeted follow-ons to existing ones, with decisions shaped by milestones and available founder and team time. Most of the second raise backs independent [[Cooperative]] companies.
+
+## How the teams work together
+
+ETHEREA and Hohm will each hire a dedicated engineer and marketer. These employees report to their company's founder and own that company's day-to-day product delivery and customer growth. One's shared team works across companies through agreed assignments.
+
+| Area | Dedicated company team | One's shared team |
+|---|---|---|
+| Product engineering | Own the application, customer experience, releases and product reliability. | Own shared infrastructure and tools; provide architecture and specialist support. |
+| Marketing | Own positioning, campaigns, pipeline and customer feedback for the company. | Support brand, creative work, events and distribution through the Guild's network. |
+| Physical products | Own product requirements, customer commitments and delivery plans. | Provide specialist design, fabrication and integration help for defined projects. |
+| Priorities and staffing | The company founder sets the roadmap and manages its employees. | One agrees the scope, available people and time commitment for shared assignments. |
+
+Company priorities remain with the founder. Sam coordinates shared engineering and the agentic platform; cross-company technical reviews surface reusable work and dependencies. Dedicated engineers can contribute improvements to the platform while retaining responsibility for their own products.
+
+Shared assignments have a clear deliverable, owner and time budget. Company-specific IP and shared platform IP follow the existing agreements. Each company's employees are paid from its company budget; shared team costs and service payments are reconciled once in One's overall cash plan.
+
+## Relations
+
+depends_on:: [[Cap Table]]
+located_at:: [[School]]
+
+
+---
+
+<!-- note: UnLimited Partners (engines/UnLimited Partners.md) -->
+
+---
+title: UnLimited Partners
+type: engine
+status: review
+updated: 2026-09-17
+aliases: [UnLimited Partners, ULP, ULPs]
+milestones: []
+sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
+  - "James Barnes, September 15, 2026: simplify the investor page and reconsider the prominent 40% discussion; retain useful investment facts and preserve technical analysis for review"
+  - "James Barnes, September 15, 2026: target $11M first, then another $11M in early 2027; $22M total capital"
+  - "James Barnes, September 15, 2026: simplify How One Works and place detailed financing and legal discussion here"
+  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (plain-language investment overview; detailed structure analysis retained in private working notes)"
+---
+
+# Investing in One
+
+UnLimited Partners (ULPs) bring judgment, relationships and intentional participation alongside patient capital.
+^intro
+
+Our first raise is directly into **One PBC**, the operating and holding company behind the Studio. ULPs buy shares in One and participate in the value of its businesses, shared technology and company holdings.
+
+## What your capital builds
+
+We are targeting **$11M initially and an additional $11M in early 2027**, for **$22M in total new capital**. The raise funds the shared team and tooling, product launches, selected company investments, and the places and gatherings that bring our community together. [[Use of Funds]] shows the priorities and illustrative allocations.
+
+One earns revenue as companies pay for agreed work and tooling. It can also own companies outright, purchase minority stakes, and earn equity through company-building work or contributed technology. Together, these activities can grow the value of One over time. [[How One Works]] explains the model.
+
+## Share in what we build
+
+Your investment is in One as a whole. One's value depends on the performance of its businesses, technology and holdings, alongside its costs and obligations. [[Cap Table]] shows the proposed ownership of One, ETHEREA and Hohm; each company's relationship with One depends on its own agreement.
+
+One plans a **single 30% equity pool**, measured on a fully diluted basis at adoption, for employees, members and participating companies. Awards recognize agreed contributions and can vest over time. Membership alone does not confer equity. The financing terms will establish how the pool and new investment affect everyone's ownership; future financing can dilute shareholders.
+
+## Patient ownership
+
+We want One to be a continuing home for ambitious work, with the ability to reinvest as companies develop. An increase in a company's valuation can make One's holding more valuable without generating cash.
+
+Investors could receive liquidity through dividends, approved share sales or repurchases, or a sale of One. These depend on performance, available cash and the agreed terms. There is no promised payout schedule or routine right to withdraw capital, and an investment can lose value.
+
+## A possible later fund
+
+A separate evergreen fund could eventually add capital for new investments and follow-ons. It would have its own investors and terms. Existing One assets would stay with One unless a transfer were separately agreed; investing in One would not automatically make someone an investor in the fund. Any shared work or investment arrangements would need to account for the value built with One's capital.
+
+## What we're finalizing
+
+Valuation, share terms, exact closing dates and company ownership agreements are still being developed. We are also working through the structure for holding operating businesses alongside minority investments. That review may affect how much One can invest directly in independent companies and how future investments are held or financed.
+
+The final investment documents will set out shareholder rights, material risks and the terms of the raise.
+
+## Relations
+
+depends_on:: [[Cap Table]]
+
+
+---
+
 <!-- note: School (engines/School.md) -->
 
 ---
@@ -267,24 +420,98 @@ part_of:: [[Mystical Network State]]
 
 ---
 
+<!-- note: Membership (engines/Membership.md) -->
+
+---
+title: Membership
+type: engine
+status: review
+updated: 2026-09-15
+aliases: []
+metrics:
+  now: "10 founding members producing $60k ARR currently"
+  now_note: "count 10 confirmed; ARR unsettled — cash vs in-kind dues to be reconciled by James & John (Aug 21 2026)"
+  goal_18mo: "150+ members producing > $500k ARR in membership fees"
+when:
+  start: 2026-10-01
+  end: 2028-03-31
+  label: "150+ members producing > $500k ARR in membership fees"
+  precision: horizon
+milestones:
+  - label: "Eventually, we will develop an internal marketplace"
+    date: 2027-08-31
+    precision: year
+sources:
+  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (work, ownership and sourcing revision)"
+---
+
+# Guild Membership
+
+now:: 10 founding members producing $60k ARR currently
+18 month goal:: 150 members producing > $1.8M ARR in membership fees
+by:: March 31, 2028
+timeline:: [[Timeline]]
+
+Guild membership, our top-of-the-funnel for talent and future portcos, is diversified across exited founders and seasoned operators, as well as commercially successful musicians and installation artists. 
+
+As a Guild, we take membership seriously. It is the oldest structure for keeping craft alive, and it means three things:
+
+- a mutual dedication to our mastery of **craft**
+- the in-person **transmission** of knowledge and wisdom
+- the careful **curation** of who belongs 
+
+Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. Members can earn One PBC equity through agreed contributions, drawing from the same 30% pool shared by employees and participating portfolio companies.
+^intro
+
+Our vision, already successfully being piloted, is for members to collaborate by utilizing excess cycles and resources to support each other without the pain of searching for vetted, accessible talent - while maximizing long term alignment. 
+
+In addition to being interviewed and selected by new managing partners, members pay dues (currently on a sliding scale of $300 to $1,000 per month for founding members, which we will increase over time as things evolve), with benefits including:
+
+- 24/7 Coworking access to [[School]]
+- access to local compute (Greenpoint Compute Collective), and makers spaces/tools
+- members-only programming
+- access to and member rates for other nodes in our [[Mystical Network State|network state]]
+- internal space rentals at below market costs
+- the ability to introduce projects through the [[Scout Fund|member-sourcing program]] and invest as an [[UnLimited Partners|unlimited partner]]
+
+In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
+
+## Work, ownership, and sourcing
+
+Members can earn One PBC equity by contributing to its businesses, shared infrastructure, and company-building work. CEOs can nominate contributors, including people on their teams; One approves each award's amount and terms. Membership by itself does not create an equity entitlement.
+
+Any member or portfolio-company employee can undertake fractional assignments at other companies through One. Each assignment sets out the work, compensation, time commitment, and ownership or licensing of what is created. A work engagement and an equity award are separately agreed.
+
+Members can also introduce founders and opportunities through the [[Scout Fund|member-sourcing program]]. One decides how to use its own operating capacity and corporate capital. A later fund would make its own investment decisions and could offer agreed sourcing carry from the GP. Fund carry begins only under those future arrangements and is separate from One equity awards for work.
+
+## Relations
+
+located_at:: [[School]]
+
+
+---
+
 <!-- note: How One Works (terms/How One Works.md) -->
 
 ---
 title: How One Works
 type: term
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 owner: "[[James Barnes]], [[John Fagan]]"
 aliases: []
 assembled_by: Codex
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: simplify the operating explanation and move detailed financing and legal discussion to For investors"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
 ---
 
 # How One Works
 
-One PBC is our operating and holding company. We plan to raise capital directly into One to build a shared team, develop reusable technology, and support operating businesses. A separate evergreen investment fund would follow later.
+One PBC is the operating and holding company behind the Studio. We are raising capital directly into One to build a shared team, develop reusable technology, and support our companies. We plan to add a separate evergreen investment fund later.
 ^intro
 
 ![[one-model.png|How One works: investors, operating businesses, members, shared work and company ownership]]
@@ -297,7 +524,7 @@ One PBC is our operating and holding company. We plan to raise capital directly 
 
 ## Share work and tooling
 
-One's shared team provides engineering, design, and operating support. Companies pay for this work and for access to tools, including One's shared agent platform. One develops reusable technology while companies retain their company-specific product IP.
+One's shared team provides product, design and engineering, bespoke agent platforms, fundraising support, management systems, operations, and sales support. Founder coaching and personal and interpersonal development complement this work. Companies pay for this work and for access to tools, including One's shared agent platform. One develops reusable technology while companies retain their company-specific product IP.
 
 Any member or portfolio-company employee can take fractional assignments at other companies through One. People can move between the shared team and company roles as the work develops.
 
@@ -328,9 +555,10 @@ depends_on:: [[Cooperative]]
 title: Thesis
 type: theme
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 aliases: [Our Thesis]
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: align the homepage and prospectus around three current investment fields; retain broader interests as horizons to explore and explain the role of physical places"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
   - "James Barnes, September 15, 2026: add the matrix connecting the Present Future Summit's three areas to presence, connection and trust; keep psychedelics explicit and central"
@@ -346,7 +574,7 @@ assembled_by: "Codex (investment-thesis structure and framing; homepage invitati
 
 # Our Thesis
 
-One builds and invests in companies that strengthen presence, connection and trust. We look for founders who can turn these human needs into products people value, enduring businesses and meaningful social impact.
+One builds and invests in companies that strengthen presence, connection and trust. We attract founders who turn these human needs into products and experiences people deeply value, enduring businesses, and meaningful social impact.
 ^intro
 
 ## Presence, connection and trust
@@ -404,10 +632,11 @@ Our longer-term interests include longevity and healthspan; fertility, birth, pa
 title: Our Companies
 type: theme
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 assembled_by: "Codex (company overview table); earlier source attribution retained below"
 aliases: []
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Each company's own note (intro paragraphs, transcluded); grouping from the notes' part_of relations"
@@ -422,7 +651,7 @@ These are the companies described in our current Studio and Cooperative programs
 | Company | What it is building | How we work together |
 |---|---|---|
 | [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
-| [[Hohm]] | Experiences, immersive sound environments, and tools for psychedelic integration | [[Studio]] |
+| [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | [[Studio]] |
 | [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
 | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
 | [[SECO]] | A private community network with encrypted communal AI | [[Cooperative]] |
@@ -793,9 +1022,10 @@ located_at:: [[School]]
 title: Our Edges
 type: theme
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 aliases: [Arbitrage, Synergies, and Competitive Edges, Edges]
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "James Barnes, written Aug 23 2026 (provided in conversation, placed verbatim)"
 assembled_by: "Codex (opening summary and compounding loop connecting the advantages to the current model)"
@@ -805,7 +1035,7 @@ assembled_by: "Codex (opening summary and compounding loop connecting the advant
 
 Arbitrage, Synergies, and Competitive Edges
 
-One's advantages begin with shared space, trusted relationships, and operating capacity. Our arrangement at [[School]] supports a common base for the team and community. Working alongside founders helps us understand their companies, and shared engineering, design, and tooling can benefit several businesses.
+One's advantages begin with shared space, trusted relationships, and operating capacity. Our mutually beneficial arrangement at [[School]] supports a common base for the team and community. Working alongside founders day to day gives us a close understanding of their companies, while shared resources and tooling help teams align and move faster.
 ^intro
 
 ## 1. Lease
@@ -850,10 +1080,11 @@ part_of:: [[00 Prospectus]]
 title: Use of Funds
 type: term
 status: unsettled
-updated: 2026-09-15
+updated: 2026-09-17
 assembled_by: "Codex (illustrative allocations against James's confirmed two-stage raise target)"
 aliases: [Hiring Plan, Headcount]
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
   - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
   - "James Barnes, September 15, 2026: roughly $1K current chandelier build cost; roughly $20K planned Imagination Engine selling price with likely assembly after orders; tabletop lamp under consideration; much higher expected chandelier volume"
@@ -867,7 +1098,7 @@ sources:
 
 # Use of Funds
 
-Our first raise into One PBC will fund the core Guild team, bring our first products to market, support selected member companies, and sustain the place and gatherings that bring this work together.
+Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support selected co-op companies' expansion, and launch our conference and event series. The shared Studio team and our base at School support this work.
 ^intro
 
 We are targeting **$22 million in new capital for One PBC: $11 million initially, followed by another $11 million in early 2027.**
@@ -1005,64 +1236,6 @@ part_of:: [[UnLimited Partners]]
 
 ---
 
-<!-- note: UnLimited Partners (engines/UnLimited Partners.md) -->
-
----
-title: UnLimited Partners
-type: engine
-status: review
-updated: 2026-09-15
-aliases: [UnLimited Partners, ULP, ULPs]
-milestones: []
-sources:
-  - "James Barnes, September 15, 2026: simplify the investor page and reconsider the prominent 40% discussion; retain useful investment facts and preserve technical analysis for review"
-  - "James Barnes, September 15, 2026: target $11M first, then another $11M in early 2027; $22M total capital"
-  - "James Barnes, September 15, 2026: simplify How One Works and place detailed financing and legal discussion here"
-  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (plain-language investment overview; detailed structure analysis retained in private working notes)"
----
-
-# Investing in One
-
-UnLimited Partners bring judgment, relationships and participation alongside patient capital. Our first raise is directly into **One PBC**, the operating and holding company. Investors buy shares in One and participate in the value of its businesses, shared technology and company holdings.
-^intro
-
-## What your capital builds
-
-We are targeting **$11M initially and an additional $11M in early 2027**, for **$22M in total new capital**. The raise funds the shared team and tooling, product launches, selected company investments, and the places and gatherings that bring our community together. [[Use of Funds]] shows the priorities and illustrative allocations.
-
-One earns revenue as companies pay for agreed work and tooling. It can also own companies outright, purchase minority stakes, and earn equity through company-building work or contributed technology. Together, these activities can grow the value of One over time. [[How One Works]] explains the model.
-
-## Share in what we build
-
-Your investment is in One as a whole. One's value depends on the performance of its businesses, technology and holdings, alongside its costs and obligations. [[Cap Table]] shows the proposed ownership of One, ETHEREA and Hohm; each company's relationship with One depends on its own agreement.
-
-One plans a **single 30% equity pool**, measured on a fully diluted basis at adoption, for employees, members and participating companies. Awards recognize agreed contributions and can vest over time. Membership alone does not confer equity. The financing terms will establish how the pool and new investment affect everyone's ownership; future financing can dilute shareholders.
-
-## Patient ownership
-
-We want One to be a continuing home for ambitious work, with the ability to reinvest as companies develop. An increase in a company's valuation can make One's holding more valuable without generating cash.
-
-Investors could receive liquidity through dividends, approved share sales or repurchases, or a sale of One. These depend on performance, available cash and the agreed terms. There is no promised payout schedule or routine right to withdraw capital, and an investment can lose value.
-
-## A possible later fund
-
-A separate evergreen fund could eventually add capital for new investments and follow-ons. It would have its own investors and terms. Existing One assets would stay with One unless a transfer were separately agreed; investing in One would not automatically make someone an investor in the fund. Any shared work or investment arrangements would need to account for the value built with One's capital.
-
-## What we're finalizing
-
-Valuation, share terms, exact closing dates and company ownership agreements are still being developed. We are also working through the structure for holding operating businesses alongside minority investments. That review may affect how much One can invest directly in independent companies and how future investments are held or financed.
-
-The final investment documents will set out shareholder rights, material risks and the terms of the raise.
-
-## Relations
-
-depends_on:: [[Cap Table]]
-
-
----
-
 <!-- note: Managing Partners (people/Managing Partners.md) -->
 
 ---
@@ -1119,16 +1292,17 @@ part_of:: [[00 Prospectus]]
 title: Our Story
 type: theme
 status: review
-updated: 2026-09-11
+updated: 2026-09-17
 aliases: [Our story]
 sources:
+  - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 assembled_by: "Codex (brief introduction for the prospectus)"
 ---
 
 # Our story
 
-One grew out of John and James's experiences building companies and bringing communities together. From a month with friends in Morocco to a temporary home on Gansevoort Street and then School in Brooklyn, each step strengthened their conviction that shared places and relationships can help people create ambitious work together.
+One grew out of John and James's experiences building companies and bringing communities together. From a chance meeting at Burning Man in 2022, to a month with friends and collaborators in Morocco in 2023, to a temporary home on Gansevoort Street in 2025, and now School in Brooklyn, each step strengthened their conviction that shared places and relationships help people achieve ambitious work together.
 ^intro
 
 Shortly after meeting at Burning Man in 2022, we joined forty new friends from Brooklyn for a month in Essouria, Morocco which changed the trajectory of both of our lives. In community, we held workshops on the emergent AI phenomenon, learned to kitesurf, threw epic parties where brilliant engineers connected with ex-pat artists, and turned a chance introduction with a local hotel owner into a one-day festival at his villa where we blended some of Brooklyn's best DJs with Omar Hayat, the top Gnawan artist in Morocco. We also held an “AI seance” where we attempted to replicate the findings of the Princeton Engineering Anomalies Research Lab to influence GPT-3 with our minds (the results were not statistically significant). Many interesting projects came out of this time for many in our community. Perhaps the most interesting was Edge City, the proto-[[Mystical Network State|network state]] founded by Timour Kosters, who we are collaborating with on next year’s gathering in New York City at our hq, [[School]].
@@ -1146,94 +1320,6 @@ We have been iterating elements of ONE since our magical month in Morocco, and n
 ## Relations
 
 precedes:: [[School]]
-
-
----
-
-<!-- note: Studio (engines/Studio.md) -->
-
----
-title: Studio
-type: engine
-status: review
-updated: 2026-09-15
-aliases: []
-milestones: []
-sources:
-  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
-  - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
-  - "James Barnes, September 15, 2026: ETHEREA and Hohm will each hire a dedicated engineer and marketer; requested interaction with the studio team"
-  - "James Barnes, September 15, 2026: current core team and first-raise priorities in Use of Funds"
-  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
-  - Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21
-  - "Jeff Burke, Sutter Hill Ventures: The Silent Builders (Substack) — https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders"
-assembled_by: "Codex (operating structure; team plan aligned with the September 15 first-raise priorities)"
----
-
-# Studio
-
-The Studio is One PBC's company-building operation: a permanent home for a shared team, reusable technology, and businesses developed within the Guild. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
-^intro
-
-After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Speiser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
-
-1. At any given time, [[John Fagan|John]] and [[James Barnes|James]] will lead between 1-2 studio projects each, starting with [[ETHEREA]], [[Hohm|Hohm / Templar]],  [[Router]], and [[School]], and will be judged by finding a killer replacement once demand exceeds operational capacity.
-
-2. Studio projects are picked thoughtfully and deliberately based on the input of the members and contribution to the mission. We will explicitly reject the rapid validation model of many of the past era’s Venture Studios in favor of the conviction-driven, partner-led approach employed by Sutter Hill.
-
-3. Ownership reflects the founders, capital, IP, and continuing work involved in each company. A substantial role in forming a company can earn a minority stake; One does not require majority ownership of every company it helps create. In the initial phase, One PBC receives equity under its work and IP agreements, with the future-work portion vesting as One delivers its commitments. A later fund's participation requires its own agreement.
-
-4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
-   
-5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
-
-We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
-
-![[shv-ten-principles.png|The Ten Observed Principles of SHV (Jeff Burke, Substack)]]
-
-The initial raise capitalizes One directly. One uses its corporate capital and service revenue to fund the shared team and support its businesses. Each company's ownership and financing arrangements are agreed separately.
-
-## Shared work, tooling, and ownership
-
-One PBC provides engineering, design, and operating capacity to companies under agreed service and license arrangements. Its shared agent platform begins within One; successful internal products can later become separate operating businesses. Companies retain company-specific product IP under their agreements and can contribute improvements to shared infrastructure.
-
-Members and portfolio-company employees can take fractional assignments through One, and assigned team members can later join a company directly. Responsibilities, compensation, transitions, and IP rights are agreed for each engagement.
-
-One reserves a single 30% equity pool for employees, members, and participating portfolio companies. Individual contributor awards and company partnership awards draw on that same reserve. [[How One Works]] sets out the distinct capital, work, and ownership flows.
-
-## Our first major focus
-
-Our first major focus is bringing [[ETHEREA]]'s chandelier from prototype into a product people can buy or rent. Its Burning Man debut, private-client preorder and planned Human Rights Foundation conference rental give the team concrete starting points. The same conversation-responsive visual experience could serve private homes, events, education, speech therapy and shared public spaces, with each application tested on its own merits.
-
-The shared team will support chandelier engineering, production readiness and the app and computing infrastructure behind it. [[Hohm]]'s [[Inception]] uses ETHEREA visualization in a specialized integration application, while [[TinyCloud]] contributes shared data infrastructure. These collaborations can improve the core technology as each company develops its own product and customers.
-
-In parallel, [[Router]] will pilot its research network and develop the proposed researcher-governed cooperative, with [[TinyCloud]] supporting its privacy architecture. Its team and capital needs will be set against the work covered by the ARIA grant. These are examples of how our integrated approach allows us to match projects and resources.
-
-## Team
-
-The first raise prioritizes founding engineering, fractional operations and community support, [[Sam Gbafa]] as fractional Head of Engineering and lead for the shared agentic platform, and a go-to-market role to be defined. The team works across companies, with assignments shaped by each product's needs.
-
-[[Use of Funds]] is the current hiring and company-capitalization plan. We expect room for one or two additional studio companies during the planning period. Its proposed $1M expansion pool supports initial work on new companies and targeted follow-ons to existing ones, with decisions shaped by milestones and available founder and team time. Most of the second raise backs independent [[Cooperative]] companies.
-
-## How the teams work together
-
-ETHEREA and Hohm will each hire a dedicated engineer and marketer. These employees report to their company's founder and own that company's day-to-day product delivery and customer growth. One's shared team works across companies through agreed assignments.
-
-| Area | Dedicated company team | One's shared team |
-|---|---|---|
-| Product engineering | Own the application, customer experience, releases and product reliability. | Own shared infrastructure and tools; provide architecture and specialist support. |
-| Marketing | Own positioning, campaigns, pipeline and customer feedback for the company. | Support brand, creative work, events and distribution through the Guild's network. |
-| Physical products | Own product requirements, customer commitments and delivery plans. | Provide specialist design, fabrication and integration help for defined projects. |
-| Priorities and staffing | The company founder sets the roadmap and manages its employees. | One agrees the scope, available people and time commitment for shared assignments. |
-
-Company priorities remain with the founder. Sam coordinates shared engineering and the agentic platform; cross-company technical reviews surface reusable work and dependencies. Dedicated engineers can contribute improvements to the platform while retaining responsibility for their own products.
-
-Shared assignments have a clear deliverable, owner and time budget. Company-specific IP and shared platform IP follow the existing agreements. Each company's employees are paid from its company budget; shared team costs and service payments are reconciled once in One's overall cash plan.
-
-## Relations
-
-depends_on:: [[Cap Table]]
-located_at:: [[School]]
 
 
 ---
@@ -1305,79 +1391,6 @@ The relationship begins with founder fit and an agreed company plan, followed by
 
 ---
 
-<!-- note: Membership (engines/Membership.md) -->
-
----
-title: Membership
-type: engine
-status: review
-updated: 2026-09-15
-aliases: []
-metrics:
-  now: "10 founding members producing $60k ARR currently"
-  now_note: "count 10 confirmed; ARR unsettled — cash vs in-kind dues to be reconciled by James & John (Aug 21 2026)"
-  goal_18mo: "150+ members producing > $500k ARR in membership fees"
-when:
-  start: 2026-10-01
-  end: 2028-03-31
-  label: "150+ members producing > $500k ARR in membership fees"
-  precision: horizon
-milestones:
-  - label: "Eventually, we will develop an internal marketplace"
-    date: 2027-08-31
-    precision: year
-sources:
-  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (work, ownership and sourcing revision)"
----
-
-# Guild Membership
-
-now:: 10 founding members producing $60k ARR currently
-18 month goal:: 150 members producing > $1.8M ARR in membership fees
-by:: March 31, 2028
-timeline:: [[Timeline]]
-
-Guild membership, our top-of-the-funnel for talent and future portcos, is diversified across exited founders and seasoned operators, as well as commercially successful musicians and installation artists. 
-
-As a Guild, we take membership seriously. It is the oldest structure for keeping craft alive, and it means three things:
-
-- a mutual dedication to our mastery of **craft**
-- the in-person **transmission** of knowledge and wisdom
-- the careful **curation** of who belongs 
-
-Members are selected based on their alignment to our values, singular performance and potential in their fields, and commitment to personal growth. Membership has been entirely pull, with no formal program heretofore - only worldbuilders asking us if they can collaborate and contribute money. Members can earn One PBC equity through agreed contributions, drawing from the same 30% pool shared by employees and participating portfolio companies.
-^intro
-
-Our vision, already successfully being piloted, is for members to collaborate by utilizing excess cycles and resources to support each other without the pain of searching for vetted, accessible talent - while maximizing long term alignment. 
-
-In addition to being interviewed and selected by new managing partners, members pay dues (currently on a sliding scale of $300 to $1,000 per month for founding members, which we will increase over time as things evolve), with benefits including:
-
-- 24/7 Coworking access to [[School]]
-- access to local compute (Greenpoint Compute Collective), and makers spaces/tools
-- members-only programming
-- access to and member rates for other nodes in our [[Mystical Network State|network state]]
-- internal space rentals at below market costs
-- the ability to introduce projects through the [[Scout Fund|member-sourcing program]] and invest as an [[UnLimited Partners|unlimited partner]]
-
-In our first 18 months, we are intentionally limiting our growth in memberships to 150 people, which, known as Dunbar's number, is the number of relationships any human can hold in their head at any given time. 
-
-## Work, ownership, and sourcing
-
-Members can earn One PBC equity by contributing to its businesses, shared infrastructure, and company-building work. CEOs can nominate contributors, including people on their teams; One approves each award's amount and terms. Membership by itself does not create an equity entitlement.
-
-Any member or portfolio-company employee can undertake fractional assignments at other companies through One. Each assignment sets out the work, compensation, time commitment, and ownership or licensing of what is created. A work engagement and an equity award are separately agreed.
-
-Members can also introduce founders and opportunities through the [[Scout Fund|member-sourcing program]]. One decides how to use its own operating capacity and corporate capital. A later fund would make its own investment decisions and could offer agreed sourcing carry from the GP. Fund carry begins only under those future arrangements and is separate from One equity awards for work.
-
-## Relations
-
-located_at:: [[School]]
-
-
----
-
 <!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
 
 ---
@@ -1404,6 +1417,41 @@ Founded two years ago at the Calling All Magical People festival, it has built a
 ## Relations
 
 precedes:: [[School]]
+
+
+---
+
+<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+
+---
+title: Sam Gbafa
+type: person
+status: review
+updated: 2026-08-23
+assembled_by: Claude
+aliases: [Sam]
+sources:
+  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+---
+
+# Sam Gbafa
+
+Head of Engineering
+
+## From the site
+
+Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+
+## From [[TinyCloud]]
+
+[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
+
+At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
+
+## Relations
+
+part_of:: [[Membership]]
 
 
 ---
@@ -1639,37 +1687,34 @@ depends_on:: [[Hohm]]
 
 ---
 
-<!-- note: Sam Gbafa (people/Sam Gbafa.md) -->
+<!-- note: Scout Fund (engines/Scout Fund.md) -->
 
 ---
-title: Sam Gbafa
-type: person
+title: Member-sourced investments
+type: engine
 status: review
-updated: 2026-08-23
-assembled_by: Claude
-aliases: [Sam]
+updated: 2026-09-15
+aliases: [Scout fund]
+milestones: []
 sources:
-  - "oneguild.nyc site page (site/one-studio-page.html), crew bios / project blurbs — James’s words, older canon (One Studio era)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY (via the vault notes quoted)"
+  - "James Barnes, September 15, 2026: allocate a substantial share of previously unallocated capital to scout investments and additional co-op companies"
+  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (member sourcing through One, with fund investments and sourcing carry in a later phase)"
 ---
 
-# Sam Gbafa
+# Member-sourced investments
 
-Head of Engineering
+Member-sourced investments begin with introductions from the network. Members bring founders and opportunities to One based on their experience and relationships. One decides which opportunities fit its operating priorities, available capital, and investment-company analysis. After a separate fund launches, its investment team would decide which introductions receive fund capital.
+^intro
 
-## From the site
+The program gives the network a way to make small bets alongside the few companies James and John help build deeply. [[Use of Funds]] proposes a dedicated $1M scout investment allocation: $500K from each stage of the One PBC raise. This is a corporate program budget; check sizes and deployment timing remain to be set. One's research and agent tools organize evidence and support evaluation. One retains authority over its corporate investments. The future fund would have its own authority over fund investments.
 
-Leads engineering at the guild. CEO of [[TinyCloud]]. Formerly of OpenAI, he built the decentralized driver’s license for the State of California.
+Members may receive agreed GP carry for investments sourced to a future fund once its carry arrangements exist. One equity awards compensate agreed work and contributions under the shared pool policy. An introduction creates no automatic equity or carry entitlement. There is no automatic capital budget or investment allocation for each member.
 
-## From [[TinyCloud]]
+A company introduced through the program may later join the [[Cooperative]], receive further investment or undertake deeper work with One. The additional co-op company and onboarding budget is separate from the initial scout checks.
 
-[[TinyCloud]] CEO Sam Gbafa will serve as the Guild’s fractional head of engineering.
-
-At last year's d/acc Day at the DevConnect conference in Buenos Aires, CEO Sam Gbafa shared the stage with Vitalik Buterin,  giving a compelling talk
-
-## Relations
-
-part_of:: [[Membership]]
+The fund's launch timing, mandate, sourcing-carry allocations and terms remain open. [[How One Works]] explains the initial corporate raise and the later fund.
 
 
 ---
@@ -1924,38 +1969,6 @@ Built the world’s marketplace for art; now building [[SECO]] — a new company
 ## Relations
 
 part_of:: [[Membership]]
-
-
----
-
-<!-- note: Scout Fund (engines/Scout Fund.md) -->
-
----
-title: Member-sourced investments
-type: engine
-status: review
-updated: 2026-09-15
-aliases: [Scout fund]
-milestones: []
-sources:
-  - "James Barnes, September 15, 2026: allocate a substantial share of previously unallocated capital to scout investments and additional co-op companies"
-  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (member sourcing through One, with fund investments and sourcing carry in a later phase)"
----
-
-# Member-sourced investments
-
-Member-sourced investments begin with introductions from the network. Members bring founders and opportunities to One based on their experience and relationships. One decides which opportunities fit its operating priorities, available capital, and investment-company analysis. After a separate fund launches, its investment team would decide which introductions receive fund capital.
-^intro
-
-The program gives the network a way to make small bets alongside the few companies James and John help build deeply. [[Use of Funds]] proposes a dedicated $1M scout investment allocation: $500K from each stage of the One PBC raise. This is a corporate program budget; check sizes and deployment timing remain to be set. One's research and agent tools organize evidence and support evaluation. One retains authority over its corporate investments. The future fund would have its own authority over fund investments.
-
-Members may receive agreed GP carry for investments sourced to a future fund once its carry arrangements exist. One equity awards compensate agreed work and contributions under the shared pool policy. An introduction creates no automatic equity or carry entitlement. There is no automatic capital budget or investment allocation for each member.
-
-A company introduced through the program may later join the [[Cooperative]], receive further investment or undertake deeper work with One. The additional co-op company and onboarding budget is separate from the initial scout checks.
-
-The fund's launch timing, mandate, sourcing-carry allocations and terms remain open. [[How One Works]] explains the initial corporate raise and the later fund.
 
 
 ---
