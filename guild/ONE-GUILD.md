@@ -15,6 +15,7 @@ updated: 2026-09-17
 owner: "[[James Barnes]], [[John Fagan]]"
 aliases: [Prospectus, MOC, Index]
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "James Barnes, September 15, 2026: assume readers have read the homepage letter and focus the Thesis on the investment framework"
@@ -46,13 +47,15 @@ Our home is [[School]] in Williamsburg/Greenpoint, Brooklyn. The [[Membership|Gu
 
 ## [[Our Companies]]
 
+One builds companies and backs founders. We concentrate our company-building work on a few ambitious businesses while investing in a wider circle of exceptional teams. Shared people, technology, relationships and opportunities to earn ownership connect the portfolio.
+
 > | Company | What it is building | How we work together |
 > |---|---|---|
-> | [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
-> | [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | [[Studio]] |
-> | [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
-> | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
-> | [[SECO]] | A private community network with encrypted communal AI | [[Cooperative]] |
+> | [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | Companies we build |
+> | [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | Companies we build |
+> | [[Router]] | Connections between research scientists and their AI agents | Companies we build |
+> | [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Companies We Back\|Companies we back]] |
+> | [[SECO]] | A private community network with encrypted communal AI | [[Companies We Back\|Companies we back]] |
 > — from [[Our Companies]]
 
 The Studio ecosystem is already producing shared results: [[TinyCloud]] provides infrastructure for [[Router]], and [[Hohm]] is developing [[Inception]] with [[ETHEREA]]'s visualization technology.
@@ -68,10 +71,10 @@ The chapter closes with the compounding loop: relationships bring opportunities,
 
 ### [[Use of Funds]]
 
-> Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support selected co-op companies' expansion, and launch our conference and event series. The shared Studio team and our base at School support this work.
+> Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support the expansion of companies we back, and launch our conference and event series. The shared Studio team and our base at School support this work.
 > — from [[Use of Funds]]
 
-We are targeting $11M initially and another $11M in early 2027. The chapter maps an illustrative $22M allocation across the team, company milestones, member-sourced scout investments, co-op companies, School, our January Present Future conference, operating costs and a cash reserve. Most of the second raise goes to co-op investments and onboarding, with selective studio expansion.
+We are targeting $11M initially and another $11M in early 2027. The chapter maps an illustrative $22M allocation across the team, company milestones, companies we back, member-sourced scout investments, School, our January Present Future conference, operating costs and a cash reserve. Most of the second raise goes to companies we back and their onboarding, while we selectively add companies we help form and build.
 
 ### [[UnLimited Partners]]
 
@@ -91,7 +94,7 @@ The first raise gives ULPs shares in One PBC. The investor chapter explains the 
 
 ## Continue the conversation
 
-We welcome founders who want to build with the [[Studio]] or join the [[Cooperative]], [[Membership|members]] who want to contribute their craft, and [[UnLimited Partners|ULPs]] who share our long-term approach. Bring us a company, an idea, or a question about the model; the next conversation is about what we can build together.
+We welcome founders who want to form a company with the [[Studio]] or seek our investment and support, [[Membership|members]] who want to contribute their craft, and [[UnLimited Partners|ULPs]] who share our long-term approach. Bring us a company, an idea, or a question about the model; the next conversation is about what we can build together.
 
 ## Relations
 
@@ -220,6 +223,7 @@ updated: 2026-09-17
 aliases: []
 milestones: []
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
   - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
@@ -233,8 +237,12 @@ assembled_by: "Codex (operating structure; team plan aligned with the September 
 
 # Studio
 
-The Studio is One's business: a permanent home for a shared team, reusable technology, company building and investments, held through One PBC. The Guild brings founders, operators, creatives and ULPs into this work. James and John work deeply on a small number of companies. Some businesses begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
+One builds companies and backs founders. The Studio is One's business, held through One PBC: a permanent home for patient capital, a shared team and reusable technology. We concentrate our company-building work on a few ambitious businesses while investing in a wider circle of exceptional teams. The Guild brings founders, operators, creatives and ULPs into this work.
 ^intro
+
+## Companies we build
+
+We help form companies and work alongside their founders over years, contributing capital, substantial founder time, shared people and technology. Some begin as internal projects and become wholly or majority owned operating subsidiaries; others are co-created with independent founders and have minority ownership arrangements.
 
 After studying the stories of many venture studios over the past few decades, we are especially inspired by Mike Speiser at [Sutter Hill Ventures](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders), and believe that his thoughtful and deliberate success offers a lesson on how to build a successful studio in the Intelligence Age:
 
@@ -246,7 +254,7 @@ After studying the stories of many venture studios over the past few decades, we
 
 4. Over time, James and John may choose to add new partners capable of incubating and launching new projects.
    
-5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual Studio companies as demand requires.
+5. The studio will hire an in-house team of engineers, creatives, and marketers who will drive each project to PMF, and will allocate headcount to individual companies as demand requires.
 
 We resonate with [these ten principles identified by Jeff Burke](https://jeffburke.substack.com/p/sutter-hill-ventures-the-silent-builders) in his Substack post on SHV:
 
@@ -254,9 +262,15 @@ We resonate with [these ten principles identified by Jeff Burke](https://jeffbur
 
 The initial raise capitalizes One directly. One uses its corporate capital and service revenue to fund the shared team and support its businesses. Each company's ownership and financing arrangements are agreed separately.
 
+## Companies we back
+
+We invest in independent founding teams and provide agreed support through our relationships, tooling and operational capacity. [[TinyCloud]] and [[SECO]] are examples. [[Companies We Back|Read how we work with these teams]]. Member-sourced scout investments are one way to discover and begin backing founders.
+
+These two approaches describe our role in building each business. Ownership reflects the agreed contribution and terms of each company.
+
 ## Shared work, tooling, and ownership
 
-One PBC provides engineering, design, and operating capacity to companies under agreed service and license arrangements. Its shared agent platform begins within One; successful internal products can later become separate operating businesses. Companies retain company-specific product IP under their agreements and can contribute improvements to shared infrastructure.
+Across both groups, One PBC provides engineering, design, and operating capacity under agreed service and license arrangements. Its shared agent platform begins within One; successful internal products can later become separate operating businesses. Companies retain company-specific product IP under their agreements and can contribute improvements to shared infrastructure.
 
 Members and portfolio-company employees can take fractional assignments through One, and assigned team members can later join a company directly. Responsibilities, compensation, transitions, and IP rights are agreed for each engagement.
 
@@ -274,7 +288,7 @@ In parallel, [[Router]] will pilot its research network and develop the proposed
 
 The first raise prioritizes founding engineering, fractional operations and community support, [[Sam Gbafa]] as fractional Head of Engineering and lead for the shared agentic platform, and a go-to-market role to be defined. The team works across companies, with assignments shaped by each product's needs.
 
-[[Use of Funds]] is the current hiring and company-capitalization plan. We expect room for one or two additional studio companies during the planning period. Its proposed $1M expansion pool supports initial work on new companies and targeted follow-ons to existing ones, with decisions shaped by milestones and available founder and team time. Most of the second raise backs independent [[Cooperative]] companies.
+[[Use of Funds]] is the current hiring and company-capitalization plan. We expect room to help form and build one or two additional companies during the planning period. Its proposed $1M expansion pool supports initial work on new companies and targeted follow-ons to existing ones, with decisions shaped by milestones and available founder and team time. Most of the second raise goes to [[Companies We Back|companies we back]].
 
 ## How the teams work together
 
@@ -504,6 +518,7 @@ owner: "[[James Barnes]], [[John Fagan]]"
 aliases: []
 assembled_by: Codex
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: simplify the operating explanation and move detailed financing and legal discussion to For investors"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
@@ -518,13 +533,18 @@ One PBC is the operating and holding company behind the Studio. We are raising c
 
 [Open the full-size diagram (PDF)](assets/00%20Prospectus/one-model.pdf) · [View the full-size image](assets/00%20Prospectus/one-model.png)
 
-## Build for the long term
+## Companies we build. Companies we back.
 
-[[James Barnes|James]] and [[John Fagan|John]] work deeply on a few companies over years, while [[Membership|members]] introduce founders and new opportunities. Some businesses begin inside One and become wholly or majority owned subsidiaries. Others are built with independent founders, with One holding a minority stake.
+One builds companies and backs founders. We concentrate our company-building work on a few ambitious businesses while investing in a wider circle of exceptional teams.
+
+- **Companies we build:** we help form the company and work alongside its founders over years, contributing capital, substantial founder time, a shared team and technology.
+- **Companies we back:** we invest in independent founding teams and provide agreed support through our relationships, tooling and operational capacity.
+
+Both are part of the [[Studio]]. Some businesses begin inside One and become wholly or majority owned subsidiaries; others involve minority stakes. A substantial cofounding role can also earn a minority stake. Each company's ownership reflects its agreed terms.
 
 ## Share work and tooling
 
-One's shared team provides product, design and engineering, bespoke agent platforms, fundraising support, management systems, operations, and sales support. Founder coaching and personal and interpersonal development complement this work. Companies pay for this work and for access to tools, including One's shared agent platform. One develops reusable technology while companies retain their company-specific product IP.
+Across both groups, One's shared team provides product, design and engineering, bespoke agent platforms, fundraising support, management systems, operations, and sales support. Founder coaching and personal and interpersonal development complement this work. Companies pay for this work and for access to tools, including One's shared agent platform. One develops reusable technology while companies retain their company-specific product IP.
 
 Any member or portfolio-company employee can take fractional assignments at other companies through One. People can move between the shared team and company roles as the work develops.
 
@@ -544,7 +564,7 @@ This describes our intended operating model. Financing and partnership terms are
 
 depends_on:: [[UnLimited Partners]]
 depends_on:: [[Studio]]
-depends_on:: [[Cooperative]]
+depends_on:: [[Companies We Back]]
 
 
 ---
@@ -558,6 +578,7 @@ status: review
 updated: 2026-09-17
 aliases: [Our Thesis]
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: align the homepage and prospectus around three current investment fields; retain broader interests as horizons to explore and explain the role of physical places"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -636,6 +657,7 @@ updated: 2026-09-17
 assembled_by: "Codex (company overview table); earlier source attribution retained below"
 aliases: []
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
@@ -644,19 +666,21 @@ sources:
 
 # Our Companies
 
-These are the companies described in our current Studio and Cooperative programs. The groupings describe how we work together. Each company's ownership and financing terms are agreed separately.
+One builds companies and backs founders. Both groups belong to the [[Studio]] and can draw on shared people, technology, relationships and opportunities to earn ownership in One. The distinction describes our role in each business; ownership and financing terms are agreed company by company.
 
 ## At a glance
 
 | Company | What it is building | How we work together |
 |---|---|---|
-| [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | [[Studio]] |
-| [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | [[Studio]] |
-| [[Router]] | Connections between research scientists and their AI agents | [[Studio]] |
-| [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Cooperative]] |
-| [[SECO]] | A private community network with encrypted communal AI | [[Cooperative]] |
+| [[ETHEREA]] | A conversation-responsive chandelier and the app and computing infrastructure behind it | Companies we build |
+| [[Hohm]] | Immersive sound experiences and built environments; psychosocial tools for psychedelic integration | Companies we build |
+| [[Router]] | Connections between research scientists and their AI agents | Companies we build |
+| [[TinyCloud]] | User-controlled data infrastructure for applications and agents | [[Companies We Back\|Companies we back]] |
+| [[SECO]] | A private community network with encrypted communal AI | [[Companies We Back\|Companies we back]] |
 
-## [[Studio]] companies
+## Companies we build
+
+We help form these companies and work alongside their founders over years, committing capital, substantial personal time and a shared team.
 
 1. [[ETHEREA]]
 
@@ -673,7 +697,9 @@ These are the companies described in our current Studio and Cooperative programs
    > Router expedites scientific research by building connections between research scientists and their AI agents. It helps researchers share discoveries, problems, and progress in real time, then routes each update to peers and agents with relevant knowledge. By turning everyday research into a shared, researcher-controlled record of scientific reasoning, Router aims to make independent science more effective today and give scientists collective leverage over how their work shapes frontier AI. Cofounded by [[James Barnes]] and Dr. Andrew Miller, Router grew from work with Flashbots X and is supported by the UK’s ARIA Scaling Trust program.
 > — from [[Router]]
 
-## [[Cooperative]] companies
+## Companies we back
+
+We invest in independent founding teams and provide agreed support through our relationships, tooling and operational capacity.
 
 1. [[TinyCloud]]
 
@@ -698,7 +724,7 @@ part_of:: [[00 Prospectus]]
 title: TinyCloud
 type: company
 status: review
-updated: 2026-08-25
+updated: 2026-09-17
 aliases: [Tiny Cloud]
 when: null
 milestones:
@@ -707,6 +733,7 @@ milestones:
     precision: month
     note: "Shape Rotator Accelerator; July 2026 — JB, Aug 21 2026"
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
 owner: "[[Sam Gbafa]]"
 ---
@@ -728,7 +755,7 @@ TinyCloud CEO [[Sam Gbafa]] will serve as the Guild’s fractional head of engin
 
 ## Relations
 
-part_of:: [[Cooperative]]
+part_of:: [[Studio]]
 founded_by:: [[Sam Gbafa]]
 
 
@@ -1025,6 +1052,7 @@ status: review
 updated: 2026-09-17
 aliases: [Arbitrage, Synergies, and Competitive Edges, Edges]
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "James Barnes, written Aug 23 2026 (provided in conversation, placed verbatim)"
@@ -1061,7 +1089,7 @@ Capacity, deal flow, talent, internal tools, and network all move freely between
 The reinforcing loop we are building is:
 
 1. **Relationships bring opportunities.** Working and gathering at [[School]] helps [[Membership|members]] get to know one another's strengths. Those relationships bring collaborators and founders into the network, including opportunities through the [[Scout Fund|member-sourcing program]].
-2. **Shared work helps companies develop.** One PBC's [[Studio|studio team]] builds deeply with selected founders, while the [[Cooperative]] connects independent companies. Members and portfolio-company employees can contribute fractional work through One, bringing expertise to companies as they need it.
+2. **Shared work helps companies develop.** The [[Studio]] builds deeply with selected founders and backs independent teams. Both can draw on its shared people, technology and relationships. Members and portfolio-company employees can contribute fractional work through One, bringing expertise to companies as they need it.
 3. **Each engagement can improve the next.** Shared work develops reusable tools, knowledge, and One's agent platform. Contributors can participate in One's equity pool, giving them a reason to help across companies. [[Loonshots]] extend that collaboration to problems companies could not solve alone.
 4. **Progress brings more people into the loop.** Useful tools and companies give founders a reason to work with One and members a reason to introduce others. New contributors bring skills and opportunities that can strengthen the next round of company building. The [[Mystical Network State|network of places]] extends this ambition to other communities.
 
@@ -1084,6 +1112,7 @@ updated: 2026-09-17
 assembled_by: "Codex (illustrative allocations against James's confirmed two-stage raise target)"
 aliases: [Hiring Plan, Headcount]
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "John Fagan, PROSPECTUS NOTES.docx, September 17, 2026: tracked wording edits and comments, provided by James for this update"
   - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
   - "James Barnes, September 15, 2026: chandelier debuted at Burning Man, received a private-client preorder, and is planned for prototype rental at the Human Rights Foundation annual conference; build the chandelier for multiple settings including education, speech therapy, shared public spaces and events"
@@ -1098,22 +1127,22 @@ sources:
 
 # Use of Funds
 
-Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support selected co-op companies' expansion, and launch our conference and event series. The shared Studio team and our base at School support this work.
+Our first raise into One PBC will fund product-order fulfillment, accelerate go-to-market work, support the expansion of companies we back, and launch our conference and event series. The shared Studio team and our base at School support this work.
 ^intro
 
 We are targeting **$22 million in new capital for One PBC: $11 million initially, followed by another $11 million in early 2027.**
 
-The table below is an **illustrative allocation**, with rough amounts to be refined as hiring and company budgets are agreed. The first stage establishes the team and initial companies. Most of the second stage goes toward co-op investments, while studio expansion remains selective. Additional spending depends on that capital being raised.
+The table below is an **illustrative allocation**, with rough amounts to be refined as hiring and company budgets are agreed. The first stage establishes the team and initial companies. Most of the second stage goes toward companies we back, while we selectively add companies we help form and build. Additional spending depends on that capital being raised.
 
 ## At a glance
 
 | Use | Initial $11M | Early 2027: $11M | Combined $22M |
 |---|---:|---:|---:|
 | Core Guild team | $2,000,000 | $1,000,000 | $3,000,000 |
-| Studio companies and expansion pool | $4,000,000 | $1,500,000 | $5,500,000 |
+| Companies we build and expansion pool | $4,000,000 | $1,500,000 | $5,500,000 |
 | TinyCloud and SECO — initial investments | $2,000,000 | — | $2,000,000 |
-| Co-op follow-on pool | — | $2,500,000 | $2,500,000 |
-| Additional co-op companies and onboarding | $500,000 | $4,500,000 | $5,000,000 |
+| Follow-on pool for companies we back | — | $2,500,000 | $2,500,000 |
+| Additional companies we back and onboarding | $500,000 | $4,500,000 | $5,000,000 |
 | Member-sourced scout investments | $500,000 | $500,000 | $1,000,000 |
 | School rent support | $450,000 | — | $450,000 |
 | Present Future Summit | $250,000 | — | $250,000 |
@@ -1121,9 +1150,9 @@ The table below is an **illustrative allocation**, with rough amounts to be refi
 | Cash contingency reserve | $800,000 | $750,000 | $1,550,000 |
 | **Total** | **$11,000,000** | **$11,000,000** | **$22,000,000** |
 
-**$7M of the second $11M—about 64%—goes to co-op investments and onboarding**, with another $500K for member-sourced scouts. These investments back independent teams, while the studio concentrates its hands-on work on a few companies.
+**$7M of the second $11M—about 64%—goes to companies we back and their onboarding**, with another $500K for member-sourced scouts. These investments back independent teams, while the studio concentrates its hands-on work on a few companies.
 
-The initial team and rent estimates cover **18 months**. Company allocations fund the milestones below. Scout investments and co-op expansion have their own budgets, alongside a separate cash contingency reserve. The existing ARIA grant and any future operating revenue are separate from these new-capital totals.
+The initial team and rent estimates cover **18 months**. Company allocations fund the milestones below. Scout investments and new investments in independent teams have their own budgets, alongside a separate cash contingency reserve. The existing ARIA grant and any future operating revenue are separate from these new-capital totals.
 
 ## 1. Core Guild team
 
@@ -1144,7 +1173,7 @@ These are loaded cash-cost allowances, including compensation and employer or en
 
 We have been working with a close friend and former Squarespace and Meetup staff engineer who has already contributed to [[ETHEREA]] and [[TinyCloud]], and created the ETHEREA chandelier and a new version of [[Templar]] with [John Briscella](https://www.sonic-sphere.com/team), an industrial and architectural designer. This is the kind of collaboration the core team will make possible across the Guild.
 
-## 2. Studio companies
+## 2. Companies we build
 
 Capital will support company-specific hiring, product development, hardware and launch milestones. ETHEREA and Hohm will each hire **a dedicated engineer and a dedicated marketer**, alongside the shared Guild team.
 
@@ -1153,10 +1182,10 @@ Capital will support company-specific hiring, product development, hardware and 
 | [[ETHEREA]] | $2,000,000 | Allocated from the expansion pool | Hire its dedicated team; make the chandelier ready to deliver, fulfill the private preorder and prepare the planned conference rental; launch the supporting app. Develop workstation fulfillment and evaluate the lamp. |
 | [[Hohm]] | $1,500,000 | Allocated from the expansion pool | Hire its dedicated team and ship the first version of [[Templar]] and [[Inception]], its art therapy integration app. |
 | [[Router]] | $500,000 | $500,000 | Pilot the research network and develop the proposed researcher-governed cooperative, confidential appraisal and collective licensing. |
-| Studio expansion pool | — | $1,000,000 | Initial work on one or two additional studio companies and targeted follow-ons to existing companies, allocated against milestones and team capacity. |
+| Company-building expansion pool | — | $1,000,000 | Help form and build one or two additional companies; support targeted follow-ons to existing companies, allocated against milestones and team capacity. |
 | **Total** | **$4,000,000** | **$1,500,000** | |
 
-We expect capacity for **one or two additional studio companies during this planning period**, alongside continued work with our existing teams. The $1M expansion pool covers both new starts and further funding for existing companies; it is not a separate allowance for each. Costed plans and available founder and team time will determine the split.
+We expect capacity for **one or two additional companies we help form and build during this planning period**, alongside continued work with our existing teams. The $1M expansion pool covers both new starts and further funding for existing companies; it is not a separate allowance for each. Costed plans and available founder and team time will determine the split.
 
 ### Dedicated company teams
 
@@ -1182,29 +1211,29 @@ The Imagination Engine's planned **$20,000 selling price is revenue per workstat
 
 Router already has support from an **$850k ARIA Scaling Trust grant**. The proposed $1M from One is additional capital; its detailed uses will be reconciled against the work and costs covered by that grant. The cooperative's relationship with One and demand for collective licensing remain to be established.
 
-## 3. Co-op companies and member-sourced investments
+## 3. Companies we back
 
-We will support TinyCloud and SECO while bringing more founders and companies into the network. The second raise puts most of its capital behind these independent teams. New investments, follow-ons and onboarding each have a separate allowance.
+We will support TinyCloud and SECO while bringing more founders and companies into the network. The second raise puts most of its capital behind these independent teams. New investments, follow-ons and onboarding each have a separate allowance. Member-sourced scout investments are one way to begin backing these founders.
 
 | Allocation | Initial stage | Second stage | Combined |
 |---|---:|---:|---:|
 | [[TinyCloud]] — initial investment | $1,000,000 | — | $1,000,000 |
 | [[SECO]] — initial investment | $1,000,000 | — | $1,000,000 |
-| Co-op follow-on pool | — | $2,500,000 | $2,500,000 |
-| Investment capital for additional co-op companies | $400,000 | $4,350,000 | $4,750,000 |
+| Follow-on pool for companies we back | — | $2,500,000 | $2,500,000 |
+| Investment capital for additional companies we back | $400,000 | $4,350,000 | $4,750,000 |
 | Additional company onboarding and integration | $100,000 | $150,000 | $250,000 |
 | [[Scout Fund|Member-sourced scout investments]] | $500,000 | $500,000 | $1,000,000 |
 | **Total** | **$3,000,000** | **$7,500,000** | **$10,500,000** |
 
 - **TinyCloud:** advance user-owned data infrastructure and the integrations that support Router and other Guild applications.
 - **SECO:** move its private, encrypted community network and communal AI from the validated prototype toward a production-ready product and paying communities.
-- **Co-op follow-ons:** keep $2.5M available for subsequent rounds in companies where progress and terms justify another investment. TinyCloud, SECO and additional co-op companies can be considered; no follow-on is assigned automatically.
-- **Additional co-op companies:** invest in selected businesses and help them establish their relationship with One, connect to shared tooling, and complete their first agreed projects. Onboarding covers incremental costs beyond the core team already funded above.
+- **Follow-ons for companies we back:** keep $2.5M available for subsequent rounds in companies where progress and terms justify another investment. TinyCloud, SECO and other companies we back can be considered; no follow-on is assigned automatically.
+- **Additional companies we back:** invest in selected businesses and help them establish their relationship with One, connect to shared tooling, and complete their first agreed projects. Onboarding covers incremental costs beyond the core team already funded above.
 - **Member-sourced scout investments:** make smaller initial bets on founders introduced by members, with the option to work more deeply together as the companies develop.
 
 The scout allocation starts as **a program funded by One PBC**. It does not assume a separate fund is already operating. Members bring opportunities; One approves its investments. A later fund would have its own capital, investment authority and sourcing-carry arrangements.
 
-These are planning allocations. Actual checks, timing and terms will be agreed for each business. A scout-backed company may later join the Cooperative; any additional capital and onboarding costs are charged to the relevant allocation once.
+These are planning allocations. Actual checks, timing and terms will be agreed for each business. A scout-backed company may later receive further investment or work more deeply with One; any additional capital and onboarding costs are charged to the relevant allocation once.
 
 ## 4. School
 
@@ -1222,7 +1251,7 @@ Fund planning and production of the **January 2027 [[Present Future Summit]]** a
 
 **Shared operating costs: $500,000 initially, plus $250,000 in the second stage.** This covers One's legal, accounting, insurance, shared compute and tooling, and other parent operating costs. Team compensation, School rent and the conference have their own allocations above.
 
-**Cash contingency reserve: $800K initially, plus $750K in the second stage.** This provides a $1.55M buffer for unexpected costs and timing gaps. Scout investments, co-op expansion and studio expansion are allocated separately above.
+**Cash contingency reserve: $800K initially, plus $750K in the second stage.** This provides a $1.55M buffer for unexpected costs and timing gaps. Scout investments, new investments in independent teams and new company builds are allocated separately above.
 
 We will reconcile the plan in a monthly cash budget before making commitments. Company funding and shared labor will be counted once, and revenue or grant funding will be attributed only to costs they can cover. The 18-month operating estimates describe the planning period; actual runway depends on spending, receipts and financing dates.
 
@@ -1324,73 +1353,6 @@ precedes:: [[School]]
 
 ---
 
-<!-- note: Cooperative (engines/Cooperative.md) -->
-
----
-title: Cooperative
-type: engine
-status: review
-updated: 2026-09-15
-aliases: [co-op]
-metrics:
-  goal_18mo: "10 companies totaling > $5mm ARR"
-  check_size: "$500,000 to $1 million"
-  target_ownership: "Transaction-specific; purchased and earned equity agreed separately"
-when:
-  start: 2026-10-01
-  end: 2028-03-31
-  label: "10 companies totaling > $5mm ARR"
-  precision: horizon
-milestones: []
-sources:
-  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
-  - "James Barnes, September 15, 2026: allocate more capital to onboarding additional co-op companies alongside a scout program"
-  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-assembled_by: "Codex (investment, services and reciprocal equity terms)"
----
-
-# Cooperative
-
-The Cooperative is the network of independent companies that work with One PBC through shared work, tooling, and agreed ownership arrangements. One can make selected investments from its corporate capital, subject to its budget and investment-company analysis. A later fund would make investments under its own mandate. Participating companies can receive One PBC equity from its shared 30% pool, giving them an interest in the wider enterprise while remaining independent businesses with their own financing and governance terms.
-^intro
-
-## Investment, earned equity, and partnership awards
-
-Each package identifies three equity flows:
-
-1. One purchases company securities when it invests its own cash. After launch, a separate fund would own securities it purchases with fund capital.
-2. The company can grant additional equity to One PBC for agreed formation work, services, or IP. Completed contributions can receive upfront credit; the future-work portion vests against agreed services or milestones.
-3. One PBC can grant the company an award from One's shared 30% equity pool as part of the partnership. The securities, values, recipients, and vesting conditions are agreed separately.
-
-The overall company stake is transaction-specific. A future fund's receipt of earned equity requires an agreement that accounts for One's contribution and the cost of its work. Existing One holdings stay with One unless transferred in a separately agreed transaction.
-
-Company-held One PBC equity belongs to the company. Individual awards give founders or employees their own interests in One. Both can be appropriate, with each award sized against its contribution and charged to the same pool. Awards are subject to One's approval and the applicable eligibility and transaction terms.
-
-## Shared work and tooling
-
-Companies have access to shared engineering, design, and marketing resources from [[Studio]], as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. Companies pay for agreed services and licenses. A credit system for shared resources can help prioritize capacity across company needs. From time to time, coordinated sprints can bring several members or teams together around a company's core problems.
-
-Members and portfolio-company employees can do fractional work for other companies through One. Each engagement establishes the contribution, time commitment, compensation, and IP rights. CEOs can nominate individual contributors for One PBC awards.
-
-The earlier planning range for Cooperative checks is $500,000 to $1 million; investment size and valuation are agreed for each transaction. Smaller member-sourced investments are described in [[Scout Fund|Member-sourced investments]]. This range is a planning input, not an approved commitment from the initial corporate raise. One approves its own investments. A future fund would have separate investment authority and budgets.
-
-## Growing the Cooperative
-
-[[Use of Funds]] directs most of the proposed second raise toward co-op companies: **$7M for investments and onboarding**. Across both stages, the plan allocates $5M to additional companies and onboarding ($4.75M of investment capital and $250K of incremental integration costs), $2M to initial TinyCloud and SECO investments, and $2.5M to a co-op follow-on pool. Scout investments have a separate allocation.
-
-The follow-on pool can support TinyCloud, SECO and additional co-op companies as they progress. It is not automatically assigned to any company. We can back more independent teams while James and John concentrate their studio work on a few deep builds. Shared work is scoped to the capacity One can provide; onboarding costs above cover incremental work outside the already-funded core team.
-
-The relationship begins with founder fit and an agreed company plan, followed by investment and partnership terms, shared tooling, and a first scoped project. Companies may come through the member-sourced scout program or join One directly. An initial scout check and any later co-op investment are distinct uses of capital and are counted once.
-
-## Current companies
-
-- [[TinyCloud]]
-- [[SECO]]
-
-
----
-
 <!-- note: Calling All Magical People (events/Calling All Magical People.md) -->
 
 ---
@@ -1417,6 +1379,105 @@ Founded two years ago at the Calling All Magical People festival, it has built a
 ## Relations
 
 precedes:: [[School]]
+
+
+---
+
+<!-- note: SECO (companies/SECO.md) -->
+
+---
+title: SECO
+type: company
+status: review
+updated: 2026-09-17
+aliases: [Seco]
+when: null
+milestones: []
+sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
+  - "James, dictated in interview, Aug 21 2026 (first paragraph)"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+owner: "[[Carter Cleveland]]"
+---
+# SECO
+
+SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
+^intro
+
+## Relations
+
+part_of:: [[Studio]]
+founded_by:: [[Carter Cleveland]]
+
+
+---
+
+<!-- note: Companies We Back (engines/Companies We Back.md) -->
+
+---
+title: Companies we back
+type: engine
+status: review
+updated: 2026-09-17
+aliases: []
+metrics:
+  goal_18mo: "10 companies totaling > $5mm ARR"
+  check_size: "$500,000 to $1 million"
+  target_ownership: "Transaction-specific; purchased and earned equity agreed separately"
+when:
+  start: 2026-10-01
+  end: 2028-03-31
+  label: "10 companies totaling > $5mm ARR"
+  precision: horizon
+milestones: []
+sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
+  - "James Barnes, September 15, 2026: co-op companies should receive most of the additional budget as investments in independent teams; capacity for perhaps one or two additional studio companies during the planning period"
+  - "James Barnes, September 15, 2026: allocate more capital to onboarding additional co-op companies alongside a scout program"
+  - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
+  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
+assembled_by: "Codex (investment, services and reciprocal equity terms)"
+---
+
+# Companies we back
+
+One backs independent founding teams with capital, relationships, tooling and selected operational support. These companies are part of the [[Studio]] alongside the companies we help form and build over years. Each team leads its own business, with One's investment and work agreed around its needs.
+^intro
+
+The same shared resources and opportunities to earn ownership connect both groups. Participating companies and individual contributors can receive One PBC equity from its single 30% pool under agreed arrangements. One can invest its corporate capital within its approved budget and structure; a later fund would make investments under its own mandate.
+
+## Investment, earned equity, and partnership awards
+
+Each package identifies three equity flows:
+
+1. One purchases company securities when it invests its own cash. After launch, a separate fund would own securities it purchases with fund capital.
+2. The company can grant additional equity to One PBC for agreed formation work, services, or IP. Completed contributions can receive upfront credit; the future-work portion vests against agreed services or milestones.
+3. One PBC can grant the company an award from One's shared 30% equity pool as part of the partnership. The securities, values, recipients, and vesting conditions are agreed separately.
+
+The overall company stake is transaction-specific. A future fund's receipt of earned equity requires an agreement that accounts for One's contribution and the cost of its work. Existing One holdings stay with One unless transferred in a separately agreed transaction.
+
+Company-held One PBC equity belongs to the company. Individual awards give founders or employees their own interests in One. Both can be appropriate, with each award sized against its contribution and charged to the same pool. Awards are subject to One's approval and the applicable eligibility and transaction terms.
+
+## Shared work and tooling
+
+Companies have access to shared engineering, design, and marketing resources from [[Studio]], as well as leadership coaching, group experiences and retreats, and a common pedagogy for self actualization. Companies pay for agreed services and licenses. A credit system for shared resources can help prioritize capacity across company needs. From time to time, coordinated sprints can bring several members or teams together around a company's core problems.
+
+Members and portfolio-company employees can do fractional work for other companies through One. Each engagement establishes the contribution, time commitment, compensation, and IP rights. CEOs can nominate individual contributors for One PBC awards.
+
+The earlier planning range for initial investments in independent teams is $500,000 to $1 million; investment size and valuation are agreed for each transaction. Smaller member-sourced investments are described in [[Scout Fund|Member-sourced investments]]. This range is a planning input, not an approved commitment from the initial corporate raise. One approves its own investments. A future fund would have separate investment authority and budgets.
+
+## Backing more founders
+
+[[Use of Funds]] directs most of the proposed second raise toward companies we back: **$7M for investments and onboarding**. Across both stages, the plan allocates $5M to additional companies and onboarding ($4.75M of investment capital and $250K of incremental integration costs), $2M to initial TinyCloud and SECO investments, and $2.5M to a follow-on pool for companies we back. Scout investments have a separate allocation.
+
+The follow-on pool can support TinyCloud, SECO and other companies we back as they progress. It is not automatically assigned to any company. We can back more independent teams while James and John concentrate their studio work on a few deep builds. Shared work is scoped to the capacity One can provide; onboarding costs above cover incremental work outside the already-funded core team.
+
+The relationship begins with founder fit and an agreed company plan, followed by investment and partnership terms, shared tooling, and a first scoped project. Companies may be introduced through the member-sourced scout program or build a relationship with One directly. An initial scout check and any later investment are distinct uses of capital and are counted once.
+
+## Current companies
+
+- [[TinyCloud]]
+- [[SECO]]
 
 
 ---
@@ -1693,10 +1754,11 @@ depends_on:: [[Hohm]]
 title: Member-sourced investments
 type: engine
 status: review
-updated: 2026-09-15
+updated: 2026-09-17
 aliases: [Scout fund]
 milestones: []
 sources:
+  - "James Barnes, September 17, 2026: one Studio with companies we build and companies we back; retire Cooperative as a portfolio category, retain shared resources and reciprocal ownership across both, and preserve Router's proposed researcher cooperative"
   - "James Barnes, September 15, 2026: allocate a substantial share of previously unallocated capital to scout investments and additional co-op companies"
   - "James Barnes, September 15, 2026: raise directly into One PBC first; add a separate evergreen fund later"
   - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
@@ -1712,7 +1774,7 @@ The program gives the network a way to make small bets alongside the few compani
 
 Members may receive agreed GP carry for investments sourced to a future fund once its carry arrangements exist. One equity awards compensate agreed work and contributions under the shared pool policy. An introduction creates no automatic equity or carry entitlement. There is no automatic capital budget or investment allocation for each member.
 
-A company introduced through the program may later join the [[Cooperative]], receive further investment or undertake deeper work with One. The additional co-op company and onboarding budget is separate from the initial scout checks.
+Member introductions are one way we find [[Companies We Back|companies to back]]. A company may later receive further investment or undertake deeper work with One. The additional company and onboarding budget is separate from the initial scout checks.
 
 The fund's launch timing, mandate, sourcing-carry allocations and terms remain open. [[How One Works]] explains the initial corporate raise and the later fund.
 
@@ -1722,34 +1784,6 @@ The fund's launch timing, mandate, sourcing-carry allocations and terms remain o
 <!-- note: Presence (Presence.md) -->
 
 
-
-
----
-
-<!-- note: SECO (companies/SECO.md) -->
-
----
-title: SECO
-type: company
-status: review
-updated: 2026-08-21
-aliases: [Seco]
-when: null
-milestones: []
-sources:
-  - "James, dictated in interview, Aug 21 2026 (first paragraph)"
-  - "Google Doc 1PK5MFKTe3QP7CmhJD_oc-l_iCJgbFCB-rUk9NDFa6yY, revision of 2026-08-21"
-owner: "[[Carter Cleveland]]"
----
-# SECO
-
-SECO (in stealth) is a private trust-based network + encrypted communal AI to support community flourishing. In practice, this means helping communities feel more connected, more caring, and more powerful by unlocking their collective wisdom with AI. We have validated our initial prototype with a large number of community leaders who are interested in migrating their communities and paying for the product once it's production ready–our next milestone. Our main need right now is values-aligned applied encryption engineering talent, ideally people who have worked on real-time systems e.g. encrypted group messaging apps.
-^intro
-
-## Relations
-
-part_of:: [[Cooperative]]
-founded_by:: [[Carter Cleveland]]
 
 
 ---
@@ -2018,7 +2052,7 @@ Here are a few other Loonshots that we’re currently exploring:
 ## Relations
 
 depends_on:: [[Studio]]
-depends_on:: [[Cooperative]]
+depends_on:: [[Companies We Back]]
 
 
 ---
